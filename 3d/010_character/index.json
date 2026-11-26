@@ -1,0 +1,2074 @@
+{
+ "category": "3d_character",
+ "game": "bubblefighter-adventure",
+ "items": [
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       0.9137
+      ],
+      "outline": 0.00408955198,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.8856,
+       0.1584,
+       0.0957
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__bazzi_angle.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__bazzi_angle.glb",
+   "id": "bazzi_angel",
+   "name": "bazzi_angel",
+   "thumb": "010_character/bazzi_angel.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       0.9137
+      ],
+      "outline": 0.00408955198,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.8856,
+       0.1584,
+       0.0957
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__bazzi_bad.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__bazzi_bad.glb",
+   "id": "bazzi_bad",
+   "name": "bazzi_bad",
+   "thumb": "010_character/bazzi_bad.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       0.9137
+      ],
+      "outline": 0.00408955198,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.8856,
+       0.1584,
+       0.0957
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__bazzi_bear.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__bazzi_bear.glb",
+   "id": "bazzi_bear",
+   "name": "bazzi_bear",
+   "thumb": "010_character/bazzi_bear.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       0.9137
+      ],
+      "outline": 0.00408955198,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.8856,
+       0.1584,
+       0.0957
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__bazzi_cat.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__bazzi_cat.glb",
+   "id": "bazzi_cat",
+   "name": "bazzi_cat",
+   "thumb": "010_character/bazzi_cat.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       0.9137
+      ],
+      "outline": 0.00408955198,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.8856,
+       0.1584,
+       0.0957
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__bazzi_defualt.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__bazzi_defualt.glb",
+   "id": "bazzi_default",
+   "name": "bazzi_default",
+   "thumb": "010_character/bazzi_default.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       0.9137
+      ],
+      "outline": 0.00408955198,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.8856,
+       0.1584,
+       0.0957
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__bazzi_explorer.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__bazzi_explorer.glb",
+   "id": "bazzi_explorer",
+   "name": "bazzi_explorer",
+   "thumb": "010_character/bazzi_explorer.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       0.9137
+      ],
+      "outline": 0.00408955198,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.8856,
+       0.1584,
+       0.0957
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__bazzi_hood.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__bazzi_hood.glb",
+   "id": "bazzi_hood",
+   "name": "bazzi_hood",
+   "thumb": "010_character/bazzi_hood.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       0.9137
+      ],
+      "outline": 0.00408955198,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.8856,
+       0.1584,
+       0.0957
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__bazzi_studentF.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__bazzi_studentF.glb",
+   "id": "bazzi_studentF",
+   "name": "bazzi_studentF",
+   "thumb": "010_character/bazzi_studentF.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       0.9137
+      ],
+      "outline": 0.00408955198,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.8856,
+       0.1584,
+       0.0957
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__bazzi_studentM.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__bazzi_studentM.glb",
+   "id": "bazzi_studentM",
+   "name": "bazzi_studentM",
+   "thumb": "010_character/bazzi_studentM.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       0.9137
+      ],
+      "outline": 0.00408955151,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.0,
+       0.4627,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__dao_angle.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__dao_angle.glb",
+   "id": "dao_angel",
+   "name": "dao_angel",
+   "thumb": "010_character/dao_angel.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       0.9137
+      ],
+      "outline": 0.00408955151,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.0,
+       0.4627,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__dao_bad.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__dao_bad.glb",
+   "id": "dao_bad",
+   "name": "dao_bad",
+   "thumb": "010_character/dao_bad.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       0.9137
+      ],
+      "outline": 0.00408955151,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.0,
+       0.4627,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__dao_bear.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__dao_bear.glb",
+   "id": "dao_bear",
+   "name": "dao_bear",
+   "thumb": "010_character/dao_bear.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       0.9137
+      ],
+      "outline": 0.00408955151,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.0,
+       0.4627,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__dao_cat.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__dao_cat.glb",
+   "id": "dao_cat",
+   "name": "dao_cat",
+   "thumb": "010_character/dao_cat.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       0.9137
+      ],
+      "outline": 0.00408955151,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.0,
+       0.4627,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__dao_default.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__dao_default.glb",
+   "id": "dao_default",
+   "name": "dao_default",
+   "thumb": "010_character/dao_default.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       0.9137
+      ],
+      "outline": 0.00408955151,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.0,
+       0.4627,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__dao_explorer.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__dao_explorer.glb",
+   "id": "dao_explorer",
+   "name": "dao_explorer",
+   "thumb": "010_character/dao_explorer.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       0.9137
+      ],
+      "outline": 0.00408955151,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.0,
+       0.4627,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__dao_hood.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__dao_hood.glb",
+   "id": "dao_hood",
+   "name": "dao_hood",
+   "thumb": "010_character/dao_hood.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       0.9137
+      ],
+      "outline": 0.00408955151,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.0,
+       0.4627,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__dao_studentF.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__dao_studentF.glb",
+   "id": "dao_studentF",
+   "name": "dao_studentF",
+   "thumb": "010_character/dao_studentF.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       0.9137
+      ],
+      "outline": 0.00408955151,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.0,
+       0.4627,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__dao_studentM.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__dao_studentM.glb",
+   "id": "dao_studentM",
+   "name": "dao_studentM",
+   "thumb": "010_character/dao_studentM.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       0.9405,
+       0.9405,
+       0.9405
+      ],
+      "outline": 0.00408955198,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.903,
+       0.7266,
+       0.1146
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__dizini_angle.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__dizini_angle.glb",
+   "id": "dizini_angel",
+   "name": "dizini_angel",
+   "thumb": "010_character/dizini_angel.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       0.9405,
+       0.9405,
+       0.9405
+      ],
+      "outline": 0.00408955198,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.903,
+       0.7266,
+       0.1146
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__dizini_bad.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__dizini_bad.glb",
+   "id": "dizini_bad",
+   "name": "dizini_bad",
+   "thumb": "010_character/dizini_bad.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       0.9405,
+       0.9405,
+       0.9405
+      ],
+      "outline": 0.00408955198,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.903,
+       0.7266,
+       0.1146
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__dizini_bad.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__dizini_bad.glb",
+   "id": "dizini_bad_1_fe6293eb",
+   "name": "dizini_bad 1",
+   "thumb": "010_character/dizini_bad_1_fe6293eb.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       0.9405,
+       0.9405,
+       0.9405
+      ],
+      "outline": 0.00408955198,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.903,
+       0.7266,
+       0.1146
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__dizini_bear.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__dizini_bear.glb",
+   "id": "dizini_bear",
+   "name": "dizini_bear",
+   "thumb": "010_character/dizini_bear.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       0.9405,
+       0.9405,
+       0.9405
+      ],
+      "outline": 0.00408955198,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.903,
+       0.7266,
+       0.1146
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__dizini_cat.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__dizini_cat.glb",
+   "id": "dizini_cat",
+   "name": "dizini_cat",
+   "thumb": "010_character/dizini_cat.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       0.9405,
+       0.9405,
+       0.9405
+      ],
+      "outline": 0.00408955198,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.903,
+       0.7266,
+       0.1146
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__dizini_defualt.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__dizini_defualt.glb",
+   "id": "dizini_default",
+   "name": "dizini_default",
+   "thumb": "010_character/dizini_default.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       0.9405,
+       0.9405,
+       0.9405
+      ],
+      "outline": 0.00408955198,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.903,
+       0.7266,
+       0.1146
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__dizini_explorer.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__dizini_explorer.glb",
+   "id": "dizini_explorer",
+   "name": "dizini_explorer",
+   "thumb": "010_character/dizini_explorer.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       0.9405,
+       0.9405,
+       0.9405
+      ],
+      "outline": 0.00408955198,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.903,
+       0.7266,
+       0.1146
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__dizini_hood.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__dizini_hood.glb",
+   "id": "dizini_hood",
+   "name": "dizini_hood",
+   "thumb": "010_character/dizini_hood.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       0.9405,
+       0.9405,
+       0.9405
+      ],
+      "outline": 0.00408955198,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.903,
+       0.7266,
+       0.1146
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__dizini_studentF.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__dizini_studentF.glb",
+   "id": "dizini_studentF",
+   "name": "dizini_studentF",
+   "thumb": "010_character/dizini_studentF.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       0.9405,
+       0.9405,
+       0.9405
+      ],
+      "outline": 0.00408955198,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.903,
+       0.7266,
+       0.1146
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__dizini_studentM.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__dizini_studentM.glb",
+   "id": "dizini_studentM",
+   "name": "dizini_studentM",
+   "thumb": "010_character/dizini_studentM.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       0.9367,
+       0.9249
+      ],
+      "outline": 0.00408955244,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/npc_all_a4de8c.png",
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__NPC__racoon_bazzi_oneMesh_re.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       6.86,
+       6.86,
+       6.86
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__NPC__racoon_bazzi_oneMesh_re.glb",
+   "id": "racoon_bazzi",
+   "name": "racoon_bazzi",
+   "thumb": "010_character/racoon_bazzi.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       0.9367,
+       0.9249
+      ],
+      "outline": 0.00408955244,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/npc_all_a4de8c.png",
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__NPC__racoon_dao_oneMesh.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       5.8,
+       5.8,
+       5.8
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__NPC__racoon_dao_oneMesh.glb",
+   "id": "racoon_dao",
+   "name": "racoon_dao",
+   "thumb": "010_character/racoon_dao.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       0.9367,
+       0.9249
+      ],
+      "outline": 0.00408955244,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/npc_all_a4de8c.png",
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__NPC__racoon_dao_named_oneMesh.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__NPC__racoon_dao_named_oneMesh.glb",
+   "id": "racoon_dao_named",
+   "name": "racoon_dao_named",
+   "thumb": "010_character/racoon_dao_named.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       0.9367,
+       0.9249
+      ],
+      "outline": 0.00408955244,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/npc_all_a4de8c.png",
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__NPC__racoon_kephi_oneMesh.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       9.9,
+       9.9,
+       9.9
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__NPC__racoon_kephi_oneMesh.glb",
+   "id": "racoon_kephi",
+   "name": "racoon_kephi",
+   "thumb": "010_character/racoon_kephi.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       0.9367,
+       0.9249
+      ],
+      "outline": 0.00408955244,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/npc_all_a4de8c.png",
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__NPC__racoon_kephi_named_oneMesh.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       9.9,
+       9.9,
+       9.99
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__NPC__racoon_kephi_named_oneMesh.glb",
+   "id": "racoon_kephi_named",
+   "name": "racoon_kephi_named",
+   "thumb": "010_character/racoon_kephi_named.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       0.9367,
+       0.9249
+      ],
+      "outline": 0.00408955244,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/npc_all_a4de8c.png",
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__NPC__racoon_uni_oneMesh.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       4.78,
+       4.5,
+       4.78
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__NPC__racoon_uni_oneMesh.glb",
+   "id": "racoon_uni",
+   "name": "racoon_uni",
+   "thumb": "010_character/racoon_uni.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       0.9367,
+       0.9249
+      ],
+      "outline": 0.00408955244,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/npc_all_a4de8c.png",
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__NPC__racoon_uni_named_oneMesh.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       4.78,
+       4.5,
+       4.78
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__NPC__racoon_uni_named_oneMesh.glb",
+   "id": "racoon_uni_named",
+   "name": "racoon_uni_named",
+   "thumb": "010_character/racoon_uni_named.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       0.9367,
+       0.9249
+      ],
+      "outline": 0.00408955244,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/npc_all_a4de8c.png",
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__NPC__npc_Lomi_oneMesh.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       6.5,
+       6.05585,
+       6.25568
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__NPC__npc_Lomi_oneMesh.glb",
+   "id": "town_Lomi_d3675321",
+   "label": "town_Lomi",
+   "name": "town_Lomi ",
+   "thumb": "010_character/town_Lomi_d3675321.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       0.9367,
+       0.9249
+      ],
+      "outline": 0.00408955244,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/npc_all_a4de8c.png",
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__NPC__zombie_oneMesh.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       5.8,
+       5.8,
+       5.8
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__NPC__zombie_oneMesh.glb",
+   "id": "town_Zombie",
+   "name": "town_Zombie",
+   "thumb": "010_character/town_Zombie.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       0.9137
+      ],
+      "outline": 0.00408955291,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.0,
+       0.6866,
+       0.2902
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__uni_angle.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__uni_angle.glb",
+   "id": "uni_angel",
+   "name": "uni_angel",
+   "thumb": "010_character/uni_angel.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       0.9137
+      ],
+      "outline": 0.00408955291,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.0,
+       0.6866,
+       0.2902
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__uni_bad.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.23442,
+       7.23442,
+       7.23442
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__uni_bad.glb",
+   "id": "uni_bad",
+   "name": "uni_bad",
+   "thumb": "010_character/uni_bad.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       0.9137
+      ],
+      "outline": 0.00408955291,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.0,
+       0.6866,
+       0.2902
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__uni_bear.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__uni_bear.glb",
+   "id": "uni_bear",
+   "name": "uni_bear",
+   "thumb": "010_character/uni_bear.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       0.9137
+      ],
+      "outline": 0.00408955291,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.0,
+       0.6866,
+       0.2902
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__uni_cat.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__uni_cat.glb",
+   "id": "uni_cat",
+   "name": "uni_cat",
+   "thumb": "010_character/uni_cat.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       0.9137
+      ],
+      "outline": 0.00408955291,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.0,
+       0.6866,
+       0.2902
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__uni_defualt.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__uni_defualt.glb",
+   "id": "uni_default",
+   "name": "uni_default",
+   "thumb": "010_character/uni_default.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       0.9137
+      ],
+      "outline": 0.00408955291,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.0,
+       0.6866,
+       0.2902
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__uni_explorer.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__uni_explorer.glb",
+   "id": "uni_explorer",
+   "name": "uni_explorer",
+   "thumb": "010_character/uni_explorer.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       0.9137
+      ],
+      "outline": 0.00408955291,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.0,
+       0.6866,
+       0.2902
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__uni_hood.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__uni_hood.glb",
+   "id": "uni_hood",
+   "name": "uni_hood",
+   "thumb": "010_character/uni_hood.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       0.9137
+      ],
+      "outline": 0.00408955291,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.0,
+       0.6866,
+       0.2902
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__uni_studentF.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__uni_studentF.glb",
+   "id": "uni_studentF",
+   "name": "uni_studentF",
+   "thumb": "010_character/uni_studentF.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       0.9137
+      ],
+      "outline": 0.00408955291,
+      "outlineColor": [
+       0.1176,
+       0.1176,
+       0.1176
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/char_all_2e8cda.png",
+      "tint": [
+       0.0,
+       0.6866,
+       0.2902
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__uni_studentM.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__uni_studentM.glb",
+   "id": "uni_studentM",
+   "name": "uni_studentM",
+   "thumb": "010_character/uni_studentM.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       0.9367,
+       0.9249
+      ],
+      "outline": 0.00408955244,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/npc_all_a4de8c.png",
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Characters__NPC__zombie_oneMesh.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       5.8,
+       5.8,
+       5.8
+      ]
+     }
+    ],
+    "type": "character"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Characters__NPC__zombie_oneMesh.glb",
+   "id": "zombie",
+   "name": "zombie",
+   "thumb": "010_character/zombie.webp"
+  }
+ ],
+ "schema": "boomhill-open-assets/model-list/v1",
+ "title": "캐릭터"
+}

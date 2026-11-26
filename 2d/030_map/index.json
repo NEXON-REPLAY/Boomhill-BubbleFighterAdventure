@@ -1,0 +1,494 @@
+{
+ "assets": [
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__icon_desert_castle",
+   "name": "Atlases/map/map/icon_desert_castle",
+   "sheet": {
+    "h": 126,
+    "w": 126
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__icon_desert_defence",
+   "name": "Atlases/map/map/icon_desert_defence",
+   "sheet": {
+    "h": 126,
+    "w": 126
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__icon_desert_oneway",
+   "name": "Atlases/map/map/icon_desert_oneway",
+   "sheet": {
+    "h": 126,
+    "w": 126
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__icon_desert_pharaoh",
+   "name": "Atlases/map/map/icon_desert_pharaoh",
+   "sheet": {
+    "h": 126,
+    "w": 126
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__icon_desert_temple",
+   "name": "Atlases/map/map/icon_desert_temple",
+   "sheet": {
+    "h": 126,
+    "w": 126
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__icon_forest_hill",
+   "name": "Atlases/map/map/icon_forest_hill",
+   "sheet": {
+    "h": 126,
+    "w": 126
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__icon_forest_peterpan",
+   "name": "Atlases/map/map/icon_forest_peterpan",
+   "sheet": {
+    "h": 126,
+    "w": 126
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__icon_forest_ravine",
+   "name": "Atlases/map/map/icon_forest_ravine",
+   "sheet": {
+    "h": 126,
+    "w": 126
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__icon_forest_water",
+   "name": "Atlases/map/map/icon_forest_water",
+   "sheet": {
+    "h": 126,
+    "w": 126
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__icon_ice_twobridge",
+   "name": "Atlases/map/map/icon_ice_twobridge",
+   "sheet": {
+    "h": 126,
+    "w": 126
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__icon_village_byway",
+   "name": "Atlases/map/map/icon_village_byway",
+   "sheet": {
+    "h": 126,
+    "w": 126
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__icon_village_circlepark",
+   "name": "Atlases/map/map/icon_village_circlepark",
+   "sheet": {
+    "h": 126,
+    "w": 126
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__icon_village_cityhall",
+   "name": "Atlases/map/map/icon_village_cityhall",
+   "sheet": {
+    "h": 126,
+    "w": 126
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__icon_village_daohouse",
+   "name": "Atlases/map/map/icon_village_daohouse",
+   "sheet": {
+    "h": 126,
+    "w": 126
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__icon_village_easy",
+   "name": "Atlases/map/map/icon_village_easy",
+   "sheet": {
+    "h": 126,
+    "w": 126
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__icon_village_playground",
+   "name": "Atlases/map/map/icon_village_playground",
+   "sheet": {
+    "h": 126,
+    "w": 126
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__icon_village_station",
+   "name": "Atlases/map/map/icon_village_station",
+   "sheet": {
+    "h": 126,
+    "w": 126
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__icon_village_waterpark",
+   "name": "Atlases/map/map/icon_village_waterpark",
+   "sheet": {
+    "h": 126,
+    "w": 126
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__list_desert_castle",
+   "name": "Atlases/map/map/list_desert_castle",
+   "sheet": {
+    "h": 37,
+    "w": 198
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__list_desert_defence",
+   "name": "Atlases/map/map/list_desert_defence",
+   "sheet": {
+    "h": 37,
+    "w": 198
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__list_desert_oneway",
+   "name": "Atlases/map/map/list_desert_oneway",
+   "sheet": {
+    "h": 37,
+    "w": 198
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__list_desert_pharaoh",
+   "name": "Atlases/map/map/list_desert_pharaoh",
+   "sheet": {
+    "h": 37,
+    "w": 198
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__list_desert_temple",
+   "name": "Atlases/map/map/list_desert_temple",
+   "sheet": {
+    "h": 37,
+    "w": 198
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__list_forest_hill",
+   "name": "Atlases/map/map/list_forest_hill",
+   "sheet": {
+    "h": 37,
+    "w": 198
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__list_forest_peterpan",
+   "name": "Atlases/map/map/list_forest_peterpan",
+   "sheet": {
+    "h": 37,
+    "w": 198
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__list_forest_ravine",
+   "name": "Atlases/map/map/list_forest_ravine",
+   "sheet": {
+    "h": 37,
+    "w": 198
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__list_forest_water",
+   "name": "Atlases/map/map/list_forest_water",
+   "sheet": {
+    "h": 37,
+    "w": 198
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__list_ice_twobridge",
+   "name": "Atlases/map/map/list_ice_twobridge",
+   "sheet": {
+    "h": 37,
+    "w": 198
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__list_village_byway",
+   "name": "Atlases/map/map/list_village_byway",
+   "sheet": {
+    "h": 37,
+    "w": 198
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__list_village_circlepark",
+   "name": "Atlases/map/map/list_village_circlepark",
+   "sheet": {
+    "h": 37,
+    "w": 198
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__list_village_cityhall",
+   "name": "Atlases/map/map/list_village_cityhall",
+   "sheet": {
+    "h": 37,
+    "w": 198
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__list_village_daohouse",
+   "name": "Atlases/map/map/list_village_daohouse",
+   "sheet": {
+    "h": 37,
+    "w": 198
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__list_village_easy",
+   "name": "Atlases/map/map/list_village_easy",
+   "sheet": {
+    "h": 37,
+    "w": 198
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__list_village_playground",
+   "name": "Atlases/map/map/list_village_playground",
+   "sheet": {
+    "h": 37,
+    "w": 198
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__list_village_station",
+   "name": "Atlases/map/map/list_village_station",
+   "sheet": {
+    "h": 37,
+    "w": 198
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__map__map__list_village_waterpark",
+   "name": "Atlases/map/map/list_village_waterpark",
+   "sheet": {
+    "h": 37,
+    "w": 198
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__townbg__townbg__img_fence",
+   "name": "Atlases/townbg/townbg/img_fence",
+   "sheet": {
+    "h": 47,
+    "w": 136
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__townbg__townbg__img_house01",
+   "name": "Atlases/townbg/townbg/img_house01",
+   "sheet": {
+    "h": 248,
+    "w": 504
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__townbg__townbg__img_house02",
+   "name": "Atlases/townbg/townbg/img_house02",
+   "sheet": {
+    "h": 199,
+    "w": 258
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__townbg__townbg__img_house03",
+   "name": "Atlases/townbg/townbg/img_house03",
+   "sheet": {
+    "h": 277,
+    "w": 349
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__townbg__townbg__img_layer3",
+   "name": "Atlases/townbg/townbg/img_layer3",
+   "sheet": {
+    "h": 290,
+    "w": 1015
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__townbg__townbg__img_tile",
+   "name": "Atlases/townbg/townbg/img_tile",
+   "sheet": {
+    "h": 164,
+    "w": 1020
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__zombiebg__light__light_1",
+   "name": "Atlases/zombiebg/light/light_1",
+   "sheet": {
+    "h": 128,
+    "w": 126
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__zombiebg__light__light_2",
+   "name": "Atlases/zombiebg/light/light_2",
+   "sheet": {
+    "h": 128,
+    "w": 126
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__zombiebg__light__light_3",
+   "name": "Atlases/zombiebg/light/light_3",
+   "sheet": {
+    "h": 128,
+    "w": 126
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__zombiebg__light__light_4",
+   "name": "Atlases/zombiebg/light/light_4",
+   "sheet": {
+    "h": 128,
+    "w": 126
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__zombiebg__light__light_5",
+   "name": "Atlases/zombiebg/light/light_5",
+   "sheet": {
+    "h": 128,
+    "w": 126
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__zombiebg__lightning__lightning_01",
+   "name": "Atlases/zombiebg/lightning/lightning_01",
+   "sheet": {
+    "h": 89,
+    "w": 93
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__zombiebg__lightning__lightning_02",
+   "name": "Atlases/zombiebg/lightning/lightning_02",
+   "sheet": {
+    "h": 89,
+    "w": 93
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__zombiebg__lightning__lightning_03",
+   "name": "Atlases/zombiebg/lightning/lightning_03",
+   "sheet": {
+    "h": 89,
+    "w": 93
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__zombiebg__lightning__lightning_04",
+   "name": "Atlases/zombiebg/lightning/lightning_04",
+   "sheet": {
+    "h": 89,
+    "w": 93
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__zombiebg__zombiebg__bg_dark",
+   "name": "Atlases/zombiebg/zombiebg/bg_dark",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__zombiebg__zombiebg__bg_zombie",
+   "name": "Atlases/zombiebg/zombiebg/bg_zombie",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__zombiebg__zombiebg__img_sky_zombie",
+   "name": "Atlases/zombiebg/zombiebg/img_sky_zombie",
+   "sheet": {
+    "h": 242,
+    "w": 621
+   }
+  }
+ ],
+ "game": "bubblefighter-adventure",
+ "group": "030_map",
+ "schema": "boomhill-open-assets/index/v1",
+ "title": "맵, 배경"
+}

@@ -1,0 +1,33 @@
+{
+ "materials": [
+  {
+   "alpha": true,
+   "tex": "_shared/textures/skybox_one_74dfda.png"
+  }
+ ],
+ "parts": [
+  {
+   "glb": "_shared/parts/gltf__Models__map__common__skybox.glb",
+   "mats": [
+    0
+   ],
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    1.0,
+    0.5,
+    1.0
+   ],
+   "sky": true
+  }
+ ]
+}

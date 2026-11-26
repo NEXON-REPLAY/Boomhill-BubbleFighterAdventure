@@ -1,0 +1,3587 @@
+{
+ "files": [
+  {
+   "bytes": 8329,
+   "path": "010_ui/Atlases__actionMsg__Message__UI_battle_waveCount1.png",
+   "sha256": "a8f63a4c7499986bcb575d1061c906850b1610c8d6d36a6ee5e22fd4b513c686"
+  },
+  {
+   "bytes": 9023,
+   "path": "010_ui/Atlases__actionMsg__Message__UI_battle_waveCount2.png",
+   "sha256": "01bac577292f3dbfca2c5c05fbdcb28294a5fa906b58879fd78f9d89f0b6e8b7"
+  },
+  {
+   "bytes": 9153,
+   "path": "010_ui/Atlases__actionMsg__Message__UI_battle_waveCount3.png",
+   "sha256": "a1627588b6dc0c625e8de453cdac1670dceaee0fe23ff21fc2008a5f1357e896"
+  },
+  {
+   "bytes": 12932,
+   "path": "010_ui/Atlases__actionMsg__Message__UI_battle_waveCount_final.png",
+   "sha256": "09855a8a7b4e700d04b7b273437fa040d09ce6d10eb37c5fa5376ed638007d58"
+  },
+  {
+   "bytes": 5912,
+   "path": "010_ui/Atlases__actionMsg__Message__message_burst_pang.png",
+   "sha256": "67bbaec1658caaba28cf31ae150d487a271d0fe3390e72a9a839bd1a98ecc89b"
+  },
+  {
+   "bytes": 5884,
+   "path": "010_ui/Atlases__actionMsg__Message__message_fight_again.png",
+   "sha256": "6b1c66795a973dc2f05a0611932f3778487d3cfd800aca926954f224332b0021"
+  },
+  {
+   "bytes": 5209,
+   "path": "010_ui/Atlases__actionMsg__Message__message_nice_boom.png",
+   "sha256": "5beb565efd3ca92cde655b7e34f4381acfe354c1760c9f240df33963d7f42b63"
+  },
+  {
+   "bytes": 6919,
+   "path": "010_ui/Atlases__actionMsg__Message__message_nice_help.png",
+   "sha256": "4c97faee6d367f919a75cab467eac2a3b6712becbd869e732056d99d7898bdac"
+  },
+  {
+   "bytes": 5083,
+   "path": "010_ui/Atlases__actionMsg__Message__message_nice_pang.png",
+   "sha256": "2f9a0864b36a31adf8f2b3fe1300a1b12ad35b3228f225059f8d2c3deae740cc"
+  },
+  {
+   "bytes": 4938,
+   "path": "010_ui/Atlases__actionMsg__Message__message_nice_shot.png",
+   "sha256": "8b9af59152fc85c92d0b5a428d42b2dac4ea85323b298b2eaed0c62777b7c1eb"
+  },
+  {
+   "bytes": 3755,
+   "path": "010_ui/Atlases__actionMsg__Message__message_oops.png",
+   "sha256": "23d53b3bf6b6740debd32b15eba800d17c1a70487e5794ca81de544b78f87327"
+  },
+  {
+   "bytes": 5932,
+   "path": "010_ui/Atlases__actionMsg__Message__message_super_pang.png",
+   "sha256": "1074652a5ac778f904a55c1f9002ca01371345ee30b0a03c21c7e9bfc70579a6"
+  },
+  {
+   "bytes": 1611,
+   "path": "010_ui/Atlases__actionMsg__Message__target_realod_Text.png",
+   "sha256": "27e045984b51e3e223e1e9a26f60e59d3e2b2676fdbcf85efbc826541917ce36"
+  },
+  {
+   "bytes": 8793,
+   "path": "010_ui/Atlases__actionMsg__Message__text_fail.png",
+   "sha256": "ce29d393958e82e8122e497f6f69810f49c4905114460d340596bcfff6587c88"
+  },
+  {
+   "bytes": 1544,
+   "path": "010_ui/Atlases__actionMsg__Message__text_mission.png",
+   "sha256": "ab016793ba3624073700b0310e281c358f86a2128470db8e1eed1164cc2f3d59"
+  },
+  {
+   "bytes": 9234,
+   "path": "010_ui/Atlases__actionMsg__Message__text_success.png",
+   "sha256": "1e98714c257a447383fa579ce0d2f83af9eb0240fbb29f0e8b31caf98c22941f"
+  },
+  {
+   "bytes": 36265,
+   "path": "010_ui/Atlases__actionMsg__Message__ui_text_fight.png",
+   "sha256": "010a8c6b40b2f2956ebeba03a80b3a2674209b093e052016a5889f22ebb8f63e"
+  },
+  {
+   "bytes": 13211,
+   "path": "010_ui/Atlases__actionMsg__Message__ui_text_gameover.png",
+   "sha256": "6248423cfeb33ebbd9fcbb01f6787b4e0e5937e9a4b2cb03611df8de7429d80a"
+  },
+  {
+   "bytes": 25137,
+   "path": "010_ui/Atlases__actionMsg__Message__ui_text_ready.png",
+   "sha256": "64019bf6e9a6b5d0f0dbaac8e88250062a6cf6ca2db7e858004d2b0f38aeaad9"
+  },
+  {
+   "bytes": 21631,
+   "path": "010_ui/Atlases__actionMsg__Message__ui_text_timeover.png",
+   "sha256": "122ed0419efe5f206055e6f838ee3ac1559b3e4ea8e1c798b79c5dadf798c5c2"
+  },
+  {
+   "bytes": 73,
+   "path": "010_ui/Atlases__action__battle__bar_reward.png",
+   "sha256": "0ec923b9946e0915127f13003f138d7ed6ff7c3557900e4987e5e86186ffab35"
+  },
+  {
+   "bytes": 139,
+   "path": "010_ui/Atlases__action__battle__bg_blue_gaugebar.png",
+   "sha256": "7194e59373155eea6a17716aa86867ac79108f10709de32fcb63023b47255754"
+  },
+  {
+   "bytes": 1466,
+   "path": "010_ui/Atlases__action__battle__bg_count.png",
+   "sha256": "c36661ce383f555352bbcd18d50d9062a99eecf55a2789b139f4fc92f643d3db"
+  },
+  {
+   "bytes": 8463,
+   "path": "010_ui/Atlases__action__battle__bg_damage_eventbox.png",
+   "sha256": "7f8ba7c911a570d3d997013ff5ca5fcd50f2dfdc7cb25ea1f75a0553efd0faa1"
+  },
+  {
+   "bytes": 77,
+   "path": "010_ui/Atlases__action__battle__bg_enemy_gauge.png",
+   "sha256": "509656531844275dbdec75b5cd444cd335b4e6496723217d327c6139052895a8"
+  },
+  {
+   "bytes": 105,
+   "path": "010_ui/Atlases__action__battle__bg_enemy_gaugebar.png",
+   "sha256": "05b2934d76ee647cd89bbff9a4a0e7f48e53f0584d9b04f5d64621baad7ba917"
+  },
+  {
+   "bytes": 1991,
+   "path": "010_ui/Atlases__action__battle__bg_hp.png",
+   "sha256": "5bd79b01f5b43a4e81c4719b43f425035adfe4be149ef8aff4274fbc3a9ab23c"
+  },
+  {
+   "bytes": 392,
+   "path": "010_ui/Atlases__action__battle__bg_mission.png",
+   "sha256": "a27884978f0a31660078a91789faf158a12e5ac0ecd19c91249bdd0197de25a5"
+  },
+  {
+   "bytes": 3551,
+   "path": "010_ui/Atlases__action__battle__bg_score_l.png",
+   "sha256": "87f900c2841798bbe6ec8a2fec27515225eb2c0ccf1998fec34a1ecf2fd18654"
+  },
+  {
+   "bytes": 1566,
+   "path": "010_ui/Atlases__action__battle__bg_score_l_event.png",
+   "sha256": "f84f68228e83f1329cf10aa3c15ea5464bb44b90736dedecb8858a8f57814af3"
+  },
+  {
+   "bytes": 4154,
+   "path": "010_ui/Atlases__action__battle__bg_score_r.png",
+   "sha256": "6ab18cad5f5fde7dbceb202d23da2ae8a719a64a940fc0ec41d60c6e27599d27"
+  },
+  {
+   "bytes": 1687,
+   "path": "010_ui/Atlases__action__battle__bg_score_r_event.png",
+   "sha256": "9b1b1e387b093b7a57bb52da04ce7e1a9355991fc3237dd0662214eed54182a8"
+  },
+  {
+   "bytes": 2553,
+   "path": "010_ui/Atlases__action__battle__bg_time.png",
+   "sha256": "ef8fbe688095a1c35b0ab1ba1b8f07110f9c8eba471af1c974a28b3e1c982c3d"
+  },
+  {
+   "bytes": 1510,
+   "path": "010_ui/Atlases__action__battle__bg_time_event.png",
+   "sha256": "99a704d179a2ff91ffc65e74f262d9ac5f4c32a9818109f2850cc5295e8e591f"
+  },
+  {
+   "bytes": 2348,
+   "path": "010_ui/Atlases__action__battle__bg_time_eventbox.png",
+   "sha256": "95d4a186efe65ca8f5fc7f94cf924d7722c3ed34f0cca2e132bf9c7df1fbeef9"
+  },
+  {
+   "bytes": 744,
+   "path": "010_ui/Atlases__action__battle__box_gauge.png",
+   "sha256": "54cf109ffe8bc9a532b965c1e871aa65b29c82bb77377a3de6232a078f28028e"
+  },
+  {
+   "bytes": 2930,
+   "path": "010_ui/Atlases__action__battle__btn_gun.png",
+   "sha256": "638e9d195891863b7153ff2c87a43e1c8142f2881433b1b57edc87376de0543e"
+  },
+  {
+   "bytes": 2170,
+   "path": "010_ui/Atlases__action__battle__btn_item.png",
+   "sha256": "fd91b6c28068b5feba2dc1ee1a446660848cd0e0a1c8b13904da6edd4972325f"
+  },
+  {
+   "bytes": 8057,
+   "path": "010_ui/Atlases__action__battle__btn_joystick.png",
+   "sha256": "af281d5c0d05b81bd2f419ef12f14468bc549ee0093448454ed939d8cee7adc8"
+  },
+  {
+   "bytes": 5778,
+   "path": "010_ui/Atlases__action__battle__btn_joystick_pad.png",
+   "sha256": "965e01786c9abe2d5f63f954902bd65049d82e55a81ffeb1b04ede10d3155de9"
+  },
+  {
+   "bytes": 2620,
+   "path": "010_ui/Atlases__action__battle__btn_pause.png",
+   "sha256": "b3ba03a40bf55c4b1bee0396d684ca7ddbe181cc83972ee20e5635ec0bf5b2d6"
+  },
+  {
+   "bytes": 12129,
+   "path": "010_ui/Atlases__action__battle__control_action.png",
+   "sha256": "98cbc682c74c4f4b9b92a4361018284cb9335c149aafd6a1f4abde14dc90f16e"
+  },
+  {
+   "bytes": 7598,
+   "path": "010_ui/Atlases__action__battle__control_direction.png",
+   "sha256": "294e2dffe61ae97cb76b6931deebe29a1ea2890694ba6ba4b415334af62165e5"
+  },
+  {
+   "bytes": 7857,
+   "path": "010_ui/Atlases__action__battle__control_jump.png",
+   "sha256": "5bfaac2e325ff9812164a85a85b512de6c925b2c797ee09359765dd8cade7e12"
+  },
+  {
+   "bytes": 7364,
+   "path": "010_ui/Atlases__action__battle__control_zoom.png",
+   "sha256": "7d6579410d42bc3fdad6bb197bbaddcd12a83be601af022d47ee221da6ca4693"
+  },
+  {
+   "bytes": 3126,
+   "path": "010_ui/Atlases__action__battle__count_text1.png",
+   "sha256": "9a4c22572a697d23d72587e528d8ef48408c13c90a18dd0ddffda2b76fa2d3db"
+  },
+  {
+   "bytes": 5713,
+   "path": "010_ui/Atlases__action__battle__count_text2.png",
+   "sha256": "3ef2f8c16e6d6d7d7aac39061714a376b86836ad0a61660b4d4ca79c1d108edb"
+  },
+  {
+   "bytes": 6554,
+   "path": "010_ui/Atlases__action__battle__count_text3.png",
+   "sha256": "e9560067035bfa884285a40053748a7fc433d61bf7db83758c8cc53ba6ebaf71"
+  },
+  {
+   "bytes": 5728,
+   "path": "010_ui/Atlases__action__battle__eff_powerup1.png",
+   "sha256": "f449327ec289beb2b72ef7bb8e548f54f4178d722e4b8cc88d1057132004f1af"
+  },
+  {
+   "bytes": 5632,
+   "path": "010_ui/Atlases__action__battle__eff_powerup2.png",
+   "sha256": "cff649ec0300289dfba8d04b53f4fccc8fa47939376f89a2c73450c3209578fa"
+  },
+  {
+   "bytes": 220,
+   "path": "010_ui/Atlases__action__battle__font_mission__mission_0.png",
+   "sha256": "81a9c2ee7fe994c81cc50bbf23e834b23eed7234b7326f1b5fbd1fee68fef024"
+  },
+  {
+   "bytes": 177,
+   "path": "010_ui/Atlases__action__battle__font_mission__mission_1.png",
+   "sha256": "8da6c24e2cbe725dc6fc3d0420d4db2e9d02bb777c477ad7a1116ca204ba427d"
+  },
+  {
+   "bytes": 214,
+   "path": "010_ui/Atlases__action__battle__font_mission__mission_2.png",
+   "sha256": "fb25ff37779b361ccd7aad650d213c827378800ef29f50077c7ed36be475b82c"
+  },
+  {
+   "bytes": 224,
+   "path": "010_ui/Atlases__action__battle__font_mission__mission_3.png",
+   "sha256": "9ac1069b9e7fcacd323d5c11c842ca2dde60d1fcb5869ed5a154ac2ac6719175"
+  },
+  {
+   "bytes": 209,
+   "path": "010_ui/Atlases__action__battle__font_mission__mission_4.png",
+   "sha256": "b319262d921eba7153dd7263694ac848cd55afdc6454df7fb845e662e8864454"
+  },
+  {
+   "bytes": 212,
+   "path": "010_ui/Atlases__action__battle__font_mission__mission_5.png",
+   "sha256": "5fdc8966278474b3db15c2d9c026700c84d75917d3e7f283852bbe2d0d66a623"
+  },
+  {
+   "bytes": 227,
+   "path": "010_ui/Atlases__action__battle__font_mission__mission_6.png",
+   "sha256": "3c17a4a4b01ff90ca2eaecc722f67fde1c6ac795c778170490aa4ce4c6f98e97"
+  },
+  {
+   "bytes": 183,
+   "path": "010_ui/Atlases__action__battle__font_mission__mission_7.png",
+   "sha256": "143707f3d51a4a7ca5963d4db492cdc87b438f969bfefc537ddecb28612fddfb"
+  },
+  {
+   "bytes": 228,
+   "path": "010_ui/Atlases__action__battle__font_mission__mission_8.png",
+   "sha256": "36d7576009fcac98a645cba853df8b6b43aa4203bbd904b58f44e696968cf4dd"
+  },
+  {
+   "bytes": 224,
+   "path": "010_ui/Atlases__action__battle__font_mission__mission_9.png",
+   "sha256": "e0724b478c60c7955d5e1342065dc2d3bf76a6f2cc716d54c1fc4e056e88dfae"
+  },
+  {
+   "bytes": 177,
+   "path": "010_ui/Atlases__action__battle__font_mission__mission_slash.png",
+   "sha256": "2523ef7c403a3476b231ae0c302f59585bc49c0e8a309b5a9bc4a53c1066de21"
+  },
+  {
+   "bytes": 1402,
+   "path": "010_ui/Atlases__action__battle__font_score__score_0.png",
+   "sha256": "82107b3cdea73533cbcb2dc979c2ade849d5488b712de69e9b273eee66e36cfd"
+  },
+  {
+   "bytes": 919,
+   "path": "010_ui/Atlases__action__battle__font_score__score_1.png",
+   "sha256": "1b7c625deeb743b98f87511614071e5a15a1a020f95452acd61fb37e87c5bf8b"
+  },
+  {
+   "bytes": 1467,
+   "path": "010_ui/Atlases__action__battle__font_score__score_2.png",
+   "sha256": "0ac33963090b9cf3e78134fc898865fa92488ee2b16200e328d09b6c7f9c4583"
+  },
+  {
+   "bytes": 1251,
+   "path": "010_ui/Atlases__action__battle__font_score__score_3.png",
+   "sha256": "ea024999c02f111ad94f47c29f8f08c811ac58530f3816b538c8414c06254a88"
+  },
+  {
+   "bytes": 1286,
+   "path": "010_ui/Atlases__action__battle__font_score__score_4.png",
+   "sha256": "80200499e2f9b4970bca202c66a2e943cb82b2c51005acc4ab05b63c4fa5df6b"
+  },
+  {
+   "bytes": 1304,
+   "path": "010_ui/Atlases__action__battle__font_score__score_5.png",
+   "sha256": "1f4ccec04ae1f9d1dd7a316b2c3f2948d9217b47b76151620fcd788a5034db29"
+  },
+  {
+   "bytes": 1405,
+   "path": "010_ui/Atlases__action__battle__font_score__score_6.png",
+   "sha256": "172017cad2819ac2cf2d74fc0fa9694962f20609370078d4bc293a7ee83a7212"
+  },
+  {
+   "bytes": 1167,
+   "path": "010_ui/Atlases__action__battle__font_score__score_7.png",
+   "sha256": "3cb07b1134974a61193bda5bac069f389076a4d6facf6db004a794cd96dd69cd"
+  },
+  {
+   "bytes": 1386,
+   "path": "010_ui/Atlases__action__battle__font_score__score_8.png",
+   "sha256": "d211a40101df9ee791800bbdb752a2e59ea8be553133ed5aeaecbb0c13e15a16"
+  },
+  {
+   "bytes": 1353,
+   "path": "010_ui/Atlases__action__battle__font_score__score_9.png",
+   "sha256": "be56ed071071ec0fb5b029f5967307e737fc538b65e0a21e3377f1b356daeb13"
+  },
+  {
+   "bytes": 419,
+   "path": "010_ui/Atlases__action__battle__font_time__time_0.png",
+   "sha256": "9627e703f19415aee9a5eafe4714b1d760a78560e1eaeb66c2d87e99b1520c4d"
+  },
+  {
+   "bytes": 302,
+   "path": "010_ui/Atlases__action__battle__font_time__time_1.png",
+   "sha256": "d3d38a48b09f1e9e76e3966d901f21b3ee49beaac1ad6ad67d904085a04ff55e"
+  },
+  {
+   "bytes": 358,
+   "path": "010_ui/Atlases__action__battle__font_time__time_2.png",
+   "sha256": "ae36effcf1a872d239b0b3fe47b1f8c6fa8c56173b24c527d0e28cb820f0ccef"
+  },
+  {
+   "bytes": 350,
+   "path": "010_ui/Atlases__action__battle__font_time__time_3.png",
+   "sha256": "076a5d8dbf42bc65cee372936e3eb092262359b101412b59195dbd88a791a8ae"
+  },
+  {
+   "bytes": 367,
+   "path": "010_ui/Atlases__action__battle__font_time__time_4.png",
+   "sha256": "7ac7ad1c411f4cc51fca59e19b23d42cf0fe4f18ea827d0a7363eec014558e34"
+  },
+  {
+   "bytes": 352,
+   "path": "010_ui/Atlases__action__battle__font_time__time_5.png",
+   "sha256": "b849e8ee25a3a5eaddfec1ca709fd2c1272add301a20a9d1350aaaa6ed0f2fef"
+  },
+  {
+   "bytes": 367,
+   "path": "010_ui/Atlases__action__battle__font_time__time_6.png",
+   "sha256": "14a4b55ff00901c5f38649a35a304dc2eb3bd901a9256f72d5f56205e8540550"
+  },
+  {
+   "bytes": 303,
+   "path": "010_ui/Atlases__action__battle__font_time__time_7.png",
+   "sha256": "9a195ff1cc10a55e7321accd69f7f7cdef9ea25a2f76cd1bb55ac5411e33c2ae"
+  },
+  {
+   "bytes": 419,
+   "path": "010_ui/Atlases__action__battle__font_time__time_8.png",
+   "sha256": "8f782b28a326fce3e69b829cca9040566269edf8dd29e5e7c5bad27ed449f6a8"
+  },
+  {
+   "bytes": 393,
+   "path": "010_ui/Atlases__action__battle__font_time__time_9.png",
+   "sha256": "40ce0d7889e50aacca57f8649e896eeb747ec07f070192ffdc89e00ef0ae8068"
+  },
+  {
+   "bytes": 1841,
+   "path": "010_ui/Atlases__action__battle__hp_gauge.png",
+   "sha256": "030234f650105e73742f097f0ec6ec0c4af41deea0fe25fea7eaf25cd74eeee8"
+  },
+  {
+   "bytes": 725,
+   "path": "010_ui/Atlases__action__battle__img_heart.png",
+   "sha256": "fe7ba5b6a0a65de65d1e140ab22099fca5a8f3e018cc7e6ccda7a3e10002ba21"
+  },
+  {
+   "bytes": 1706,
+   "path": "010_ui/Atlases__action__battle__img_hunting.png",
+   "sha256": "ffd4c59eb7e11ae3dddf48c5ab67bb0607123863cb44ad5e81009a094a65ad8c"
+  },
+  {
+   "bytes": 1491,
+   "path": "010_ui/Atlases__action__battle__img_pang.png",
+   "sha256": "f9ba76c8957d8a9cfdf2878476ee5db93c40d03aa51e9c07197cc008ca4bef65"
+  },
+  {
+   "bytes": 1481,
+   "path": "010_ui/Atlases__action__battle__img_zombie.png",
+   "sha256": "3d4428927720a012fa6678d0f48af5aee095dc47314117d6501b245c890df27d"
+  },
+  {
+   "bytes": 928,
+   "path": "010_ui/Atlases__action__battle__img_zoom.png",
+   "sha256": "acba775aebba35086845f08fcc817305a25e2a6e782ffb4fed040ef56466a05a"
+  },
+  {
+   "bytes": 724,
+   "path": "010_ui/Atlases__action__battle__target_enemyLock.png",
+   "sha256": "166bb86a4c35714dd44c0e3957dac63bb065ca706ce2c7d05fb8c9a6a986e161"
+  },
+  {
+   "bytes": 1908,
+   "path": "010_ui/Atlases__action__battle__target_pistolNormal.png",
+   "sha256": "94ae3509817ede9d0c108dd8c90918f04ff14b5ac4db5935ac5001e4f7e6c43b"
+  },
+  {
+   "bytes": 2860,
+   "path": "010_ui/Atlases__action__battle__target_pistolReload.png",
+   "sha256": "23112fd48693a331bbdec7b469d776e89c7902d8bf4f50c61994390721fc69b5"
+  },
+  {
+   "bytes": 2582,
+   "path": "010_ui/Atlases__action__battle__target_pistolTarget.png",
+   "sha256": "47b9e028e5e4443058ffd72f6c31ff705fdaff577e202a41a8bef36483b3ed02"
+  },
+  {
+   "bytes": 9688,
+   "path": "010_ui/Atlases__action__battle__target_rifleNormal.png",
+   "sha256": "68348a0967092980c54766160eb9f68d464f5cb12a4789def71be24c863039f9"
+  },
+  {
+   "bytes": 1179,
+   "path": "010_ui/Atlases__action__battle__target_rifleShoot.png",
+   "sha256": "96b0266209edc98784ac25b9d769306d1dc5eb9554c902b3e7327e66d7f483e8"
+  },
+  {
+   "bytes": 8838,
+   "path": "010_ui/Atlases__action__battle__target_rifleTarget.png",
+   "sha256": "b3c9f6dd58fe0c98fdf69e1ec10278f4d336cbbbd658f922b7fb0c76724b34fa"
+  },
+  {
+   "bytes": 13084,
+   "path": "010_ui/Atlases__action__battle__target_shotgunNormal.png",
+   "sha256": "ebbd798aec034abef98a4960019cd5b3b5c38557ca5b565250eb2817d85aa547"
+  },
+  {
+   "bytes": 13130,
+   "path": "010_ui/Atlases__action__battle__target_shotgunTarget.png",
+   "sha256": "dee12b21691e202ba190c8f86134b86e79a7fb75f9f0beb00e8bdb9bf89eecf6"
+  },
+  {
+   "bytes": 1131,
+   "path": "010_ui/Atlases__action__battle__target_sniperOut_01.png",
+   "sha256": "6484222fe602e7a3194d27417e90f8301aa6036b98841403e2c4aa995f7e805b"
+  },
+  {
+   "bytes": 503,
+   "path": "010_ui/Atlases__action__battle__target_sniperPoint.png",
+   "sha256": "10f6298703c3bff95c252bc5987a92d559dbe07cc7142e425ff3bc8f14456102"
+  },
+  {
+   "bytes": 25077,
+   "path": "010_ui/Atlases__action__battle__target_sniperZoom.png",
+   "sha256": "8fbe3490cde2c209f16f02d090aa2b3d1513f6f1a67e2e5bddfa84ae87b9aa9d"
+  },
+  {
+   "bytes": 78357,
+   "path": "010_ui/Atlases__battleDesc__img_box.png",
+   "sha256": "6863a024dbaffecfe31c1c6d6186607e11cee2c6833a8fd767471f38eaf710df"
+  },
+  {
+   "bytes": 60547,
+   "path": "010_ui/Atlases__battleDesc__img_destroy.png",
+   "sha256": "0f7f8cc334a34db76417a5936fe186226daf3f36c1e1b2e91d11eaad5685ee4c"
+  },
+  {
+   "bytes": 62428,
+   "path": "010_ui/Atlases__battleDesc__img_hammer.png",
+   "sha256": "a7ce6eb89994bae516434aa80da34a8001ae7e2f6651557c067ec0585dcd99d4"
+  },
+  {
+   "bytes": 64008,
+   "path": "010_ui/Atlases__battleDesc__img_hunting.png",
+   "sha256": "17e1121101801c6fdced2668d9267fce5f21b790397715d1644c09becd99552e"
+  },
+  {
+   "bytes": 58310,
+   "path": "010_ui/Atlases__battleDesc__img_team.png",
+   "sha256": "87bd5910446966596d2d6f3e4df1cf0d26d6aea50bde061efe22c4d7357cf48b"
+  },
+  {
+   "bytes": 66810,
+   "path": "010_ui/Atlases__battleDesc__img_zombie.png",
+   "sha256": "ac487d15ccff15b304b8f05f80dbd3c816e8e982a41ecf234ba0cf225d0d0e60"
+  },
+  {
+   "bytes": 3328,
+   "path": "010_ui/Atlases__dialog__billing__icon_coin1.png",
+   "sha256": "42d023fe72bd1097aff95528b70a1934f4d3b01ac0393dc4d284e5aec2d18d07"
+  },
+  {
+   "bytes": 3906,
+   "path": "010_ui/Atlases__dialog__billing__icon_coin2.png",
+   "sha256": "71fca9ca27d2163f328dda50640d7c95073c8d0022ede72afc6ef3baa574bf08"
+  },
+  {
+   "bytes": 5506,
+   "path": "010_ui/Atlases__dialog__billing__icon_coin3.png",
+   "sha256": "a8bbbd5aedea42f6885ef47a5dcf49d58eb78183eb544d629d64687df8e2d8f8"
+  },
+  {
+   "bytes": 5719,
+   "path": "010_ui/Atlases__dialog__billing__icon_coin4.png",
+   "sha256": "94b3a5105834a004da4c56c02eda67251b08e989b4501e2efe532b234a7beb8f"
+  },
+  {
+   "bytes": 1185,
+   "path": "010_ui/Atlases__dialog__billing__icon_lucci1.png",
+   "sha256": "26c44e3398386d765cf760b994e852b1efe0ca6c1ba5cf4a9a52a8093dd016d0"
+  },
+  {
+   "bytes": 2601,
+   "path": "010_ui/Atlases__dialog__billing__icon_lucci2.png",
+   "sha256": "50f0f7e97ec0b261a8350ac7c3b3f96fe9e880e409e1ea9b2f76fd93d26e8d69"
+  },
+  {
+   "bytes": 5367,
+   "path": "010_ui/Atlases__dialog__billing__icon_lucci3.png",
+   "sha256": "1b6a964b8e78ef55a3c95244d55ddf88688f9e5c1dd3ddc27b213c1ea752bdcc"
+  },
+  {
+   "bytes": 6219,
+   "path": "010_ui/Atlases__dialog__billing__icon_lucci4.png",
+   "sha256": "0a8072cb338060a79eca7a9f7b6939bf9d0ef91b6b88f0f6b89a9a1b20df29cb"
+  },
+  {
+   "bytes": 2213,
+   "path": "010_ui/Atlases__dialog__billing__img_best.png",
+   "sha256": "3b156d9896937c3a3fb4bdda10bd577ae83f58bd64b55f147d373d572c6185e6"
+  },
+  {
+   "bytes": 131,
+   "path": "010_ui/Atlases__dialog__billing__tab_blue.png",
+   "sha256": "5035ea6ec676bfdc0c51bff237fac165ba50cfdafee9a11f8042dabaef1c2d26"
+  },
+  {
+   "bytes": 139,
+   "path": "010_ui/Atlases__dialog__billing__tab_blue_inert.png",
+   "sha256": "182c1ad8fb637ec680d56d95965a1b8e5063b63cafe9cc30984338752fc1d308"
+  },
+  {
+   "bytes": 3180,
+   "path": "010_ui/Atlases__dialog__btn__btn_accept.png",
+   "sha256": "f80fec924725ca3c4ba2ca8cd8fc159493e48af752081dc2b4bd87c82e857c24"
+  },
+  {
+   "bytes": 3250,
+   "path": "010_ui/Atlases__dialog__btn__btn_add.png",
+   "sha256": "cc8e90043e2a4429a608db894a3d77fe92fde4a30fb8a3d4d95fa02cb4c49f4d"
+  },
+  {
+   "bytes": 5638,
+   "path": "010_ui/Atlases__dialog__btn__btn_add_l.png",
+   "sha256": "09b0fdca7190da3b71bd938b7b329a9421321cc4994df586a5a4182ae478db8d"
+  },
+  {
+   "bytes": 5407,
+   "path": "010_ui/Atlases__dialog__btn__btn_add_r.png",
+   "sha256": "821a0831f4313b111e3f6c111c3bd5c54538074d031b122f86a965f69889095f"
+  },
+  {
+   "bytes": 3519,
+   "path": "010_ui/Atlases__dialog__btn__btn_bookmark_a.png",
+   "sha256": "89c5bae87c53dc28d38adef7eadd8bdfab873f57bc1441a8aa7216867a8ab498"
+  },
+  {
+   "bytes": 3563,
+   "path": "010_ui/Atlases__dialog__btn__btn_bookmark_n.png",
+   "sha256": "279b7cf0d8df4a1d877589f8c21a6bce1fe58a826d1e7d134a682534141bbc0c"
+  },
+  {
+   "bytes": 1801,
+   "path": "010_ui/Atlases__dialog__btn__btn_buy.png",
+   "sha256": "35da49ec97abb7ce7c58db3b9df934db6b36f150ac44b5c87164e19df509ce3b"
+  },
+  {
+   "bytes": 3144,
+   "path": "010_ui/Atlases__dialog__btn__btn_delete.png",
+   "sha256": "94657878311d5e38ae628b22b1475bab3b35fe1efe4ee8ee2427a8b1a806b9fc"
+  },
+  {
+   "bytes": 3239,
+   "path": "010_ui/Atlases__dialog__btn__btn_enter.png",
+   "sha256": "fe05f84477dd9e6e4ca5043c920fcbb7fa6870c2ce2f0f22e04dfa5cd57739ec"
+  },
+  {
+   "bytes": 10212,
+   "path": "010_ui/Atlases__dialog__btn__btn_find.png",
+   "sha256": "ce4adac49a8e03cd1ae2b6c38de7c2f5fbe97a35307f5a729599757154e94c77"
+  },
+  {
+   "bytes": 8764,
+   "path": "010_ui/Atlases__dialog__btn__btn_friend.png",
+   "sha256": "fe5c1846137630cf7b78b9659654046817698757b59036526f6b5cb132c9f3dd"
+  },
+  {
+   "bytes": 6876,
+   "path": "010_ui/Atlases__dialog__btn__btn_help.png",
+   "sha256": "ae6967262aa0c3e623b256780e846b9291e85914f3f1196358aae020afea6280"
+  },
+  {
+   "bytes": 3914,
+   "path": "010_ui/Atlases__dialog__btn__btn_info.png",
+   "sha256": "ac24e41d5e6ca11b2282ddfa50672cfd1a93e94ff1ed1d54300540f6b9ca9a38"
+  },
+  {
+   "bytes": 1150,
+   "path": "010_ui/Atlases__dialog__btn__btn_intact.png",
+   "sha256": "9d708dc411d1a02f22956424803376f9d146709c8f8ecd409cb79b0ab54f0960"
+  },
+  {
+   "bytes": 6987,
+   "path": "010_ui/Atlases__dialog__btn__btn_make.png",
+   "sha256": "17ee2d079ab538535940a1bd22b3c6de408bfb350aaaad212fc4ec8345fcf877"
+  },
+  {
+   "bytes": 347,
+   "path": "010_ui/Atlases__dialog__btn__btn_medium.png",
+   "sha256": "61a45ea307c23c4571cbee012875ad56e3b61fb934c0379dd1c3555e6c89b617"
+  },
+  {
+   "bytes": 255,
+   "path": "010_ui/Atlases__dialog__btn__btn_medium_neg.png",
+   "sha256": "f02d873a5bca734576762b3289db85f52632ad00eee28e893160c37f4ea2534d"
+  },
+  {
+   "bytes": 1264,
+   "path": "010_ui/Atlases__dialog__btn__btn_next.png",
+   "sha256": "7b2cbf4fa49139ebeda6633ee2a5dab9d639238e7e0e6ac2fdb19cdbcb3f8008"
+  },
+  {
+   "bytes": 1254,
+   "path": "010_ui/Atlases__dialog__btn__btn_pre.png",
+   "sha256": "db44c81a8ecb4ba10f46c0a0b2ad5202a7c318a05dceb9fda7300a113755d4ea"
+  },
+  {
+   "bytes": 3613,
+   "path": "010_ui/Atlases__dialog__btn__btn_reject.png",
+   "sha256": "2a74a35a903d3d8bd1e4a3e7b9c06cb917a6ce7accda4b554e12843ebe0e62f3"
+  },
+  {
+   "bytes": 3452,
+   "path": "010_ui/Atlases__dialog__btn__btn_search.png",
+   "sha256": "2de37c81d34146c99c415cbacf94fb1c66bcbecd20fea139310ac926424cf345"
+  },
+  {
+   "bytes": 2109,
+   "path": "010_ui/Atlases__dialog__btn__btn_select_a.png",
+   "sha256": "b37f60f749f8857f85cf99a604686c5f0e3e2c4a5a1aab022630116797e9e344"
+  },
+  {
+   "bytes": 161,
+   "path": "010_ui/Atlases__dialog__btn__btn_select_n.png",
+   "sha256": "232c978a815d94881e0f74039f7d563b250f00dc78ec4fc9101454acf41c7d77"
+  },
+  {
+   "bytes": 343,
+   "path": "010_ui/Atlases__dialog__btn__btn_small.png",
+   "sha256": "4a78ef226fbec88314cbc8adcaaad9f4ca48a581edb2ddbe28296abf2eb8ed77"
+  },
+  {
+   "bytes": 7315,
+   "path": "010_ui/Atlases__dialog__btn__btn_start.png",
+   "sha256": "fbaffdab104349c4af2e6836962f4384c5b076ab23b42a068e7a6f28c65a2b5b"
+  },
+  {
+   "bytes": 3526,
+   "path": "010_ui/Atlases__dialog__btn__btn_subtract.png",
+   "sha256": "e8262f8f02075fb5d3700e726550e9de89bd52b8b4a1cc2a57933f673a3d110b"
+  },
+  {
+   "bytes": 8233,
+   "path": "010_ui/Atlases__dialog__btn__btn_team_blue.png",
+   "sha256": "9373e9b588d718d52fff2863f472ea6a17f598d9cb8d36ae188b5e689c78187f"
+  },
+  {
+   "bytes": 7590,
+   "path": "010_ui/Atlases__dialog__btn__btn_team_red.png",
+   "sha256": "57b24028b5a92ed645c9ed2f5d9fde65e91c7e90b18cdc6703abeeae8f487c0f"
+  },
+  {
+   "bytes": 3828,
+   "path": "010_ui/Atlases__dialog__btn__btn_x.png",
+   "sha256": "e2e7d73e7982fb83cae065367033e4682309ce2ab3bca06c26e028b1ce3e1ddd"
+  },
+  {
+   "bytes": 1079,
+   "path": "010_ui/Atlases__dialog__btn__img_check.png",
+   "sha256": "586d049d278955bc3b4f964adfdab6dc84934ce9e9bd6f4c7454aaaa37deb76b"
+  },
+  {
+   "bytes": 278,
+   "path": "010_ui/Atlases__dialog__btn__img_checkbox.png",
+   "sha256": "6af9d29fd6b73ae16ded68fc22c20572387e71868b38da145b3851a6261a7f09"
+  },
+  {
+   "bytes": 2572,
+   "path": "010_ui/Atlases__dialog__btn__town_coin.png",
+   "sha256": "5100db58827cd36541aeecd2b97f6ebcc669ce81151390a580fc0eb5ecf2d098"
+  },
+  {
+   "bytes": 2382,
+   "path": "010_ui/Atlases__dialog__btn__town_lucci.png",
+   "sha256": "aea7e91a335d6ed51462872ece6b1ac0ed394b0d326eee23dcee291f475c4292"
+  },
+  {
+   "bytes": 2378,
+   "path": "010_ui/Atlases__dialog__btn__town_news.png",
+   "sha256": "232ea17dcbf69b46e600f79595687961dedd9c8258ad5ba35760df27f3ecc4db"
+  },
+  {
+   "bytes": 2305,
+   "path": "010_ui/Atlases__dialog__btn__town_setting.png",
+   "sha256": "b72b0f4da3da3a3e15c6d2ff53a3be270f183287e08859af115d1d51d6477ac2"
+  },
+  {
+   "bytes": 363,
+   "path": "010_ui/Atlases__dialog__common__bar_complete.png",
+   "sha256": "587f2189db875f4b83d194299aca801a4718b0e7239b7a2a465e11b93baf7025"
+  },
+  {
+   "bytes": 602,
+   "path": "010_ui/Atlases__dialog__common__bar_destroy.png",
+   "sha256": "63eb01ff9161a86bbb3deb9f0f4ae80520db6a08a600c4359ad127272a03e958"
+  },
+  {
+   "bytes": 476,
+   "path": "010_ui/Atlases__dialog__common__bar_event.png",
+   "sha256": "294420a3d4f00d052b93846b7b1b7b3275db871bf107d625f2fe51ce75e2f6b2"
+  },
+  {
+   "bytes": 500,
+   "path": "010_ui/Atlases__dialog__common__bar_exp.png",
+   "sha256": "2bbd65980ad1cfdc94da89dbea4571c2accc79d8afeb25c27f8cba3f9087b454"
+  },
+  {
+   "bytes": 372,
+   "path": "010_ui/Atlases__dialog__common__bar_gauge.png",
+   "sha256": "ea634bb71f6a2f21403ff60305a952d2844cca1fd97196b414b38cde54426045"
+  },
+  {
+   "bytes": 238,
+   "path": "010_ui/Atlases__dialog__common__bar_lock.png",
+   "sha256": "917fb679de9e3a1808f1eb16b6023db19be03cb43daa858784ccb356cb7b11e1"
+  },
+  {
+   "bytes": 278,
+   "path": "010_ui/Atlases__dialog__common__bar_normal.png",
+   "sha256": "c87eb24fbc4fe77116683f42d1fcb9fd132f214b0190c5a31fd57f15030e857c"
+  },
+  {
+   "bytes": 453,
+   "path": "010_ui/Atlases__dialog__common__bar_stm.png",
+   "sha256": "c2b12c0a85693a1de0c8e1488f6e457cc7585a0b2cb7faa3cc5947a1eb433d5f"
+  },
+  {
+   "bytes": 541,
+   "path": "010_ui/Atlases__dialog__common__bar_team.png",
+   "sha256": "483215586c2d1c49139631357978bbfbcd5b03fad0e7222d67d09b97f31c6cc2"
+  },
+  {
+   "bytes": 254,
+   "path": "010_ui/Atlases__dialog__common__bar_title.png",
+   "sha256": "e8fe0e06e5ee63cc880f4e6fc4c877d89552c978d14d1cfa9bf30dd21e7d6acc"
+  },
+  {
+   "bytes": 438,
+   "path": "010_ui/Atlases__dialog__common__bar_tutorial.png",
+   "sha256": "bfc84f363781eb0d14b117dd08abcb59cef4075131220cd424b2f41e29acb812"
+  },
+  {
+   "bytes": 173,
+   "path": "010_ui/Atlases__dialog__common__bg.png",
+   "sha256": "4c4f5aa252620b1022b6ace040ebd79aaa0321e1da1e0256143a33b2d0e59332"
+  },
+  {
+   "bytes": 67,
+   "path": "010_ui/Atlases__dialog__common__bg_black.png",
+   "sha256": "3f64f43cf293d43b0afa76464102615666d4069fa5a92c85eb40e29a0f982bb8"
+  },
+  {
+   "bytes": 132,
+   "path": "010_ui/Atlases__dialog__common__bg_character.png",
+   "sha256": "297e978b1e72fd385cebb5cfc213573cfbfb51cc0b8150429c2e1cd1b028e459"
+  },
+  {
+   "bytes": 139,
+   "path": "010_ui/Atlases__dialog__common__bg_coral.png",
+   "sha256": "92a36b48e69a06e6732dfa2f6bcbeab9f6d45c17d8c99e0294019248aa79bba7"
+  },
+  {
+   "bytes": 207,
+   "path": "010_ui/Atlases__dialog__common__bg_desc.png",
+   "sha256": "9e3b2bab3b803ac3d33a6c95ab396afd712997109a5b7108741fe28430d4b54e"
+  },
+  {
+   "bytes": 147,
+   "path": "010_ui/Atlases__dialog__common__bg_frame.png",
+   "sha256": "7712ef5823a2556a8f948c4b19e92e188c834fdc3e6205d5ca595e058831fe95"
+  },
+  {
+   "bytes": 152,
+   "path": "010_ui/Atlases__dialog__common__bg_gauge.png",
+   "sha256": "128ada80b2b05103d1ce96de61d6ffd2a161af4509db11069ab1984da5c62b6c"
+  },
+  {
+   "bytes": 275,
+   "path": "010_ui/Atlases__dialog__common__bg_list.png",
+   "sha256": "ae4231e6c71909b55286b7acb5e7dee3ab0febb02ff0f48595f09b34b5ef53b6"
+  },
+  {
+   "bytes": 170,
+   "path": "010_ui/Atlases__dialog__common__bg_subtitle.png",
+   "sha256": "a2affe447e65600dd47204829acbc821bc996dfc24ff66f462eb1a6978d70729"
+  },
+  {
+   "bytes": 231,
+   "path": "010_ui/Atlases__dialog__common__bg_unit.png",
+   "sha256": "cf7ae12d5a672dd3c6887bf18153de1ed11fdee03859557efdb4a5d4d123e7d7"
+  },
+  {
+   "bytes": 139,
+   "path": "010_ui/Atlases__dialog__common__bg_violet.png",
+   "sha256": "98f75d340203e47d6228c52a4514834dc89aa4718bc41a499f0384447c49be5f"
+  },
+  {
+   "bytes": 69,
+   "path": "010_ui/Atlases__dialog__common__bg_white.png",
+   "sha256": "8c43da77c4e644d665ce81a1d6f7d01d0338b5ffd3d0f9a902a7ac468dcc3221"
+  },
+  {
+   "bytes": 206,
+   "path": "010_ui/Atlases__dialog__common__btn_close.png",
+   "sha256": "432360fc3059b80f8617ed9173c94d4d829edfce36fedf7925ac12606a70c596"
+  },
+  {
+   "bytes": 1429,
+   "path": "010_ui/Atlases__dialog__common__icon_coin.png",
+   "sha256": "012412d81dde440d66c36b6a38152b97e98060134adc05940251d90e7dfad30e"
+  },
+  {
+   "bytes": 2311,
+   "path": "010_ui/Atlases__dialog__common__icon_coin_a.png",
+   "sha256": "3395f9134379c75feb5d9125f6bc2f40abd2f5ebc81a95cf7d1d56f41c93913a"
+  },
+  {
+   "bytes": 2311,
+   "path": "010_ui/Atlases__dialog__common__icon_coin_d.png",
+   "sha256": "8ba860bd1a0e210dcf6a9c5870ef4731d5f739fe3f5c8f0165765dbce1ae58ef"
+  },
+  {
+   "bytes": 2037,
+   "path": "010_ui/Atlases__dialog__common__icon_exp.png",
+   "sha256": "3c0fcd0940d6f17848aefdc7787fcaef08a900eee9bdec565892084d0b3f110e"
+  },
+  {
+   "bytes": 2181,
+   "path": "010_ui/Atlases__dialog__common__icon_inven_a.png",
+   "sha256": "d5e05f7ca76f8b23ea2a68ac29444134fc4d46261ea32d6ed30da113af841392"
+  },
+  {
+   "bytes": 1955,
+   "path": "010_ui/Atlases__dialog__common__icon_inven_d.png",
+   "sha256": "468269a8aba44f73588bb4cc0e8f02d5c1b466f9894362f30f95af51e9b80184"
+  },
+  {
+   "bytes": 1557,
+   "path": "010_ui/Atlases__dialog__common__icon_lock.png",
+   "sha256": "0bef80d72e0ed1cf3019c4329c97e9b3c7b026e24c587fcb9cb6ce68a929e21a"
+  },
+  {
+   "bytes": 492,
+   "path": "010_ui/Atlases__dialog__common__icon_lucci.png",
+   "sha256": "e718aa63bfdd7ff9f3595c87a804456bb5cd85c510de6480dc2d0ad7df08761c"
+  },
+  {
+   "bytes": 1890,
+   "path": "010_ui/Atlases__dialog__common__icon_shop_a.png",
+   "sha256": "1571328a686194dae2908164c17f07ce819def6ef5a908607f06c5ceb1088e22"
+  },
+  {
+   "bytes": 1492,
+   "path": "010_ui/Atlases__dialog__common__icon_shop_d.png",
+   "sha256": "8f1d2bcf4b55f4c03edc2b90831aaf7ac4ec7bc661fe30465826a14c62c0154f"
+  },
+  {
+   "bytes": 1579,
+   "path": "010_ui/Atlases__dialog__common__icon_stm.png",
+   "sha256": "6a79837fd991bab1d2fb774b768a69c5cbdc0baaf102b57d14bbc43f9399f34d"
+  },
+  {
+   "bytes": 1704,
+   "path": "010_ui/Atlases__dialog__common__img_date.png",
+   "sha256": "6b41f606bcda4ed4b0317005593991f34946205fabac155088db8bf1152311bd"
+  },
+  {
+   "bytes": 4653,
+   "path": "010_ui/Atlases__dialog__common__img_tip.png",
+   "sha256": "3a963562409d8bdc65a168aed1b6af1eb022caf5dbb13828ed09fb26a39b317b"
+  },
+  {
+   "bytes": 120,
+   "path": "010_ui/Atlases__dialog__common__img_title.png",
+   "sha256": "2d5a35c125dd4649584f2248f52f166f56b8371e0566d415ffecf4acf8e7e116"
+  },
+  {
+   "bytes": 173,
+   "path": "010_ui/Atlases__dialog__common__mode_bg_destroy.png",
+   "sha256": "251d29e39b37604663f4ca54602e83b6d9fac028768ae00edbc299723b16c372"
+  },
+  {
+   "bytes": 173,
+   "path": "010_ui/Atlases__dialog__common__mode_bg_normal.png",
+   "sha256": "981f918f159ada46f26da7533ce78000c1f89f95ae92074f828fd635e3ab89fd"
+  },
+  {
+   "bytes": 173,
+   "path": "010_ui/Atlases__dialog__common__mode_bg_team.png",
+   "sha256": "93c3aabb5a67f7d527f621a7d02b016b3786c59d6697865d87597d9db5440d6c"
+  },
+  {
+   "bytes": 173,
+   "path": "010_ui/Atlases__dialog__common__mode_complete.png",
+   "sha256": "80c7cbf343a7ebfa55d0f17105d7d0a526b65e9248544b630a38b6fd68f0a6aa"
+  },
+  {
+   "bytes": 181,
+   "path": "010_ui/Atlases__dialog__common__mode_tutorial.png",
+   "sha256": "bb354838bf87fa85f859722fa4dac731c824d68a17a1188f7fd1e0c44fad2c6f"
+  },
+  {
+   "bytes": 263,
+   "path": "010_ui/Atlases__dialog__common__select.png",
+   "sha256": "a1ebdf56467cab84cd0eed4f07b4576c438349b2c83d86622a669ef5c6713099"
+  },
+  {
+   "bytes": 399,
+   "path": "010_ui/Atlases__dialog__common__slot_exp.png",
+   "sha256": "bd0c6f8fa58c85e5df3393bcac63c343202d2ada5abeba4f5bee65e24ffe6626"
+  },
+  {
+   "bytes": 1486,
+   "path": "010_ui/Atlases__dialog__common__slot_expand.png",
+   "sha256": "4adf9859d51dfe8a981ef7006efaf6e2563737e3ac04ff120d5974d82afcc472"
+  },
+  {
+   "bytes": 150,
+   "path": "010_ui/Atlases__dialog__common__slot_item.png",
+   "sha256": "d5fccb38ca5e2a77049a4703c071d292bc89e520d2bb016767e1c75141da87b1"
+  },
+  {
+   "bytes": 1666,
+   "path": "010_ui/Atlases__dialog__common__slot_mine.png",
+   "sha256": "1131ee204c4f6975003c8904e5d89d5b962f3ddd0d2b840532f954aba1d65d09"
+  },
+  {
+   "bytes": 417,
+   "path": "010_ui/Atlases__dialog__common__slot_stm.png",
+   "sha256": "f674f5175d45f5a2b852558f6432a90b666222f6052de4034c274041c39c6aa0"
+  },
+  {
+   "bytes": 263,
+   "path": "010_ui/Atlases__dialog__common__tab_activity.png",
+   "sha256": "3e25f06bb4bd1df54555bb9d4f8825bc7ccaa2e3a59aa8b4e7639fe7f1282a91"
+  },
+  {
+   "bytes": 89,
+   "path": "010_ui/Atlases__dialog__common__tab_body.png",
+   "sha256": "3da0995863e61ec95a210af90da938b5acf7eb50760b9740bedfff76b014deb1"
+  },
+  {
+   "bytes": 692,
+   "path": "010_ui/Atlases__dialog__common__tab_filter.png",
+   "sha256": "d9923ccc007fc849fff202bd4af8c7f8067af04917930d8156d6a1a50346231d"
+  },
+  {
+   "bytes": 85,
+   "path": "010_ui/Atlases__dialog__common__tab_filterbar.png",
+   "sha256": "b81dae4f3a8d64d0ee532ff13e08fe02fa856d63179f34eaa7c418c54b1b4d0d"
+  },
+  {
+   "bytes": 193,
+   "path": "010_ui/Atlases__dialog__common__tab_inert.png",
+   "sha256": "4f42d4fe7e43e9b741b5873f925230f1feca401733d679dfe3776c1946feb3cb"
+  },
+  {
+   "bytes": 89,
+   "path": "010_ui/Atlases__dialog__friend__bg_photo.png",
+   "sha256": "8f2ae53460121eca9fb2db94d2ccea96dee21c62d06a244bfaff6e29d1e89170"
+  },
+  {
+   "bytes": 290,
+   "path": "010_ui/Atlases__dialog__friend__font_page__font_page_0.png",
+   "sha256": "9d2acbf799025e5f83c2aa57b06c738795d5892c76183fad66b9e5b49906aa3d"
+  },
+  {
+   "bytes": 161,
+   "path": "010_ui/Atlases__dialog__friend__font_page__font_page_1.png",
+   "sha256": "31b6ef07b8b965b10b355be307f24e58ed34cde0e1c76fc5db1a1b9a7813a925"
+  },
+  {
+   "bytes": 260,
+   "path": "010_ui/Atlases__dialog__friend__font_page__font_page_2.png",
+   "sha256": "2c923b5a247a0507f95497f3c01f142464be9e97baaf772d7ebe557b55d5c0a7"
+  },
+  {
+   "bytes": 277,
+   "path": "010_ui/Atlases__dialog__friend__font_page__font_page_3.png",
+   "sha256": "767ed833246420efa567d8f54e75d49d02f323bfce0e1e1df48a10d59ecc13a1"
+  },
+  {
+   "bytes": 206,
+   "path": "010_ui/Atlases__dialog__friend__font_page__font_page_4.png",
+   "sha256": "7bf35ae86adc2b6696a69e0b4fbfbad46aa68718b35b1f90542923842907099c"
+  },
+  {
+   "bytes": 237,
+   "path": "010_ui/Atlases__dialog__friend__font_page__font_page_5.png",
+   "sha256": "fa1da16b407163c730a773acdb5e274b883aefac327180d7a7afc8d9b35d0b5a"
+  },
+  {
+   "bytes": 291,
+   "path": "010_ui/Atlases__dialog__friend__font_page__font_page_6.png",
+   "sha256": "00bc169c8c166f063470d856a8ce5c3b508b1471a390f753559859738367aa06"
+  },
+  {
+   "bytes": 225,
+   "path": "010_ui/Atlases__dialog__friend__font_page__font_page_7.png",
+   "sha256": "4259570605e26ad21369267493b4bc25aa84c761cc45e331ecdbab1fc06adcc8"
+  },
+  {
+   "bytes": 306,
+   "path": "010_ui/Atlases__dialog__friend__font_page__font_page_8.png",
+   "sha256": "a8fdd379cc0e45fb7ba9407e6d983cfe1e682d85862bc8ac48d573256a137c8f"
+  },
+  {
+   "bytes": 315,
+   "path": "010_ui/Atlases__dialog__friend__font_page__font_page_9.png",
+   "sha256": "6c00a47eda92c2526645232acd6a5be177a57b51b972527c6789fddbc046b000"
+  },
+  {
+   "bytes": 222,
+   "path": "010_ui/Atlases__dialog__friend__font_page__font_page_slash.png",
+   "sha256": "8824e3680ae1bbcfc485ba84f7818f285fad0017a79289667200909f0615cd3d"
+  },
+  {
+   "bytes": 1591,
+   "path": "010_ui/Atlases__dialog__info__img_number__img_number_01.png",
+   "sha256": "12f6bb027721d27a3a8eedad30be268a89a71dc3cd8574605e12e2b7426b955e"
+  },
+  {
+   "bytes": 1633,
+   "path": "010_ui/Atlases__dialog__info__img_number__img_number_02.png",
+   "sha256": "2663cf0d06670b8c01aa2800b55dee7e6ca0516db8f87af4baba62c1e77eb53e"
+  },
+  {
+   "bytes": 1641,
+   "path": "010_ui/Atlases__dialog__info__img_number__img_number_03.png",
+   "sha256": "7861033fa80081695579ffe578987a99d2016efffd0e26fe0ee3e160ba547b34"
+  },
+  {
+   "bytes": 1641,
+   "path": "010_ui/Atlases__dialog__info__img_number__img_number_04.png",
+   "sha256": "da57470241ec8e7738d72fd57fc7bfeed360bf60bfae29e3d91f121955095db8"
+  },
+  {
+   "bytes": 1630,
+   "path": "010_ui/Atlases__dialog__info__img_number__img_number_05.png",
+   "sha256": "5ccc88df4a823c81039e40fad71ca0450d2322c989af25eb46a4ffda2e25038b"
+  },
+  {
+   "bytes": 1649,
+   "path": "010_ui/Atlases__dialog__info__img_number__img_number_06.png",
+   "sha256": "856150c756b23ac0171290887fa196c8602f298b215ad6ab40843044beb76cc6"
+  },
+  {
+   "bytes": 1603,
+   "path": "010_ui/Atlases__dialog__info__img_number__img_number_07.png",
+   "sha256": "fe791afbcb2c87b85c451f328c7a99137b92f7a35613be6645e0900d2bf7d8ca"
+  },
+  {
+   "bytes": 1653,
+   "path": "010_ui/Atlases__dialog__info__img_number__img_number_08.png",
+   "sha256": "8487bd265b845fd43bdb5423d8a696b345ec86d05f1257bc255c2b0e7ef460e1"
+  },
+  {
+   "bytes": 1635,
+   "path": "010_ui/Atlases__dialog__info__img_number__img_number_09.png",
+   "sha256": "57d0ae616301e697c274266da4fa6b61d749cb7870c59830fe15a6d21e0d2ae7"
+  },
+  {
+   "bytes": 1629,
+   "path": "010_ui/Atlases__dialog__info__img_number__img_number_10.png",
+   "sha256": "3d22c64b124dae84d49c08109e79eac7a6617794aaba60fd5350f57592632d7f"
+  },
+  {
+   "bytes": 3971,
+   "path": "010_ui/Atlases__dialog__loading__loading_1.png",
+   "sha256": "4a3227f8ba765159f73982997f6b7eedf393803c2e9b46aeaefb30764b71ba17"
+  },
+  {
+   "bytes": 4210,
+   "path": "010_ui/Atlases__dialog__loading__loading_10.png",
+   "sha256": "e2a05f52c9a412ad891a1ea080ccda8f0b59079f75bd5c1129adf1984a92b543"
+  },
+  {
+   "bytes": 4213,
+   "path": "010_ui/Atlases__dialog__loading__loading_2.png",
+   "sha256": "4d913ac165e9abfdb376cdb5b8710fd54163fa79715aeac3265dc80203fca5c0"
+  },
+  {
+   "bytes": 4213,
+   "path": "010_ui/Atlases__dialog__loading__loading_3.png",
+   "sha256": "31289aa70241bc25a61d9772e3dd32aa90cc432981cff9503b0e46571c31e77e"
+  },
+  {
+   "bytes": 4378,
+   "path": "010_ui/Atlases__dialog__loading__loading_4.png",
+   "sha256": "a34bf984502192f6ea51acc192f6f5f545ff8f0cd61526b56348f4f0231895ee"
+  },
+  {
+   "bytes": 4361,
+   "path": "010_ui/Atlases__dialog__loading__loading_5.png",
+   "sha256": "22a75eb057597b247f3f848fdae9fdb210522f22b7ed77d1985154e627bb3718"
+  },
+  {
+   "bytes": 4525,
+   "path": "010_ui/Atlases__dialog__loading__loading_6.png",
+   "sha256": "8d1344ca0fdd74dc0f27766aff9c77d9d8f984613e8c2035d41796bf53f001d3"
+  },
+  {
+   "bytes": 4560,
+   "path": "010_ui/Atlases__dialog__loading__loading_7.png",
+   "sha256": "db4214e6f74ead7f9c0d0033a702a7fcf0fe6c0e1bb971236d49b01779a3dec7"
+  },
+  {
+   "bytes": 4671,
+   "path": "010_ui/Atlases__dialog__loading__loading_8.png",
+   "sha256": "7e32ec574d1752b6b038e628360d9822cf61ae2ce329f2101629ce42f0d90948"
+  },
+  {
+   "bytes": 4661,
+   "path": "010_ui/Atlases__dialog__loading__loading_9.png",
+   "sha256": "eb6ab4d6bfa95c5aba9cc4fb48e75707eb6b100b8dfdd1a2d1d44eca1c41f513"
+  },
+  {
+   "bytes": 132,
+   "path": "010_ui/Atlases__dialog__multiplay__bg_red.png",
+   "sha256": "a62c14da93bf926efd3b4bd632488de76e6ecce7cc5b40e4a8580e3952430905"
+  },
+  {
+   "bytes": 18952,
+   "path": "010_ui/Atlases__dialog__multiplay__img_ethi.png",
+   "sha256": "7715f518134a4262be9a555d707945b272fe203d42c5c93dbee3b4b7cf9a3484"
+  },
+  {
+   "bytes": 2025,
+   "path": "010_ui/Atlases__dialog__multiplay__mark.png",
+   "sha256": "fb4476fc51bac64fbdfa5be3105e20c3cac524bcfc20ea7ae42cae5e89dfac8b"
+  },
+  {
+   "bytes": 3160,
+   "path": "010_ui/Atlases__dialog__multiplay__message__message1.png",
+   "sha256": "0948fd955ed9d8a72d767c2aa18520c12dc52667ae39345a7483f3df20385f49"
+  },
+  {
+   "bytes": 3262,
+   "path": "010_ui/Atlases__dialog__multiplay__message__message2.png",
+   "sha256": "fca110c1f9f2d501f620f41a331b31a327e9e880e8d4f94f02ba7405c055b387"
+  },
+  {
+   "bytes": 3175,
+   "path": "010_ui/Atlases__dialog__multiplay__message__message3.png",
+   "sha256": "f173ad0b9a08a58ab6e19a75bcc2fc8ca72ea6c364adca35ebad6fe658a3a44d"
+  },
+  {
+   "bytes": 3266,
+   "path": "010_ui/Atlases__dialog__multiplay__message__message4.png",
+   "sha256": "ac06b763669b5c6de31b13251eade20e5c3a6e1e342c2d832fbc7c81e65b715a"
+  },
+  {
+   "bytes": 132,
+   "path": "010_ui/Atlases__dialog__multiplay__tab_red.png",
+   "sha256": "14f4e3aa6d8c31e5a42edce889d8fec28c82aa0504b77624283d654b92a915f4"
+  },
+  {
+   "bytes": 1882,
+   "path": "010_ui/Atlases__dialog__news__icon_new.png",
+   "sha256": "0e8cd7d2d807ace6007accd572e6a54229ec0e7bef8bbd9e896c8ae8f584666b"
+  },
+  {
+   "bytes": 1846,
+   "path": "010_ui/Atlases__dialog__news__icon_normal.png",
+   "sha256": "fa2715ad1c67c35df73010a7612b3b50cb970beda2a1e76e651baa8060a4c753"
+  },
+  {
+   "bytes": 92,
+   "path": "010_ui/Atlases__dialog__news__scroll.png",
+   "sha256": "d0f8161d5a76070bbdf2414d4899bed7ac7e710289823a5b2b6c84d8289f5e74"
+  },
+  {
+   "bytes": 1051,
+   "path": "010_ui/Atlases__dialog__popup__bg_popup.png",
+   "sha256": "e0047cc54cbcc5e1aff2c1bd684b6af3c69caa632ef3d17bff19333fe0b6b8b3"
+  },
+  {
+   "bytes": 1608,
+   "path": "010_ui/Atlases__dialog__popup__bg_popup_big.png",
+   "sha256": "0b0ed5f7d2b54c8bcd0f55ba554d6f9a30ccbbe51ef42690336c2435f7a948e7"
+  },
+  {
+   "bytes": 3800,
+   "path": "010_ui/Atlases__dialog__popup__bg_rank.png",
+   "sha256": "77d9a7741ba509f2c2736df5a7d0efc5644fe9b3d5a3b05bee01a06f8ace51a6"
+  },
+  {
+   "bytes": 3764,
+   "path": "010_ui/Atlases__dialog__popup__bg_rank_blue.png",
+   "sha256": "11fa9e684e788aa765b4b28428790c30373f8a4e96b5eeb9c242b631db8807b3"
+  },
+  {
+   "bytes": 2072,
+   "path": "010_ui/Atlases__dialog__popup__bg_rank_red.png",
+   "sha256": "6b79708871add9234f2ba3c8d527edd643f270d7b0365a266f91aeb339204965"
+  },
+  {
+   "bytes": 1039,
+   "path": "010_ui/Atlases__dialog__popup__bg_result.png",
+   "sha256": "ec03be8e4f43435d4e44fb293d7e31a5cb9533a55ed33b6da98c34ed912c7c62"
+  },
+  {
+   "bytes": 118,
+   "path": "010_ui/Atlases__dialog__popup__bg_reward.png",
+   "sha256": "54d9a500113ac8d55707454f2d7a37392956d1215618e98225ec8306ac091736"
+  },
+  {
+   "bytes": 475,
+   "path": "010_ui/Atlases__dialog__popup__img_blue.png",
+   "sha256": "deea5ec632ee114bd8035ce07acb4bd537a9c7f3c5872fb221a60040dd77a9e1"
+  },
+  {
+   "bytes": 144,
+   "path": "010_ui/Atlases__dialog__popup__img_desc.png",
+   "sha256": "9f76c0696b4dfc9908ba7efd5b5e9f497ec6054e81bc7013b44093f06d5c038e"
+  },
+  {
+   "bytes": 478,
+   "path": "010_ui/Atlases__dialog__popup__img_red.png",
+   "sha256": "dde6704d5a578512283e711aa4163581cb2b565efe902b747fc23ec67f796b71"
+  },
+  {
+   "bytes": 22122,
+   "path": "010_ui/Atlases__dialog__popup__img_result.png",
+   "sha256": "4651ecf02ec00852d95871c0c8f14328e475f711fd4d6c9c49dbeda7f59314a9"
+  },
+  {
+   "bytes": 459,
+   "path": "010_ui/Atlases__dialog__popup__img_time.png",
+   "sha256": "3d1bbbf4f344af2d283357f389f9b6d4d02758c9d9028d9e2f93425c42782e5d"
+  },
+  {
+   "bytes": 872,
+   "path": "010_ui/Atlases__dialog__popup__img_timeover.png",
+   "sha256": "66befa9be04108ba4eb6daabc0f417ab34898115a74e6d0fd80dea174bc84c9e"
+  },
+  {
+   "bytes": 10570,
+   "path": "010_ui/Atlases__dialog__popup__text_draw.png",
+   "sha256": "3b45bd94830f139d426d29ea0dc0ddca1c66a362581f6da0e7d34b184efd80ad"
+  },
+  {
+   "bytes": 4908,
+   "path": "010_ui/Atlases__dialog__popup__text_lose.png",
+   "sha256": "1648bf25675c8d638c4acae86a5bc59d85ab828a849374218479d06baf6a6d1d"
+  },
+  {
+   "bytes": 7078,
+   "path": "010_ui/Atlases__dialog__popup__text_win.png",
+   "sha256": "e81946df3b1706c5bb62d6748f5643962cfb54347ad4acac3783d1a7b073c762"
+  },
+  {
+   "bytes": 376,
+   "path": "010_ui/Atlases__dialog__quest__img_lod_01.png",
+   "sha256": "af596beef37431b55e6810bcfe6239f5d200aa354d88283b863dc93494d6fb80"
+  },
+  {
+   "bytes": 284,
+   "path": "010_ui/Atlases__dialog__quest__img_lod_02.png",
+   "sha256": "487ac8a8b1b15d3125b0002971b1da0f55ebca7085c46a652cf7ca6f9d18775b"
+  },
+  {
+   "bytes": 1660,
+   "path": "010_ui/Atlases__dialog__setting__bar_frame.png",
+   "sha256": "2cad496f90bb2aec068103aed080cd6e6ade5c2833096e4458d52a7b23e9df07"
+  },
+  {
+   "bytes": 76,
+   "path": "010_ui/Atlases__dialog__setting__bar_sound.png",
+   "sha256": "696ec7747177b27a854696191fb9d68b85feb182ec19302fdea525405a31fca7"
+  },
+  {
+   "bytes": 1297,
+   "path": "010_ui/Atlases__dialog__setting__img_slider.png",
+   "sha256": "5e685088ee8177ae0d6a0cce0b7272163278535e58be0e650fb6dc9291ec6ffd"
+  },
+  {
+   "bytes": 530,
+   "path": "010_ui/Atlases__dialog__setting__text_bgm.png",
+   "sha256": "d075e4fabcdcd19108bfccffa8c3858efc32aa910ef7dea4f800af87a7277c29"
+  },
+  {
+   "bytes": 373,
+   "path": "010_ui/Atlases__dialog__setting__text_effect.png",
+   "sha256": "1c2aaa32045cf94b56889aee3659b6d143a13151ba834bf5552ba8bf331fb3b3"
+  },
+  {
+   "bytes": 458,
+   "path": "010_ui/Atlases__dialog__setting__text_touch.png",
+   "sha256": "dcde901a81e9de9dc4654ca1149aadf7e69017a556967bd88b6638ecfff5ae4f"
+  },
+  {
+   "bytes": 497,
+   "path": "010_ui/Atlases__dialog__setting__text_vibration.png",
+   "sha256": "fbab668f730518a4d730a55cb922d277358a1ba62cf2516eeeeb8df39e05f8c3"
+  },
+  {
+   "bytes": 77,
+   "path": "010_ui/Atlases__dialog__shop__bar_info_gauge.png",
+   "sha256": "19351d349039f178bfb46bbfb639e2023bea8831c1637df69565028f4b7b7222"
+  },
+  {
+   "bytes": 75,
+   "path": "010_ui/Atlases__dialog__shop__bar_info_gauge_add.png",
+   "sha256": "ad3529e4ef075bda70757de3e4282ad161492f559a59a2a3a948ae57ac2d57d8"
+  },
+  {
+   "bytes": 72,
+   "path": "010_ui/Atlases__dialog__shop__bar_info_gauge_fall.png",
+   "sha256": "a551a0c480170b9c3dfac31764ab17bba9190dd054c58ea3a21b03884f6bf999"
+  },
+  {
+   "bytes": 202,
+   "path": "010_ui/Atlases__dialog__shop__bg_coin.png",
+   "sha256": "a755656c03700e3154e31842622c47b1512bda4f589d468bef7ed028ed42a1cd"
+  },
+  {
+   "bytes": 498,
+   "path": "010_ui/Atlases__dialog__shop__bg_equiped.png",
+   "sha256": "3763ba70d65b509ddf424aadc3f5dcd06af15c3a08d22bfa206ec19261023e10"
+  },
+  {
+   "bytes": 72,
+   "path": "010_ui/Atlases__dialog__shop__bg_info_gauge.png",
+   "sha256": "de6773a5dfc96cd82a215da653b7dec8e6174ab68ee199b4d3a356da1e3c15d2"
+  },
+  {
+   "bytes": 207,
+   "path": "010_ui/Atlases__dialog__shop__bg_lucci.png",
+   "sha256": "88fce8da06118f618d032c26b82fa220a0de8a75dbc7a3d86e6aea07165657c2"
+  },
+  {
+   "bytes": 2377,
+   "path": "010_ui/Atlases__dialog__shop__img_lockslot.png",
+   "sha256": "c0335fd6d25fe1a31a8e09f5a577fb7abd80d92d0e2073ff6c36987ade45133e"
+  },
+  {
+   "bytes": 491,
+   "path": "010_ui/Atlases__dialog__shop__text_character.png",
+   "sha256": "2ad007f814706f34c0c92e60f1d37363845f4740616724f38b785723c0fa720b"
+  },
+  {
+   "bytes": 525,
+   "path": "010_ui/Atlases__dialog__shop__text_item.png",
+   "sha256": "4e3f595f3bcf5ff8ceca7e64be07128f695ca194219ae28e7fd2b6ed2dcdc2fb"
+  },
+  {
+   "bytes": 491,
+   "path": "010_ui/Atlases__dialog__shop__text_main.png",
+   "sha256": "8f1261665e22f86a6628159cdd0efb7135ca2775635033ec411748e8801dd85e"
+  },
+  {
+   "bytes": 560,
+   "path": "010_ui/Atlases__dialog__shop__text_sub.png",
+   "sha256": "8813b9938807ffa3df6ab44fe6f1232a68e2550887d0d382e7edd06c9354b986"
+  },
+  {
+   "bytes": 2660,
+   "path": "010_ui/Atlases__dialog__star__btn_agree.png",
+   "sha256": "2d20ef724cb7228934a4b08c3589703178088efddca42298793fbec35c27b310"
+  },
+  {
+   "bytes": 314,
+   "path": "010_ui/Atlases__dialog__star__btn_refuse.png",
+   "sha256": "d67ad4871932afc637cf54d90327ccb737deed668854df34635d9b27d16f4cb6"
+  },
+  {
+   "bytes": 56850,
+   "path": "010_ui/Atlases__dialog__star__img_star.png",
+   "sha256": "dc0653befd5207729df90ce5d494b94443793c78ea4f0bbd93fb2b454e64f2d6"
+  },
+  {
+   "bytes": 860,
+   "path": "010_ui/Atlases__dialog__town__bar_quest.png",
+   "sha256": "f201e46d6c33f6e21506389777d0ec2c95a3fa947338e95045cf8e707e0df65b"
+  },
+  {
+   "bytes": 1006,
+   "path": "010_ui/Atlases__dialog__town__bar_town.png",
+   "sha256": "6f693a9a436020af35fc16a41320b44d341f77ee83715ae0976fb5f8e6c6b693"
+  },
+  {
+   "bytes": 2465,
+   "path": "010_ui/Atlases__dialog__town__bg_num_news.png",
+   "sha256": "ed641990b552bbfcc6981f2def24e92aefbe68b84d9fb612c27dbda33bf9cc46"
+  },
+  {
+   "bytes": 3213,
+   "path": "010_ui/Atlases__dialog__town__bg_num_zombie.png",
+   "sha256": "4f1bbca6fcca0da90d0b2c9e2f602ab867b3c58618ab6a83988df4ba28d44262"
+  },
+  {
+   "bytes": 2436,
+   "path": "010_ui/Atlases__dialog__town__bg_talk.png",
+   "sha256": "f0e92ec8af46205d9fc0e2d5d72bc1e2ca0cb2c891a2a367473e22a4eb465d8a"
+  },
+  {
+   "bytes": 1651,
+   "path": "010_ui/Atlases__dialog__town__btn_arrow.png",
+   "sha256": "dc680855877a8e1e68d143bcd0e9f88545d19867e3d9f88c1f6626ef80b31da4"
+  },
+  {
+   "bytes": 12725,
+   "path": "010_ui/Atlases__dialog__town__icon_battle.png",
+   "sha256": "62ae4ac725604e4be41bd907d7e16f9ecffead0ea6f9ad9e617bb1b0af0f5119"
+  },
+  {
+   "bytes": 7151,
+   "path": "010_ui/Atlases__dialog__town__icon_box.png",
+   "sha256": "6d72fdf351059693defb9cd35301df455d93cc06634b45cd8b113da15f1f1161"
+  },
+  {
+   "bytes": 15601,
+   "path": "010_ui/Atlases__dialog__town__icon_event.png",
+   "sha256": "360d7414968744649ac28433adfd182a4069015f7ad00be2d55d4c7832ed7903"
+  },
+  {
+   "bytes": 13126,
+   "path": "010_ui/Atlases__dialog__town__icon_friend.png",
+   "sha256": "773bf101a2bc734ad12eda296351baa0e0b2e82c7e4f574546e17268c7dbff11"
+  },
+  {
+   "bytes": 11674,
+   "path": "010_ui/Atlases__dialog__town__icon_giftbox.png",
+   "sha256": "9849c66540fa75cb4347e75573f353e61f1eb08559d8df8c7c6ad60e2ec61383"
+  },
+  {
+   "bytes": 6668,
+   "path": "010_ui/Atlases__dialog__town__icon_hammer.png",
+   "sha256": "415fa738e6c35f4db3fdbd962dba25e1d0242652902ccdcb5fc597ed8c043b73"
+  },
+  {
+   "bytes": 2932,
+   "path": "010_ui/Atlases__dialog__town__icon_helpdesk.png",
+   "sha256": "22737dc6c04d231f0f86398576bd183c81953d90867d897cde959ccf25692b1c"
+  },
+  {
+   "bytes": 2525,
+   "path": "010_ui/Atlases__dialog__town__icon_info.png",
+   "sha256": "ccce932c6c4868b15c1e5880db754f5d55b433f4f2f2c3847de0f5e1202574a0"
+  },
+  {
+   "bytes": 12257,
+   "path": "010_ui/Atlases__dialog__town__icon_inven.png",
+   "sha256": "2f1f5dd8b2521641b0fff13a9264ffde959f13b63b62038619b2cc026fed747c"
+  },
+  {
+   "bytes": 5586,
+   "path": "010_ui/Atlases__dialog__town__icon_multi.png",
+   "sha256": "d540f3ad46ad03bfe5d4caa39371713776d52e899b7e60b3994d0e3bd15c0b53"
+  },
+  {
+   "bytes": 4505,
+   "path": "010_ui/Atlases__dialog__town__icon_quest.png",
+   "sha256": "39f47209651d4c50ff4a035142577ee59d735b555f269f2321def8474d0a6ad4"
+  },
+  {
+   "bytes": 14621,
+   "path": "010_ui/Atlases__dialog__town__icon_zombie.png",
+   "sha256": "1b1ddd5662d8d208be3eb8ae7b2993dd9a9c3e567a151415812c4cb87c53b286"
+  },
+  {
+   "bytes": 8343,
+   "path": "010_ui/Atlases__dialog__town__icon_zombie2.png",
+   "sha256": "9b3b4a67e739747161459663c7e543b622d702bc47481d77775efe95779ba2d6"
+  },
+  {
+   "bytes": 26370,
+   "path": "010_ui/Atlases__dialog__town__img_celebration.png",
+   "sha256": "1a0d41c310dd60861bae39fadd690df5d38566bb5e4a8fc62dced4f9adf4c870"
+  },
+  {
+   "bytes": 264,
+   "path": "010_ui/Atlases__dialog__town__img_name.png",
+   "sha256": "99e325cfc6be3fec5d21a74cbfb27caf8876e313f172967f9e621fd26932884a"
+  },
+  {
+   "bytes": 128,
+   "path": "010_ui/Atlases__dialog__town__img_plus.png",
+   "sha256": "f4d0e08ca0578cc81c1df55c95c30d017b487fecbd906ae210514543dd39b4ce"
+  },
+  {
+   "bytes": 554,
+   "path": "010_ui/Atlases__dialog__town__text_username.png",
+   "sha256": "42a0252510c56f324197ae893f0674c7469b4646fef002e6d2be047cd44fb696"
+  },
+  {
+   "bytes": 283,
+   "path": "010_ui/Atlases__dialog__zombie__bar_zombie.png",
+   "sha256": "ad44965743171b3dfec1dd31323d15f1c5c01bf9398c890e1bb46432641d20fe"
+  },
+  {
+   "bytes": 52854,
+   "path": "010_ui/index.json",
+   "sha256": "e0bd03fa866dfb73a6df097e947532287184758407ec0fbeb089e31faa9a58f2"
+  },
+  {
+   "bytes": 6687,
+   "path": "020_item/Atlases__item__character__bazzi_angel.png",
+   "sha256": "16b8ededcc7fa2cbde425bddab6c583d7ba9c58a502da513dd5040e5cc67631a"
+  },
+  {
+   "bytes": 5299,
+   "path": "020_item/Atlases__item__character__bazzi_bad.png",
+   "sha256": "ec12aef847f25e617fa94cbcd4c1af92beae65055809a3db6de2b771e2e1a779"
+  },
+  {
+   "bytes": 6258,
+   "path": "020_item/Atlases__item__character__bazzi_bear.png",
+   "sha256": "380090856542924a05a8affdf69956dc7cf25b5eda3dba1ddb0ccf32762e6efc"
+  },
+  {
+   "bytes": 6809,
+   "path": "020_item/Atlases__item__character__bazzi_cat.png",
+   "sha256": "e11f6d0d838ee3bcd99239de2b662830666b8e67d885067f3bc717431802bb60"
+  },
+  {
+   "bytes": 7182,
+   "path": "020_item/Atlases__item__character__bazzi_explorer.png",
+   "sha256": "bf4fa1b8dedbfdd3ba04985cc6761ac06217aa16d65c3f4ec0f59a1e89637bfc"
+  },
+  {
+   "bytes": 6187,
+   "path": "020_item/Atlases__item__character__bazzi_hood.png",
+   "sha256": "e4ade634eb061573a85b316abc0ec6697c63f5aec97802b36f6a9efa76bac13c"
+  },
+  {
+   "bytes": 4517,
+   "path": "020_item/Atlases__item__character__bazzi_red.png",
+   "sha256": "0eb395fe4be817705e2b5d8f8e2d378de420ed9e61c4e7428ecdc1dc3755bf81"
+  },
+  {
+   "bytes": 5376,
+   "path": "020_item/Atlases__item__character__bazzi_studentF.png",
+   "sha256": "268bdeb714f9b2d5e473bb87714c169cfca5dba33805a075b78ef70db75f12de"
+  },
+  {
+   "bytes": 4529,
+   "path": "020_item/Atlases__item__character__bazzi_studentM.png",
+   "sha256": "b9b34b7b053695580b65bec862554502d4cf7d89842dcfff3d07e64ce071b67e"
+  },
+  {
+   "bytes": 6974,
+   "path": "020_item/Atlases__item__character__dao_angel.png",
+   "sha256": "7ec240e36fa2ff4c4343b688d1aa730a17bf054de54973e586d1ba2c122b726e"
+  },
+  {
+   "bytes": 5839,
+   "path": "020_item/Atlases__item__character__dao_bad.png",
+   "sha256": "c1d221f48fe00cf879ee43cdff7be8c3e9dc91c8035fef63a5fbcf540997d039"
+  },
+  {
+   "bytes": 6353,
+   "path": "020_item/Atlases__item__character__dao_bear.png",
+   "sha256": "cfb020dc73233d4213b4a47a6dd8381b05239804a05f780ad502e97587796495"
+  },
+  {
+   "bytes": 6373,
+   "path": "020_item/Atlases__item__character__dao_blue.png",
+   "sha256": "ecb1b019e8371dfe5804898205afd78b9919eaa607565518e44d9bd1d5304de3"
+  },
+  {
+   "bytes": 7527,
+   "path": "020_item/Atlases__item__character__dao_cat.png",
+   "sha256": "f8a3eba3628c344e1fdeeedfd1a9075e2857f4604ba6110630a268da0daaa4df"
+  },
+  {
+   "bytes": 6925,
+   "path": "020_item/Atlases__item__character__dao_explorer.png",
+   "sha256": "0ff40aa4930fe202412580f904e9fc2335ea639f66f901ea51c94e124d4b1f09"
+  },
+  {
+   "bytes": 6668,
+   "path": "020_item/Atlases__item__character__dao_hood.png",
+   "sha256": "e986f4eeeac063071aa5565a6e567f9f617dc6dce10701ed1d162ab88bc73587"
+  },
+  {
+   "bytes": 6013,
+   "path": "020_item/Atlases__item__character__dao_studentF.png",
+   "sha256": "5526fbbd41ff75825ff4f1757983aa3e35d78a45cab609507eb6a9c43241d24a"
+  },
+  {
+   "bytes": 5822,
+   "path": "020_item/Atlases__item__character__dao_studentM.png",
+   "sha256": "b18b01fb38f9f7c630059bfec58209c16426cd50e706303000a3638c4cfc8008"
+  },
+  {
+   "bytes": 6952,
+   "path": "020_item/Atlases__item__character__dizini_angel.png",
+   "sha256": "d1a84d73b52b483626e9daf39cb3f26f2c2769d9f70bda50830ab3df4350a116"
+  },
+  {
+   "bytes": 6052,
+   "path": "020_item/Atlases__item__character__dizini_bad.png",
+   "sha256": "1459b213cc57cd1a8a1e767fffd224f26bb16c3c760e945add273d5a46e081be"
+  },
+  {
+   "bytes": 6158,
+   "path": "020_item/Atlases__item__character__dizini_bear.png",
+   "sha256": "afcd7acb04d4c0c5f1ac9321e866bc4e72ec38090946223765047fe05f8f3917"
+  },
+  {
+   "bytes": 7513,
+   "path": "020_item/Atlases__item__character__dizini_cat.png",
+   "sha256": "4efa236ce68d2b03e8737903ac772dd34c42e88d465c8cdd913f4a23e9eee11f"
+  },
+  {
+   "bytes": 7388,
+   "path": "020_item/Atlases__item__character__dizini_explorer.png",
+   "sha256": "3b8f467c64546eb081806807984de0413c9663169ad80db645be9adf115474fa"
+  },
+  {
+   "bytes": 6737,
+   "path": "020_item/Atlases__item__character__dizini_hood.png",
+   "sha256": "125e5fe51959dbfeedb5fc8722cca41631d986548534f22b1a9d603f78712148"
+  },
+  {
+   "bytes": 6044,
+   "path": "020_item/Atlases__item__character__dizini_studentF.png",
+   "sha256": "786219a90f358041371a829396067c0546d62d481d7620159f10582fdf90ba43"
+  },
+  {
+   "bytes": 5518,
+   "path": "020_item/Atlases__item__character__dizini_studentM.png",
+   "sha256": "7588158ac7d41f845759d59d6a2bfa74b22a5c9277a91201ea9b588bdb7d3a04"
+  },
+  {
+   "bytes": 6644,
+   "path": "020_item/Atlases__item__character__dizni_yellow.png",
+   "sha256": "e93d691a1c694cf2cf5ee23d1609a947b6c8fbba85399ca1874de696013569e3"
+  },
+  {
+   "bytes": 6189,
+   "path": "020_item/Atlases__item__character__uni_angel.png",
+   "sha256": "a797afe4a306cface8b7fcea1e5687b0d95463bdd4d62c7566f0f89aa6d054fb"
+  },
+  {
+   "bytes": 5336,
+   "path": "020_item/Atlases__item__character__uni_bad.png",
+   "sha256": "6365006010cf06e40146e6ceec6d0dcf2ab54694ed4c3d4e481beb23a9d7985f"
+  },
+  {
+   "bytes": 5804,
+   "path": "020_item/Atlases__item__character__uni_bear.png",
+   "sha256": "fe94aeaa7c3d425e6aa5502236c65eb8570246203d49d8494c5e5106ad5813de"
+  },
+  {
+   "bytes": 6545,
+   "path": "020_item/Atlases__item__character__uni_cat.png",
+   "sha256": "bb364001c20ffaa154065a99ede9085fb46d2ef63fb1994b04bb72b59d0d4981"
+  },
+  {
+   "bytes": 6615,
+   "path": "020_item/Atlases__item__character__uni_explorer.png",
+   "sha256": "5185d74119a64135b4015de46987ee048017dca6b5eaa26cf475f907248a69d0"
+  },
+  {
+   "bytes": 7087,
+   "path": "020_item/Atlases__item__character__uni_green.png",
+   "sha256": "702671411a839f934afab4b4efd09ccca885c49bab3f85258828973b4bc2b6ff"
+  },
+  {
+   "bytes": 6335,
+   "path": "020_item/Atlases__item__character__uni_hood.png",
+   "sha256": "af7bf51bfb72880c6a9e39d43e439350fbd548e984ab7f1ca3d217e14f6ed81b"
+  },
+  {
+   "bytes": 5270,
+   "path": "020_item/Atlases__item__character__uni_studentF.png",
+   "sha256": "0b70252572c9b6e748791dea819461263b268e9752eb1e679efb746a8b4187ba"
+  },
+  {
+   "bytes": 5264,
+   "path": "020_item/Atlases__item__character__uni_studentM.png",
+   "sha256": "a0b75561372550c669c6d9a8f08969e6a0c956da3d3f785942ac5c870f421c67"
+  },
+  {
+   "bytes": 1121,
+   "path": "020_item/Atlases__item__etc__img_map_lock.png",
+   "sha256": "d63e098e93d6e602e252c97948426ada8da94f2aa5bb3219d3eba179521983c2"
+  },
+  {
+   "bytes": 7709,
+   "path": "020_item/Atlases__item__etc__thum_box.png",
+   "sha256": "41a8b609143f1ec4b55b21191d72adddd8589130b013aaf98c02a22c5a7742de"
+  },
+  {
+   "bytes": 3253,
+   "path": "020_item/Atlases__item__etc__thum_box_d.png",
+   "sha256": "7a180b5b24900e9c7d65c1a308eb9b24db34989724f57e9b2f2d53ee650b7707"
+  },
+  {
+   "bytes": 7848,
+   "path": "020_item/Atlases__item__etc__thum_hammer.png",
+   "sha256": "efcc86bae4a80a35c4bbeb9f55597fb31d34715bbaf40cdaf05496ea07d01107"
+  },
+  {
+   "bytes": 3333,
+   "path": "020_item/Atlases__item__etc__thum_hammer_d.png",
+   "sha256": "a11893d47676a0b779c4aa372454029cf1b8b10b480b65b536573da9a545f1fe"
+  },
+  {
+   "bytes": 3916,
+   "path": "020_item/Atlases__item__hammer__w_hammer_00.png",
+   "sha256": "7e0b9d2d311043a20b2e7c0d79a591664380ab2dd146461671295b443260f52a"
+  },
+  {
+   "bytes": 4190,
+   "path": "020_item/Atlases__item__hammer__w_hammer_01.png",
+   "sha256": "75d8c21ee10df842c4a6f334b9fb360fd91ba44412d99ec647962c41875008fd"
+  },
+  {
+   "bytes": 4946,
+   "path": "020_item/Atlases__item__hammer__w_hammer_02.png",
+   "sha256": "fcacc13772862f258b72ae881c13ce74b7fe9470b98d2ced7b4d8af3081d3b28"
+  },
+  {
+   "bytes": 4027,
+   "path": "020_item/Atlases__item__hammer__w_hammer_03.png",
+   "sha256": "05d3193832dc045aff1106444cb6060a2cfc75890e42c8fede7d200a5a0811b4"
+  },
+  {
+   "bytes": 4476,
+   "path": "020_item/Atlases__item__item__item_acuaE01.png",
+   "sha256": "948804f273849e221c6025d5b32e4b60807de9763e420773bf6f491344316829"
+  },
+  {
+   "bytes": 3482,
+   "path": "020_item/Atlases__item__item__item_aid.png",
+   "sha256": "1c156b9ae21d5d6916825dfe100bbcacdb49f6203dfd83c7c883bf49c566938f"
+  },
+  {
+   "bytes": 3558,
+   "path": "020_item/Atlases__item__item__item_booster.png",
+   "sha256": "2ad95b387b8569e392b38e82e5b3d2c7f7e6bcbda5110ff3d6272ce28a764221"
+  },
+  {
+   "bytes": 7471,
+   "path": "020_item/Atlases__item__item__item_energe_large.png",
+   "sha256": "f22dd70b6d708c4d9e5b534847f03dfae16cd72c2ad96a3bd03df456d630ca10"
+  },
+  {
+   "bytes": 4248,
+   "path": "020_item/Atlases__item__item__item_energe_medium.png",
+   "sha256": "6c816498989ba546789750e854cfd9a515458591af5476ee3d7b569fa2ec6542"
+  },
+  {
+   "bytes": 4155,
+   "path": "020_item/Atlases__item__item__item_energy.png",
+   "sha256": "5e162311b9d4225497ec33a80f406cef9864894199316f0d884ac513bfe55f09"
+  },
+  {
+   "bytes": 4163,
+   "path": "020_item/Atlases__item__item__item_hongsi.png",
+   "sha256": "a76e36d90f1f1fea621b40a2f31b5335179830784f35a2729fc08a7cd973ef34"
+  },
+  {
+   "bytes": 3345,
+   "path": "020_item/Atlases__item__item__item_itemslot.png",
+   "sha256": "8ac9de10d6d0cb9d4f514f727073190658a0d0ec632385532bff5ace3451bcf6"
+  },
+  {
+   "bytes": 3180,
+   "path": "020_item/Atlases__item__item__item_needle.png",
+   "sha256": "613095063e2a6104344fdd7e0c43a5a8c039fbcf91136b322cd5d1b8bd0cbf34"
+  },
+  {
+   "bytes": 6813,
+   "path": "020_item/Atlases__item__item__item_normalbox.png",
+   "sha256": "fda479cd74dce9981dc7cd6e924bbda98c41ae1da76f3daacc57e7fc3e1bfb93"
+  },
+  {
+   "bytes": 8740,
+   "path": "020_item/Atlases__item__item__item_secretbox.png",
+   "sha256": "c2258f92f0dc9ccb9f76e47f6341b3a10fc864ef245b528ce2f381527a68b1e9"
+  },
+  {
+   "bytes": 3662,
+   "path": "020_item/Atlases__item__item__item_shield.png",
+   "sha256": "19661c345355e36147a2935e85954b8732fa454036707d0eefbc4a963a5c884d"
+  },
+  {
+   "bytes": 4322,
+   "path": "020_item/Atlases__item__item__item_syringe.png",
+   "sha256": "6adc0a405ac23ae9ab51efa347d555493492cced74a99e1a542ac2c22f3062e9"
+  },
+  {
+   "bytes": 5377,
+   "path": "020_item/Atlases__item__pistol__pistol_burst_lv1.png",
+   "sha256": "317d657b5bc0fc5842ce13e10c572f005944355fef5ad66bea52c5dd5e074a90"
+  },
+  {
+   "bytes": 6627,
+   "path": "020_item/Atlases__item__pistol__pistol_burst_lv2.png",
+   "sha256": "f9efe98c9df666dc03b0e1fb5753c57f7f596aa5c963925054fbec4cc016b2d3"
+  },
+  {
+   "bytes": 6961,
+   "path": "020_item/Atlases__item__pistol__pistol_burst_lv3.png",
+   "sha256": "9bb476991d5df74a25183027b019d9f05e01a22bcdcf838f8bb9e5cd84c8f71f"
+  },
+  {
+   "bytes": 6160,
+   "path": "020_item/Atlases__item__pistol__pistol_cotton_lv1.png",
+   "sha256": "94053b1219ac183ee6fad4c0d74cd53d1fba8a432e0bca0f20c4ca2c4dbfbdda"
+  },
+  {
+   "bytes": 6827,
+   "path": "020_item/Atlases__item__pistol__pistol_cotton_lv2.png",
+   "sha256": "a88b2650e8d8e2092bc6798774bf1f44988b456cfdf407b91ff7d859b6beb4a5"
+  },
+  {
+   "bytes": 6394,
+   "path": "020_item/Atlases__item__pistol__pistol_cotton_lv3.png",
+   "sha256": "7d731123a53b426d84cf70e744cf88110a73ba8a566ba5b4731ca72d00636391"
+  },
+  {
+   "bytes": 5583,
+   "path": "020_item/Atlases__item__pistol__pistol_practice.png",
+   "sha256": "07e1c81716ca8f7baea26833b470dd83f883a972f485e4a25d8990b91f407df4"
+  },
+  {
+   "bytes": 6745,
+   "path": "020_item/Atlases__item__pistol__pistol_revolver_lv1.png",
+   "sha256": "6d891dc85debf0e8f43d972b0b0e6b239bf3658f41209668e39db33534968d85"
+  },
+  {
+   "bytes": 6719,
+   "path": "020_item/Atlases__item__pistol__pistol_revolver_lv2.png",
+   "sha256": "8282415cee3e9100d3f860acd8c0b9f71760dd36133a8917ac0998b4308ee21c"
+  },
+  {
+   "bytes": 6073,
+   "path": "020_item/Atlases__item__pistol__pistol_saver_lv1.png",
+   "sha256": "04a685cb94295357cb955433926141f44c16a979beccfc49ffaadd3fa85c21b2"
+  },
+  {
+   "bytes": 6165,
+   "path": "020_item/Atlases__item__pistol__pistol_saver_lv2.png",
+   "sha256": "251d5c8cef114a594bff40a4405348ca15391cd8c6f05930d1202a23447fa6e2"
+  },
+  {
+   "bytes": 6308,
+   "path": "020_item/Atlases__item__pistol__pistol_saver_lv3.png",
+   "sha256": "58c71924e75f042b5b29a8b6abfcbb06ee66b5f6208e7138f55e6d00f5842ae0"
+  },
+  {
+   "bytes": 7791,
+   "path": "020_item/Atlases__item__quest__icon_butterfly_b.png",
+   "sha256": "056390e60ad52c63769454610f32ed9554fdc98f2b3d9c1dafec111a6acbdd6c"
+  },
+  {
+   "bytes": 7781,
+   "path": "020_item/Atlases__item__quest__icon_butterfly_g.png",
+   "sha256": "dcb4589f7e53bdf298e1137acb98180c134a55b8b27b4dafb5575d741658beff"
+  },
+  {
+   "bytes": 7332,
+   "path": "020_item/Atlases__item__quest__icon_butterfly_y.png",
+   "sha256": "09cfaf1041df49ba1c9068901d76c65a1923af45d6869accddfef8f02ee2a12b"
+  },
+  {
+   "bytes": 7248,
+   "path": "020_item/Atlases__item__quest__icon_coconut_b.png",
+   "sha256": "717c7b9d937534ccccdcf7e9fa808247d78d344c3a74cd15877d5d82bdf16379"
+  },
+  {
+   "bytes": 7288,
+   "path": "020_item/Atlases__item__quest__icon_coconut_g.png",
+   "sha256": "ad9aa470b6dddc08b83cef783aac549ec1491e92c88cda9a5771457e6c756d8b"
+  },
+  {
+   "bytes": 6883,
+   "path": "020_item/Atlases__item__quest__icon_coconut_y.png",
+   "sha256": "7cad7ba896699dd16e8ac61aefa3fa0a7cfdfa6577a6a5f278615c83b11def6e"
+  },
+  {
+   "bytes": 5319,
+   "path": "020_item/Atlases__item__quest__icon_coffee.png",
+   "sha256": "518fe238d3c83640ea565dc6c4c34ca7007d9841510464dd99a179f84682d888"
+  },
+  {
+   "bytes": 6651,
+   "path": "020_item/Atlases__item__quest__icon_coffee_b.png",
+   "sha256": "4c85a4ee4f3b83bbe2efefd712ff3939e6ed71eb2a2d9482568d0bb022a4b204"
+  },
+  {
+   "bytes": 5985,
+   "path": "020_item/Atlases__item__quest__icon_coffee_g.png",
+   "sha256": "6e42bf19220e7857a30155152541f026f737bf976fb1726e1856b40c9666febe"
+  },
+  {
+   "bytes": 5960,
+   "path": "020_item/Atlases__item__quest__icon_coffee_r.png",
+   "sha256": "b52391245514150d59030244474b96e2e22eb84c6882ae65ee60acbc4c825fe5"
+  },
+  {
+   "bytes": 6422,
+   "path": "020_item/Atlases__item__quest__icon_coffee_y.png",
+   "sha256": "3f30193c1398ed18c121d8a45d44f60c590db4bdbeacb2a815e6e881adcdc294"
+  },
+  {
+   "bytes": 8091,
+   "path": "020_item/Atlases__item__quest__icon_flower_b.png",
+   "sha256": "302f6e8cf488d01456c42c1a461f52a2ded7fd1b761097046b2d5e324590a0d3"
+  },
+  {
+   "bytes": 8119,
+   "path": "020_item/Atlases__item__quest__icon_flower_g.png",
+   "sha256": "2f6830ed02b28cf4ed1ad1836441ba2ef0c3d9a63a2f11c04e7c82b471a0645e"
+  },
+  {
+   "bytes": 8357,
+   "path": "020_item/Atlases__item__quest__icon_flower_y.png",
+   "sha256": "341c2d62774ab6673b76e415419d9a74478aa21da5e40f69a97b1a75228e1d2f"
+  },
+  {
+   "bytes": 6446,
+   "path": "020_item/Atlases__item__quest__icon_leaf_b.png",
+   "sha256": "3428eb2d5d3f43271d2307480774b7a3636d38847e31b175f90141006dc94c2f"
+  },
+  {
+   "bytes": 6412,
+   "path": "020_item/Atlases__item__quest__icon_leaf_g.png",
+   "sha256": "bf2baabbc6dba9a361eaca7e4e5c3a1969fddca2d279f7b7d8d8fa0ad33f1454"
+  },
+  {
+   "bytes": 6430,
+   "path": "020_item/Atlases__item__quest__icon_leaf_y.png",
+   "sha256": "95bd7ea6570130dfb4c28a4e44fb01ba42f31673b0295b970037b12c939523da"
+  },
+  {
+   "bytes": 8071,
+   "path": "020_item/Atlases__item__quest__icon_mushroom_b.png",
+   "sha256": "a8c7a41c526c4d7fb12eb25fcafc6d9288baef1e7982ce8bb50bdc43c8c9a5d9"
+  },
+  {
+   "bytes": 7590,
+   "path": "020_item/Atlases__item__quest__icon_mushroom_g.png",
+   "sha256": "c687195f0ece620cf2be5e8c36fee9ae02ad34bd80d4cc80e8f21ddd85a5e7f9"
+  },
+  {
+   "bytes": 7605,
+   "path": "020_item/Atlases__item__quest__icon_mushroom_y.png",
+   "sha256": "c070b3e7c38211ac11d940632e531bb2698ece83b8453fd0ca3898bf6cde609a"
+  },
+  {
+   "bytes": 5899,
+   "path": "020_item/Atlases__item__quest__icon_needle.png",
+   "sha256": "c00d4f7ee07323812126c9332f42edf83e3d5f52af7fd33065ec2033eb205dc8"
+  },
+  {
+   "bytes": 6286,
+   "path": "020_item/Atlases__item__quest__icon_needle_g.png",
+   "sha256": "f51ddf6bad218773c6ae6c19dc1ad89438b16fa192e7e3d40b548defdc300152"
+  },
+  {
+   "bytes": 5840,
+   "path": "020_item/Atlases__item__quest__icon_needle_r.png",
+   "sha256": "ca841b4460058b8424041cbb9386420c2bc5ba6983922f33760f5099c5d3867a"
+  },
+  {
+   "bytes": 6258,
+   "path": "020_item/Atlases__item__quest__icon_needle_y.png",
+   "sha256": "726628e7dd6c8f671754d3f2fc12d52e05dd564ababce93d9d7e5d02ed47e360"
+  },
+  {
+   "bytes": 9271,
+   "path": "020_item/Atlases__item__quest__icon_pot_b.png",
+   "sha256": "e52286ae4bc5c6a7316d7fa688e828a0ad254a8910f0a5aad842bde3f759bcd2"
+  },
+  {
+   "bytes": 9340,
+   "path": "020_item/Atlases__item__quest__icon_pot_g.png",
+   "sha256": "6cd472a891f2a6af83da7bdeb1808a109d783b698f1d54868b03593392dab7e4"
+  },
+  {
+   "bytes": 9142,
+   "path": "020_item/Atlases__item__quest__icon_pot_y.png",
+   "sha256": "5b9846d184fe18ad38a011053755d55b20018bb51252791577fcfc00b9858d41"
+  },
+  {
+   "bytes": 10002,
+   "path": "020_item/Atlases__item__quest__icon_reed_b.png",
+   "sha256": "2aa995b2a3b1f890ea90db8b1458640da2d9e82c235fb65314a2b752e371d680"
+  },
+  {
+   "bytes": 9882,
+   "path": "020_item/Atlases__item__quest__icon_reed_g.png",
+   "sha256": "f4849fe1afefd3f64c039e21698ba0173f95b7092d3ca3dbef343ae35f665845"
+  },
+  {
+   "bytes": 9796,
+   "path": "020_item/Atlases__item__quest__icon_reed_y.png",
+   "sha256": "e6111ab7b710346b7b32284988eb5640de469b85b0dec1f8bcf4b245813f71c6"
+  },
+  {
+   "bytes": 7927,
+   "path": "020_item/Atlases__item__quest__icon_scroll_b.png",
+   "sha256": "3c8f1ffd46fda865b67fa297dc8774305b15a79721f91512f9e4a6d7af35f469"
+  },
+  {
+   "bytes": 8002,
+   "path": "020_item/Atlases__item__quest__icon_scroll_g.png",
+   "sha256": "54841514470ed122699748e8ee05638636d14b94a0f327d91742d6135cec7ac0"
+  },
+  {
+   "bytes": 7957,
+   "path": "020_item/Atlases__item__quest__icon_scroll_y.png",
+   "sha256": "0db277e9c6c2d2117aefb2655daa004bb9229fdaa57ab6f20b0585192a243a80"
+  },
+  {
+   "bytes": 6499,
+   "path": "020_item/Atlases__item__quest__icon_shovel_b.png",
+   "sha256": "92fdf0621fd9d1678ad46b58faf323c8e8de5aa5fa4e70edb58b1bf0d66c5be6"
+  },
+  {
+   "bytes": 6506,
+   "path": "020_item/Atlases__item__quest__icon_shovel_g.png",
+   "sha256": "46e6e4cc636fd2171ea58c4227c22777061dbb7719e86b5fdc2657814c13e5d2"
+  },
+  {
+   "bytes": 5839,
+   "path": "020_item/Atlases__item__quest__icon_shovel_y.png",
+   "sha256": "1f0b69bb7d6afaa5ba9417c745979a203bfda4978e64e9b1cb8071fa6848ae2f"
+  },
+  {
+   "bytes": 9890,
+   "path": "020_item/Atlases__item__quest__icon_sphinx_b.png",
+   "sha256": "78b81a76ccb4404d572d97749c1114e06f53ef52ce09cb4d35053989eaa128a3"
+  },
+  {
+   "bytes": 9833,
+   "path": "020_item/Atlases__item__quest__icon_sphinx_g.png",
+   "sha256": "7a34a9269afa7a8ad8988af8b71c7cca0dca13d03bd6241ec83638a2192f8f47"
+  },
+  {
+   "bytes": 9693,
+   "path": "020_item/Atlases__item__quest__icon_sphinx_y.png",
+   "sha256": "0ce9006c812b917f6dd59ca2359b5b621e1f655b7c5d7526c36038739d42414b"
+  },
+  {
+   "bytes": 7315,
+   "path": "020_item/Atlases__item__quest__icon_wood_b.png",
+   "sha256": "11c5ae9b7815e40732c00e356e8b86350ff62f8f595a981ebf4ba1be14de3c3a"
+  },
+  {
+   "bytes": 7268,
+   "path": "020_item/Atlases__item__quest__icon_wood_g.png",
+   "sha256": "6d39549a57cfe22a627e438cb060a2818f77e918042f2735bc9d044d90669330"
+  },
+  {
+   "bytes": 5789,
+   "path": "020_item/Atlases__item__rifle__rifle_burst_lv1.png",
+   "sha256": "d00b76c86d1f6e160bb973ccdc05da29b4b6aab5883e74e167164373f4b4cc4f"
+  },
+  {
+   "bytes": 6141,
+   "path": "020_item/Atlases__item__rifle__rifle_burst_lv2.png",
+   "sha256": "7b9998e20de509aa7c395e13121f01b66363bcaec225f5f0bc32c6e4f4f3699b"
+  },
+  {
+   "bytes": 6422,
+   "path": "020_item/Atlases__item__rifle__rifle_burst_lv3.png",
+   "sha256": "2af67e01d4a73844474b126ebdf5a8b5021a2ba9f76346ca794a2e0953e52b55"
+  },
+  {
+   "bytes": 4770,
+   "path": "020_item/Atlases__item__rifle__rifle_cotton_lv1.png",
+   "sha256": "00f37660d14ac6edd9d56fc3cc93c2908ccf1a3fa362f314e4c381c677439fd9"
+  },
+  {
+   "bytes": 5409,
+   "path": "020_item/Atlases__item__rifle__rifle_cotton_lv2.png",
+   "sha256": "e4c7446eec641544b9bd2436ae5ae4e6a9e8af4e1a0d6e22e61274ac35cd4e37"
+  },
+  {
+   "bytes": 5557,
+   "path": "020_item/Atlases__item__rifle__rifle_cotton_lv3.png",
+   "sha256": "03d0b87a0b8c8b21e330d3799b66b9d9938f79791adea97382508e51f9328b9a"
+  },
+  {
+   "bytes": 3467,
+   "path": "020_item/Atlases__item__rifle__rifle_kt.png",
+   "sha256": "681b0492c980c5b8cafe42f55699a977acb35b5cea7577d8dfdf1a2cedd5e161"
+  },
+  {
+   "bytes": 4118,
+   "path": "020_item/Atlases__item__rifle__rifle_practice.png",
+   "sha256": "aa759ba4776ffa80ef34aee84023adc5bbce9cc51400f2f71cef2ba42695e397"
+  },
+  {
+   "bytes": 4896,
+   "path": "020_item/Atlases__item__rifle__rifle_revolver_lv2.png",
+   "sha256": "6290c45f710ff3fc93af74cf7fe1f8b7c14b9f6020846cb4b19e65911cee4081"
+  },
+  {
+   "bytes": 4846,
+   "path": "020_item/Atlases__item__rifle__rifle_saver_lv1.png",
+   "sha256": "0c38b09fdee0d4027495abba9fb039fe40a7e5a63f51dbafd0a15d343bc93dee"
+  },
+  {
+   "bytes": 5724,
+   "path": "020_item/Atlases__item__rifle__rifle_saver_lv2.png",
+   "sha256": "9cb6257893c7528193120520e6bcb27e57fd73396385473e238c54620e6286e0"
+  },
+  {
+   "bytes": 5014,
+   "path": "020_item/Atlases__item__rifle__rifle_saver_lv3.png",
+   "sha256": "48cff2613a621326cbf6b151286107fe8c942f2c10e9ebab6d3103b0e46daad2"
+  },
+  {
+   "bytes": 4985,
+   "path": "020_item/Atlases__item__shotgun__shotgun_burst_lv1.png",
+   "sha256": "a751af9d7806205901fb608d5e820a0f8059f748a35accfcbc9ec8ff0500ad67"
+  },
+  {
+   "bytes": 5697,
+   "path": "020_item/Atlases__item__shotgun__shotgun_burst_lv2.png",
+   "sha256": "8c2e047a8b2f2c5a49eab15c8e6c4e1e7e05724942068386c4d7cc584a9386bf"
+  },
+  {
+   "bytes": 5678,
+   "path": "020_item/Atlases__item__shotgun__shotgun_burst_lv3.png",
+   "sha256": "f0976312766adbc18e02e6bc9cff4ce606a90e002912250cd8bf664a9c134b92"
+  },
+  {
+   "bytes": 4639,
+   "path": "020_item/Atlases__item__shotgun__shotgun_cotton_lv1.png",
+   "sha256": "d096fe82db5ac585d46de2866ffab1831d93aea15841b34226fb5a5d21eb310f"
+  },
+  {
+   "bytes": 5833,
+   "path": "020_item/Atlases__item__shotgun__shotgun_cotton_lv2.png",
+   "sha256": "066946b327ae7bc684d5a40e11a13f709498bcde7d32434730068b62f5033d95"
+  },
+  {
+   "bytes": 5824,
+   "path": "020_item/Atlases__item__shotgun__shotgun_cotton_lv3.png",
+   "sha256": "0ccc038e69b12875ea3cc486dca1f5a63b581d1a4194f92d00952c148d84a07d"
+  },
+  {
+   "bytes": 4113,
+   "path": "020_item/Atlases__item__shotgun__shotgun_practice.png",
+   "sha256": "ee41f5b66978dd9e86290d6424b369b48d64247bc052881ad7405d0d80d17183"
+  },
+  {
+   "bytes": 5831,
+   "path": "020_item/Atlases__item__shotgun__shotgun_revolver_lv2.png",
+   "sha256": "9e58950cddc89c8de52d0aee101f574c408b3e1e12ac57fbe077b2faa3442155"
+  },
+  {
+   "bytes": 5329,
+   "path": "020_item/Atlases__item__shotgun__shotgun_saver_lv1.png",
+   "sha256": "db067fc0c8cbf59cf9e8cc449ac18b4634425f33ab684a44923fff015105e6f9"
+  },
+  {
+   "bytes": 5780,
+   "path": "020_item/Atlases__item__shotgun__shotgun_saver_lv2.png",
+   "sha256": "0cabfccbd70f5378724d259626683cb5204df2b89b54ce4d10533d0c0f8e6055"
+  },
+  {
+   "bytes": 5755,
+   "path": "020_item/Atlases__item__shotgun__shotgun_saver_lv3.png",
+   "sha256": "b5ae688f925bafe89df07ced060faf2bf9fd609d98f45fcbaf4264ba04b9d0c7"
+  },
+  {
+   "bytes": 3962,
+   "path": "020_item/Atlases__item__sniper__sniper_burst_lv1.png",
+   "sha256": "f0ce1397313ffdec7d513a37adda9d6b2eba7c62290fbf3f2abc5a4751d84f48"
+  },
+  {
+   "bytes": 3780,
+   "path": "020_item/Atlases__item__sniper__sniper_burst_lv2.png",
+   "sha256": "c54a16f4a8badad38d6de9a74242dce83d0a5c961289e913b61d2b2228d8f2e6"
+  },
+  {
+   "bytes": 4171,
+   "path": "020_item/Atlases__item__sniper__sniper_cotton_lv1.png",
+   "sha256": "2fcdaa777640f3f784ad6c068576a4fe33f187cee1daf4931bb5fe1e2de9f2a5"
+  },
+  {
+   "bytes": 4434,
+   "path": "020_item/Atlases__item__sniper__sniper_cotton_lv2.png",
+   "sha256": "defa2c8a81e3c8bca4e3363a31154d498cd9af44dd940ecb5b8a481ae7264bc6"
+  },
+  {
+   "bytes": 3351,
+   "path": "020_item/Atlases__item__sniper__sniper_practice.png",
+   "sha256": "328cc3efc088fb2a12a7361424875b181c2994dbde1ec3b6b642bf404ad53b5f"
+  },
+  {
+   "bytes": 3548,
+   "path": "020_item/Atlases__item__sniper__sniper_revolver_lv1.png",
+   "sha256": "38e34c3755c42bccc4f6dd4c20aa0baa0cb5375692e698b4f08a4823148e5d7b"
+  },
+  {
+   "bytes": 4409,
+   "path": "020_item/Atlases__item__sniper__sniper_revolver_lv2.png",
+   "sha256": "a34ece816635c919616e897b92e0aaf10fab69b59af4c5bee986afa0ce161e3a"
+  },
+  {
+   "bytes": 3506,
+   "path": "020_item/Atlases__item__sniper__sniper_saver_lv1.png",
+   "sha256": "c20f1ac817aac8fac7b3cdf5ffac417d7069930ff1bc560be77beef6aa3c6cfd"
+  },
+  {
+   "bytes": 3773,
+   "path": "020_item/Atlases__item__sniper__sniper_saver_lv2.png",
+   "sha256": "81a1e75c0b9d0468417e2360e8d85918ec64031f5f379ef2c543608c5c62c268"
+  },
+  {
+   "bytes": 23998,
+   "path": "020_item/index.json",
+   "sha256": "cf42ffe98955883c63f22e2a77584b40853469741ca38e4a5c37b9290e5b338e"
+  },
+  {
+   "bytes": 33538,
+   "path": "030_map/Atlases__map__map__icon_desert_castle.png",
+   "sha256": "287abf093b6ef4d452ba2c58f51b46c01b40151621362e5b2b6cc03d83b04158"
+  },
+  {
+   "bytes": 33645,
+   "path": "030_map/Atlases__map__map__icon_desert_defence.png",
+   "sha256": "5e9bd0884100c507d81c99731ba6be5d60f111c804101b67b64a5a96135e9f4b"
+  },
+  {
+   "bytes": 30401,
+   "path": "030_map/Atlases__map__map__icon_desert_oneway.png",
+   "sha256": "98b0b520b996c086f7f9bcf37a2f243395a0abd940c5ad046caf49390cfc2227"
+  },
+  {
+   "bytes": 29617,
+   "path": "030_map/Atlases__map__map__icon_desert_pharaoh.png",
+   "sha256": "e6826a8680814e739dbbbd0b56fde2474be48379ab95c1d9152f8f72e61baf22"
+  },
+  {
+   "bytes": 35216,
+   "path": "030_map/Atlases__map__map__icon_desert_temple.png",
+   "sha256": "ece0d43293d9de2dd5a46f202b60583fd70e18bb28822fd9c0964512afd53405"
+  },
+  {
+   "bytes": 38348,
+   "path": "030_map/Atlases__map__map__icon_forest_hill.png",
+   "sha256": "bd89f686bad1d94c1e8720ed20115fd9b8847fd100a6d98de4b4087bab1baf0f"
+  },
+  {
+   "bytes": 30101,
+   "path": "030_map/Atlases__map__map__icon_forest_peterpan.png",
+   "sha256": "27514cf62706e2614fa15718d4e27184bb930ac1b80cdf789563ecb6328e9773"
+  },
+  {
+   "bytes": 36941,
+   "path": "030_map/Atlases__map__map__icon_forest_ravine.png",
+   "sha256": "704310f5bb502a6f16ad4cdc9fa3714400b75198c8f4d6e56d898eb18db33a53"
+  },
+  {
+   "bytes": 29904,
+   "path": "030_map/Atlases__map__map__icon_forest_water.png",
+   "sha256": "bab8bcb364125e4f76422f4d85d44a1581086a3cbb6a2481d8a9463254ae6c2f"
+  },
+  {
+   "bytes": 42120,
+   "path": "030_map/Atlases__map__map__icon_ice_twobridge.png",
+   "sha256": "2843124430065bf13a5d81ac689948de70fcb3418f2721869d356d6192fdbdea"
+  },
+  {
+   "bytes": 45815,
+   "path": "030_map/Atlases__map__map__icon_village_byway.png",
+   "sha256": "95151213d0a4e3d23bf40dd433938baee8c0928b149286f2c25a6833e0b69608"
+  },
+  {
+   "bytes": 36986,
+   "path": "030_map/Atlases__map__map__icon_village_circlepark.png",
+   "sha256": "16464f0e2d9fd226047771bfe260ebe15408d9a57dcb4b35080d8275ef9e4083"
+  },
+  {
+   "bytes": 41513,
+   "path": "030_map/Atlases__map__map__icon_village_cityhall.png",
+   "sha256": "99dab78cb479adc348ed10b1fa3a4be204e877646017d8dd3f68f0f835318295"
+  },
+  {
+   "bytes": 38538,
+   "path": "030_map/Atlases__map__map__icon_village_daohouse.png",
+   "sha256": "5cce07e613614a19d72b5b4fa889da14711163b0a4637d657b5bb51ad3ffd9f5"
+  },
+  {
+   "bytes": 35702,
+   "path": "030_map/Atlases__map__map__icon_village_easy.png",
+   "sha256": "c1a9e63da0390b869107a86c06cf64231792b102e582fc257c4ef8f74b120883"
+  },
+  {
+   "bytes": 36659,
+   "path": "030_map/Atlases__map__map__icon_village_playground.png",
+   "sha256": "cebfa521d52a4bd2742acc9a0354b7edd7c554069daeca7991dba2b1a676e05a"
+  },
+  {
+   "bytes": 38174,
+   "path": "030_map/Atlases__map__map__icon_village_station.png",
+   "sha256": "798a4eda6db352affe4160322542afa0940683892aeaff067e49f86c506b8455"
+  },
+  {
+   "bytes": 37111,
+   "path": "030_map/Atlases__map__map__icon_village_waterpark.png",
+   "sha256": "93543e85969c7b87cc8b4bded552ade24aebb4aa07821239b7ad5ee309eea0cd"
+  },
+  {
+   "bytes": 19003,
+   "path": "030_map/Atlases__map__map__list_desert_castle.png",
+   "sha256": "901a247babf3d55467020293b8f19ec448593c894791d19185c3ff988c2573ec"
+  },
+  {
+   "bytes": 17548,
+   "path": "030_map/Atlases__map__map__list_desert_defence.png",
+   "sha256": "d6fdd57c6ef93a1ed2f25706fc92f52d1b7b0d57a627dbb643e4fc96cbda7768"
+  },
+  {
+   "bytes": 17269,
+   "path": "030_map/Atlases__map__map__list_desert_oneway.png",
+   "sha256": "db4f1c0357f2e3f5e81e83f2f55c4d559a0757d83a8a9c0fc85ef0d2483041b6"
+  },
+  {
+   "bytes": 17094,
+   "path": "030_map/Atlases__map__map__list_desert_pharaoh.png",
+   "sha256": "25ad873cb4f98cc90d62b2da8d9da5a613388ed60ff18ef45e309272ac6bc8c9"
+  },
+  {
+   "bytes": 16293,
+   "path": "030_map/Atlases__map__map__list_desert_temple.png",
+   "sha256": "c1a5af394b45c1bc099206cf184ee4676221996a41feca69dc8dafe9161b8e8e"
+  },
+  {
+   "bytes": 18190,
+   "path": "030_map/Atlases__map__map__list_forest_hill.png",
+   "sha256": "e7da96979b471b86ccbc9fedadeb540964577bd82dcb8db4f73b67dbe6f82fba"
+  },
+  {
+   "bytes": 16621,
+   "path": "030_map/Atlases__map__map__list_forest_peterpan.png",
+   "sha256": "e31a93027e4102260bc7c7974f18abd58fd3e3a4cbce0a8bac67ed86310f20a7"
+  },
+  {
+   "bytes": 15045,
+   "path": "030_map/Atlases__map__map__list_forest_ravine.png",
+   "sha256": "85f9cb755580a006ea324184ce783b9a9df203a461bcd0a1f74e816ae7a4e562"
+  },
+  {
+   "bytes": 12656,
+   "path": "030_map/Atlases__map__map__list_forest_water.png",
+   "sha256": "956a6891c15fa02872ec9d5e2a8d9484f61b55a7b06bef0b291087af2bfdbe94"
+  },
+  {
+   "bytes": 19022,
+   "path": "030_map/Atlases__map__map__list_ice_twobridge.png",
+   "sha256": "71655b951a2bad849e322380972224f70ec4acc1ed11b5fac40b6f5704cc2ef7"
+  },
+  {
+   "bytes": 19818,
+   "path": "030_map/Atlases__map__map__list_village_byway.png",
+   "sha256": "856b6ecec0d126dec5d223d215ca656300223148bf221ecc48d8737d81b49190"
+  },
+  {
+   "bytes": 17027,
+   "path": "030_map/Atlases__map__map__list_village_circlepark.png",
+   "sha256": "17a911eaa28dc7ee87297bf49ea6c6eba249d6b666a5fdfa6ca48963a7981a5d"
+  },
+  {
+   "bytes": 20238,
+   "path": "030_map/Atlases__map__map__list_village_cityhall.png",
+   "sha256": "a8554e3937296f101c640f51e66d74e1959381e94029906548754fad301aaa20"
+  },
+  {
+   "bytes": 17200,
+   "path": "030_map/Atlases__map__map__list_village_daohouse.png",
+   "sha256": "46f34590690ba4edcc409af13cd1f0c344ac937b999f23a3652c71ee5a23c3f8"
+  },
+  {
+   "bytes": 17779,
+   "path": "030_map/Atlases__map__map__list_village_easy.png",
+   "sha256": "3b25887ddf0b9bcedb58efd609629a1071f326460f176b1c3bcd3fb0c1ebf77c"
+  },
+  {
+   "bytes": 18501,
+   "path": "030_map/Atlases__map__map__list_village_playground.png",
+   "sha256": "78d5c78d46b7d1e516658f12b6eec0ecf0cf05cdd86a73e214db048bf4d392c2"
+  },
+  {
+   "bytes": 18225,
+   "path": "030_map/Atlases__map__map__list_village_station.png",
+   "sha256": "2462bc4b70251138b5ebe00bbcd656e047ca52a18e3518671a8ab00bcc3a97d7"
+  },
+  {
+   "bytes": 19036,
+   "path": "030_map/Atlases__map__map__list_village_waterpark.png",
+   "sha256": "6dd1c3f3b7fb86497f7016babf8aca1c4f849f3e555f8404120223f125495645"
+  },
+  {
+   "bytes": 11209,
+   "path": "030_map/Atlases__townbg__townbg__img_fence.png",
+   "sha256": "30772ef287885f078aebabfb66c4edcd8e7ef6948c0367edc8d350457c3b5b73"
+  },
+  {
+   "bytes": 180628,
+   "path": "030_map/Atlases__townbg__townbg__img_house01.png",
+   "sha256": "a361c5fe265cf3972388b8208e4f88dceac2cad5f4f6e7eab9fe6c0adaa53aae"
+  },
+  {
+   "bytes": 76088,
+   "path": "030_map/Atlases__townbg__townbg__img_house02.png",
+   "sha256": "81febcc4934f03edfd09ca13a752e829aabd087b84712a4c7528c27c0cdf5448"
+  },
+  {
+   "bytes": 148157,
+   "path": "030_map/Atlases__townbg__townbg__img_house03.png",
+   "sha256": "d8795f8cf2489b848f2f12f0c4f01c04f46c15e240cb4b2754ffdef7538453f2"
+  },
+  {
+   "bytes": 317564,
+   "path": "030_map/Atlases__townbg__townbg__img_layer3.png",
+   "sha256": "f919c7327f7fc735e16c1e1b54450e97885f4dd440e5f05fccb48f74c7e4ee3b"
+  },
+  {
+   "bytes": 245764,
+   "path": "030_map/Atlases__townbg__townbg__img_tile.png",
+   "sha256": "d7f9a4596f6d3532ee737bb79457641603d4af9dfed32e89afcec2f7142b8838"
+  },
+  {
+   "bytes": 6609,
+   "path": "030_map/Atlases__zombiebg__light__light_1.png",
+   "sha256": "d3cdd8f7bd7fa9e38d41ea14d989d9ebfb7fce2d276ee5c03987e81a3c83404b"
+  },
+  {
+   "bytes": 5869,
+   "path": "030_map/Atlases__zombiebg__light__light_2.png",
+   "sha256": "06a5b585b6df7ed5f28829d1aae8184ad2d34d70b3d44ebea9be86be79f56970"
+  },
+  {
+   "bytes": 11088,
+   "path": "030_map/Atlases__zombiebg__light__light_3.png",
+   "sha256": "2a2d1de0707144a953fe036f8e9e104225e20d1bc34c7d8b667a92b34a30b736"
+  },
+  {
+   "bytes": 14690,
+   "path": "030_map/Atlases__zombiebg__light__light_4.png",
+   "sha256": "e517c59bd8b4ada72f9a10e3633d499da991b9899cd09bb59c83bd9fef090001"
+  },
+  {
+   "bytes": 5851,
+   "path": "030_map/Atlases__zombiebg__light__light_5.png",
+   "sha256": "fa95e537267b9b7ffe77ec607b855efab8a656d84c9fe025bb3bde9044f0ae09"
+  },
+  {
+   "bytes": 2039,
+   "path": "030_map/Atlases__zombiebg__lightning__lightning_01.png",
+   "sha256": "196cca941c6c35b21dce10ee0138607acb51491bc13ce22376ae674552da46b9"
+  },
+  {
+   "bytes": 5187,
+   "path": "030_map/Atlases__zombiebg__lightning__lightning_02.png",
+   "sha256": "939a5e87f0bc56372e1fd0ef469e3a7a62887d74d86a9c3d1c325cdc5e4e848e"
+  },
+  {
+   "bytes": 9244,
+   "path": "030_map/Atlases__zombiebg__lightning__lightning_03.png",
+   "sha256": "2a6b44be07c8771098772d056ad86a74944b9ee40ab94410b36fd98aca1bb4c0"
+  },
+  {
+   "bytes": 11154,
+   "path": "030_map/Atlases__zombiebg__lightning__lightning_04.png",
+   "sha256": "68616d198c7d65f37f140d93e11ad44f88de85557997ac3732b7c8ea42fdd58f"
+  },
+  {
+   "bytes": 3052,
+   "path": "030_map/Atlases__zombiebg__zombiebg__bg_dark.png",
+   "sha256": "9df16291021ae27da6d400220c34eaedfce88e3ade052e94b0e3106b1a06407c"
+  },
+  {
+   "bytes": 279,
+   "path": "030_map/Atlases__zombiebg__zombiebg__bg_zombie.png",
+   "sha256": "658c4eb014f99b0c73a34978604ee7fdb471fcbafd1428ee8cf6328660b965f7"
+  },
+  {
+   "bytes": 40106,
+   "path": "030_map/Atlases__zombiebg__zombiebg__img_sky_zombie.png",
+   "sha256": "17f60a8c86800307344775606c52994dd4ee8c9e734e0970c25f63a97854f225"
+  },
+  {
+   "bytes": 9374,
+   "path": "030_map/index.json",
+   "sha256": "839aeb125f813814b186b05c25209ccd52b76ae607e35cd1e56fed243174620c"
+  },
+  {
+   "bytes": 9012,
+   "path": "040_fx/Textures__FX__Pirate_road03.png",
+   "sha256": "eee45286f31c6ebe6de81f2b8b47cd72ba2f3660d2632276f3acdf7ffd7a8b68"
+  },
+  {
+   "bytes": 31167,
+   "path": "040_fx/Textures__FX__Pirate_road05.png",
+   "sha256": "102b4251ee481b1fa493612350e7bfbc036f18867fb7ce4065c72bce3beceda7"
+  },
+  {
+   "bytes": 627,
+   "path": "040_fx/Textures__FX__bazzi_active_eye.png",
+   "sha256": "a27a466fc9f55611e23b9ba0c5fbe3512bd4cc784ca03d1d9fa47a68067d2455"
+  },
+  {
+   "bytes": 4515,
+   "path": "040_fx/Textures__FX__bazzi_attack_feverGroundAir_line.png",
+   "sha256": "25c4366f9b054eb74268656ac10426f38758cef878ad5aec51d11f60306864ca"
+  },
+  {
+   "bytes": 3094,
+   "path": "040_fx/Textures__FX__bazzi_attack_feverGround_circle.png",
+   "sha256": "ebbf2c73d9b38f807db01aa1577796e24c7cde1c6d0dc1cf20130edc2f490114"
+  },
+  {
+   "bytes": 7039,
+   "path": "040_fx/Textures__FX__bazzi_attack_feverGround_downCircle.png",
+   "sha256": "a59e8bc274962b571ea554275876ac86c29aa6609385d990feb1aa9d2d1b5892"
+  },
+  {
+   "bytes": 6445,
+   "path": "040_fx/Textures__FX__bazzi_attack_feverGround_line.png",
+   "sha256": "220808071105ebb76fca50bf5f0b83ca1d531fd396e8d9c68f87273bf7ce2ed3"
+  },
+  {
+   "bytes": 757,
+   "path": "040_fx/Textures__FX__bazzi_attack_normalDamage_impact.png",
+   "sha256": "cc9a7f2659b29e8b0425e81e8ab5399708728a8c396013082e9ba73b9dbd331c"
+  },
+  {
+   "bytes": 2541,
+   "path": "040_fx/Textures__FX__bazzi_attack_normalDamage_nailMark.png",
+   "sha256": "0c8bbc185edbb7afcf7f0fb250304024f2d388db65becfba7edf2ea9633bb876"
+  },
+  {
+   "bytes": 1827,
+   "path": "040_fx/Textures__FX__bazzi_attack_normalDamage_nailMark02.png",
+   "sha256": "232f533ac2d8a0aa8734254657c92578743df150790711951543e773b1cc8284"
+  },
+  {
+   "bytes": 1840,
+   "path": "040_fx/Textures__FX__bazzi_damage_larva_poison.png",
+   "sha256": "39d7431686f1296f8dc4bc4cc618fcad5ad3105cc85328adc188719df54a2c92"
+  },
+  {
+   "bytes": 780,
+   "path": "040_fx/Textures__FX__bazzi_fever_end_circle.png",
+   "sha256": "433d4447553722b2ceba886652cc53e87a4cac52d79d2d6737848d3fc2e5c891"
+  },
+  {
+   "bytes": 922,
+   "path": "040_fx/Textures__FX__bazzi_fever_end_smoke.png",
+   "sha256": "bedf0edeebb5d317ad82bad03516abfa095ab76d641193b842670a1c2a83df58"
+  },
+  {
+   "bytes": 4154,
+   "path": "040_fx/Textures__FX__bazzi_fever_use_aura.png",
+   "sha256": "c7591e3a181c2f78041efb9448cd16eea4bef7a55ef3ec41eec813cbdd9f9322"
+  },
+  {
+   "bytes": 1416,
+   "path": "040_fx/Textures__FX__bazzi_fever_use_circle.png",
+   "sha256": "5c74d4433384e1dda4fecaf0dee1543b28778b376b3602d108f267146376f025"
+  },
+  {
+   "bytes": 2245,
+   "path": "040_fx/Textures__FX__bazzi_fever_use_hand.png",
+   "sha256": "5a7f24a7e3ea6c83308367079e2721a43b27e0cc8f17fba19b9b17030223aef0"
+  },
+  {
+   "bytes": 6970,
+   "path": "040_fx/Textures__FX__bazzi_fever_use_haze.png",
+   "sha256": "549ac1c98914958c70253f0fb811906d8bb6bffc57d8cbc1e534401232293793"
+  },
+  {
+   "bytes": 7913,
+   "path": "040_fx/Textures__FX__bazzi_gameEnd_fighterWin_bubble.png",
+   "sha256": "2c047706c5357e6bf1a6013c495db843f3d168a5dbd1a2dcd5a3f3e803e22cfc"
+  },
+  {
+   "bytes": 11574,
+   "path": "040_fx/Textures__FX__bazzi_gameEnd_fighterWin_downCircle.png",
+   "sha256": "39a6cba8bd060a93701907b6bf55f79a3c84e7e582cfa488abefe88485f2fe22"
+  },
+  {
+   "bytes": 3734,
+   "path": "040_fx/Textures__FX__bazzi_gameEnd_fighterWin_smoke.png",
+   "sha256": "4c6cc5371cf9d28c054a8e0f8dd7c775779b5815454d8263b04a741ec2292d35"
+  },
+  {
+   "bytes": 1619,
+   "path": "040_fx/Textures__FX__bazzi_gameEnd_fighterWin_spark.png",
+   "sha256": "77a72517f1df7134a723d4af786e69ac12c2c8fbc5e5e2334731ede25c6649f2"
+  },
+  {
+   "bytes": 1683,
+   "path": "040_fx/Textures__FX__bazzi_host_active_aura.png",
+   "sha256": "1483deeabe63d83c31f67c8b56b69a2fd06b2744dabfaad6a3a56e0cf81d720c"
+  },
+  {
+   "bytes": 1521,
+   "path": "040_fx/Textures__FX__bazzi_item_aura.png",
+   "sha256": "2be43613ec96c72398c528bf302d26861168896380b7d8a480edf9f3f64398f6"
+  },
+  {
+   "bytes": 534,
+   "path": "040_fx/Textures__FX__bazzi_item_lighting.png",
+   "sha256": "84d16345785ed892259d6e674792f9d5e32966fb6b6de079b77ef8887aaa1793"
+  },
+  {
+   "bytes": 1235,
+   "path": "040_fx/Textures__FX__bazzi_item_lighting02.png",
+   "sha256": "e199e0604183b9803e7845ec5f453705779e56d6e62dd394ee6c639c67dc5329"
+  },
+  {
+   "bytes": 3127,
+   "path": "040_fx/Textures__FX__bazzi_item_respwan_aura.png",
+   "sha256": "310da4a8106b875f78585d2dc58d957f382363f0b82d50b635731fa5debe311b"
+  },
+  {
+   "bytes": 2809,
+   "path": "040_fx/Textures__FX__bazzi_item_respwan_smoke.png",
+   "sha256": "64888291b987c62aeea8724678add0a9f82d87ae7b9ec23728d5e2aade967356"
+  },
+  {
+   "bytes": 2566,
+   "path": "040_fx/Textures__FX__bazzi_item_respwan_spark.png",
+   "sha256": "0165bed3b3deeadb0735c23153fdff0b3bbec1b759016a7489e4deebf4408c60"
+  },
+  {
+   "bytes": 327,
+   "path": "040_fx/Textures__FX__bazzi_item_respwan_sparkRong.png",
+   "sha256": "8447d0bed72cfc194d3cc18cd94840ebc48ef062b5528d13ede9b56c598b7e1b"
+  },
+  {
+   "bytes": 177,
+   "path": "040_fx/Textures__FX__bazzi_larva_active_fly.png",
+   "sha256": "7cb83c5716521aa708db5c140e073394c03bc6521dd6742d94e24e160b05c043"
+  },
+  {
+   "bytes": 435,
+   "path": "040_fx/Textures__FX__bazzi_larva_active_fly03.png",
+   "sha256": "be167384b76bae479bd1f48335f1adbb9da36fe2c875205432f6f1d8d4b6cabc"
+  },
+  {
+   "bytes": 2679,
+   "path": "040_fx/Textures__FX__bazzi_larva_transformEnd_smoke.png",
+   "sha256": "fb708865870324e33de8f0120578106507fddd0b0d2bb0feab5dceae607fcdb4"
+  },
+  {
+   "bytes": 591,
+   "path": "040_fx/Textures__FX__bazzi_larva_transform_circle.png",
+   "sha256": "a3dee4a2dfb4d060cf05ca22a49b414dddabf3ea11e205adee3adb954d192bf5"
+  },
+  {
+   "bytes": 2296,
+   "path": "040_fx/Textures__FX__bazzi_larva_transform_smog.png",
+   "sha256": "a8c28a0d1605328e5a49a9e5a76f2eb30bba6360b5bc3bd0b6ff5737e7803b1c"
+  },
+  {
+   "bytes": 2226,
+   "path": "040_fx/Textures__FX__bazzi_up_land_smoke.png",
+   "sha256": "3fdd9d8c6e5606291cb8f61b5a505276b3a2da0ddfc47e7c72b5ece46a731ead"
+  },
+  {
+   "bytes": 8924,
+   "path": "040_fx/Textures__FX__bb2.png",
+   "sha256": "c2e0e5b8dc057e8f46abea35d82deac0f0547ae3cf82a63e180739bc02939ef3"
+  },
+  {
+   "bytes": 4987,
+   "path": "040_fx/Textures__FX__bubble_Pistol-Rifle__weapon_bubble_Pistol_waterdrop01.png",
+   "sha256": "31d201d469b39fc44952583838c3e3375541b92ca19d729e7193a619ff39f9e9"
+  },
+  {
+   "bytes": 6149,
+   "path": "040_fx/Textures__FX__bubble_Shotgun__weapon_bubble_Shotgun_waterdrop04.png",
+   "sha256": "0e42b68217bae4c7f0079f776bac6f85846d959a974f8f2819c989cb601dfbb7"
+  },
+  {
+   "bytes": 408,
+   "path": "040_fx/Textures__FX__bubble_SniperRifle__SniperRifle.png",
+   "sha256": "e67e781b742df9c6a5250005ffb51aed413040065ccce742af63215e215a0f3a"
+  },
+  {
+   "bytes": 722,
+   "path": "040_fx/Textures__FX__bubble_SniperRifle__tailRing.png",
+   "sha256": "1807c664825a4d9f06a1811357943066bea68575425737c42e0ba97bd2b3824a"
+  },
+  {
+   "bytes": 631,
+   "path": "040_fx/Textures__FX__bubble_SniperRifle__tailRing2.png",
+   "sha256": "2627fc5a08952f1ed26de2640bf1a0708cb206c78dea6cc9bdc826120f4564a7"
+  },
+  {
+   "bytes": 732,
+   "path": "040_fx/Textures__FX__bubble_bound_hitWall_circle.png",
+   "sha256": "92e4c0b0c864490337db7d061f416795fd94c23235e9d72db333a588610c6a80"
+  },
+  {
+   "bytes": 1447,
+   "path": "040_fx/Textures__FX__bubble_bound_hitWall_mark.png",
+   "sha256": "b6510e669c1aef59a8c9ed39c17fd875131da63c6f09b6a8c9f897b45f48a889"
+  },
+  {
+   "bytes": 1265,
+   "path": "040_fx/Textures__FX__bubble_bound_in02_bubble.png",
+   "sha256": "02c9c05a65b49a167ce60b713a4208ce45072af1a7b43c229c1857469bd14f13"
+  },
+  {
+   "bytes": 3152,
+   "path": "040_fx/Textures__FX__bubble_help_item_circle.png",
+   "sha256": "11c636ddee327bb731e0cee83f4c6cd1b733b5b7d0962b2bbbe3a3990e7b723d"
+  },
+  {
+   "bytes": 10260,
+   "path": "040_fx/Textures__FX__bubble_help_item_lighten.png",
+   "sha256": "5c08b837b1e60747f883dd4823182303e13c8bf222a818d37715bf0bf917c98a"
+  },
+  {
+   "bytes": 433,
+   "path": "040_fx/Textures__FX__cross_green.png",
+   "sha256": "03c81839342042aeea8dcb8dbf20d6557745739a063a7047af2a8a68a526b95b"
+  },
+  {
+   "bytes": 436,
+   "path": "040_fx/Textures__FX__cross_red.png",
+   "sha256": "09baa72efb99f24610e4bcded552a30059fdae8dce9b4cc756af1796091c3fc2"
+  },
+  {
+   "bytes": 2414,
+   "path": "040_fx/Textures__FX__damage_damage_lockedIn_bubble002.png",
+   "sha256": "f84b5d57e241baeab1e374bff80a0fc655202460b3d3f1a57a8b6de218f12c26"
+  },
+  {
+   "bytes": 9432,
+   "path": "040_fx/Textures__FX__event_model_lucciBigLimit_lightCricle.png",
+   "sha256": "b6bacd4f014333b690b1a4337130067b9eb097788d049c6d1802c13d2b1530fa"
+  },
+  {
+   "bytes": 11361,
+   "path": "040_fx/Textures__FX__gunpoint_Pistol-Shotgun-Rifle__gunpoint_Pistol_FireCone02.png",
+   "sha256": "f77109c6bff0f7b1088bed8c89dcf91c3bac43cc299fabbaa59e241ad9dabe22"
+  },
+  {
+   "bytes": 1673,
+   "path": "040_fx/Textures__FX__gunpoint_Pistol-Shotgun-Rifle__gunpoint_Pistol_bubble003.png",
+   "sha256": "ab578c43c81e2ffd5d7610d93a854f19a95139d19753ddf77033a0fcd736d755"
+  },
+  {
+   "bytes": 3758,
+   "path": "040_fx/Textures__FX__gunpoint_Pistol-Shotgun-Rifle__gunpoint_Pistol_bubble101.png",
+   "sha256": "7e195abc7dba093c5d38f169ce036393ae45f01df298966126425cbe10bc750a"
+  },
+  {
+   "bytes": 3758,
+   "path": "040_fx/Textures__FX__gunpoint_Pistol-Shotgun-Rifle__gunpoint_Pistol_bubble101_Copy_6c3e1d0a.png",
+   "sha256": "7e195abc7dba093c5d38f169ce036393ae45f01df298966126425cbe10bc750a"
+  },
+  {
+   "bytes": 817,
+   "path": "040_fx/Textures__FX__gunpoint_Pistol-Shotgun-Rifle__gunpoint_Pistol_bubble_pang007.png",
+   "sha256": "bd341fa6e95695ac60d7ee04ad88b18685e9416bb5cdd04786fb90a9af275706"
+  },
+  {
+   "bytes": 14323,
+   "path": "040_fx/Textures__FX__gunpoint_Pistol-Shotgun-Rifle__gunpoint_Pistol_bubble_pang007_02.png",
+   "sha256": "78d1642d859e674bb9021c542049ea6d5a0fda16dfdddf2e14efdb4611bfcbf9"
+  },
+  {
+   "bytes": 4288,
+   "path": "040_fx/Textures__FX__gunpoint_Pistol-Shotgun-Rifle__gunpoint_Pistol_bubble_pang008.png",
+   "sha256": "62699be48ef3ba10f53cff858c9bf69f286aef3c1b4cc74f8e48213d759c3b91"
+  },
+  {
+   "bytes": 2080,
+   "path": "040_fx/Textures__FX__gunpoint_Pistol-Shotgun-Rifle__gunpoint_Pistol_bubble_pang009.png",
+   "sha256": "3bf485cc59e7bee9e7b76f63a6140e45a30168602cd071789161ed4974cbce28"
+  },
+  {
+   "bytes": 7843,
+   "path": "040_fx/Textures__FX__gunpoint_Pistol-Shotgun-Rifle__gunpoint_Pistol_firecone4.png",
+   "sha256": "533dfea3bae662a1baadb8fb5a27b6dbda30fb018c993eb04300b52d50d0bdc6"
+  },
+  {
+   "bytes": 2454,
+   "path": "040_fx/Textures__FX__gunpoint_Pistol-Shotgun-Rifle__smoke001.png",
+   "sha256": "ecd050995f5a9b3244ca1fa8a98ee91e2f59fe83b2763fdfa54e50a9acdc4ec7"
+  },
+  {
+   "bytes": 3978,
+   "path": "040_fx/Textures__FX__gunpoint_SniperRifle__gunpoint_SniperRifle_FIreCone_sni1.png",
+   "sha256": "e0134c6dd3d7d8bd1de85485fa5466e3ce676968f742c493a4b761c48e521c6f"
+  },
+  {
+   "bytes": 1241,
+   "path": "040_fx/Textures__FX__gunpoint_SniperRifle__gunpoint_SniperRifle_bubble003.png",
+   "sha256": "023f8d559f21d27140a7f5ad0d61847d60c90167f8bc78cb14f3217a7744fedf"
+  },
+  {
+   "bytes": 1646,
+   "path": "040_fx/Textures__FX__gunpoint_SniperRifle__gunpoint_SniperRifle_bubble_shi0001.png",
+   "sha256": "c4f141aa20c7cfed13716f454171aa7493001cfdf61317bb61bf08ae5c3bced4"
+  },
+  {
+   "bytes": 8224,
+   "path": "040_fx/Textures__FX__gunpoint_SniperRifle__gunpoint_SniperRifle_bubble_sni.png",
+   "sha256": "6e60ce7ef1cfb30bfcd8a1278dcac3fbffc05381bed2536ed9b373c865a93a97"
+  },
+  {
+   "bytes": 3758,
+   "path": "040_fx/Textures__FX__gunpoint_SniperRifle__gunpoint_SniperRifle_bubble_sni03.png",
+   "sha256": "7e195abc7dba093c5d38f169ce036393ae45f01df298966126425cbe10bc750a"
+  },
+  {
+   "bytes": 3847,
+   "path": "040_fx/Textures__FX__message_critical.png",
+   "sha256": "f8d16d619c3aa946c1f79b852b58f137811043e71352d222bb46ee85b181a6b7"
+  },
+  {
+   "bytes": 9137,
+   "path": "040_fx/Textures__FX__message_help_Indicator.png",
+   "sha256": "e792a792c5b69ae097555818d755bbffcfbb01de8990d10f0251dc3134eb30d5"
+  },
+  {
+   "bytes": 1857,
+   "path": "040_fx/Textures__FX__message_hit.png",
+   "sha256": "45f73daaf994cd7f21f63af4ee28745aaaae8ba7f5a8cb406a1f0419d2e5f642"
+  },
+  {
+   "bytes": 2676,
+   "path": "040_fx/Textures__FX__poison_Circle.png",
+   "sha256": "3899ab77349fa28373cec01bd8a47a49affc1a79df7f6caed0b0be2e200e13b1"
+  },
+  {
+   "bytes": 1840,
+   "path": "040_fx/Textures__FX__poison_Circle02.png",
+   "sha256": "a6075fefc6bcfbe7f8643e72ec2471fcd0df65cfeb1d9b7b7571f9df49aa6bfa"
+  },
+  {
+   "bytes": 21686,
+   "path": "040_fx/Textures__FX__poison_smoke.png",
+   "sha256": "abc4094ea2af874faf6ac578151563f0e716aed61ee9961971908efb5f263192"
+  },
+  {
+   "bytes": 7038,
+   "path": "040_fx/Textures__FX__shield__Shield_effect_active_circle.png",
+   "sha256": "c501697d023129b414875347c76bbf34f9f6e6c2b15b3e75415d23f5e309b263"
+  },
+  {
+   "bytes": 782,
+   "path": "040_fx/Textures__FX__shield__Shield_effect_active_light.png",
+   "sha256": "9fa44cdfee8d2e9b382c78f939b72be50dd7356d45609cbfab0cd693dd108bbf"
+  },
+  {
+   "bytes": 25891,
+   "path": "040_fx/Textures__FX__shield__shield00.png",
+   "sha256": "9099e09fe93eb450770aa81f89bb1d4521acdd39b71f7d6544777f95cac80130"
+  },
+  {
+   "bytes": 14226,
+   "path": "040_fx/Textures__FX__spawn__state_spawn_char_bubble01.png",
+   "sha256": "7e8450c43c0793186078e6deb1217205cb45742f01dae3a6f6d0c0f255fff17c"
+  },
+  {
+   "bytes": 15093,
+   "path": "040_fx/Textures__FX__spawn__state_spawn_char_bubble01_02.png",
+   "sha256": "4db194d39e60e33ac16fbeff164cff0d3d6d5cde872b697c28d397a1e2424574"
+  },
+  {
+   "bytes": 1887,
+   "path": "040_fx/Textures__FX__spawn__state_spawn_char_bubble02.png",
+   "sha256": "e457e0c488eb8a9e5031989cb23715bc463cc6f21c09a9ab32966b91fb2d56ca"
+  },
+  {
+   "bytes": 1308,
+   "path": "040_fx/Textures__FX__spawn__state_spawn_char_bubble03.png",
+   "sha256": "4433c55edefbde8eb2f96cd862ca7468b092657ffe596f201568b8cedf849be6"
+  },
+  {
+   "bytes": 1072,
+   "path": "040_fx/Textures__FX__spawn__state_spawn_char_bubble04.png",
+   "sha256": "9a9a4ee9f2cf447eee04380621d9c819aed6e3a08048298910c912d14d1773fa"
+  },
+  {
+   "bytes": 391,
+   "path": "040_fx/Textures__FX__spawn__state_spawn_char_circle.png",
+   "sha256": "8692820f5bf89510cc7f102f35538baaa95b7f74e5a3dd0660bf88a9e50d6862"
+  },
+  {
+   "bytes": 3685,
+   "path": "040_fx/Textures__FX__spawn__state_spawn_shield.png",
+   "sha256": "cd491646f3e576e3afaa6d7a0cba382e9a924671ba55583d85b8ad1c4b23aac4"
+  },
+  {
+   "bytes": 274,
+   "path": "040_fx/Textures__FX__state_roll_again01_paticle.png",
+   "sha256": "c22b884c86349b065783575cfbfc9a8a98994afd3936cb97eb79a64d258aa408"
+  },
+  {
+   "bytes": 10490,
+   "path": "040_fx/Textures__FX__state_roll_again01_spark.png",
+   "sha256": "6a0bb88be71d38dfe6b06be57b1774f8bcb7aa1abf24c4baae982585d8610453"
+  },
+  {
+   "bytes": 1019,
+   "path": "040_fx/Textures__FX__state_roll_again02_cloud.png",
+   "sha256": "b8b9125dc4881fb477861f1bc293ce5296271a2b80b609382fa1073d1243adef"
+  },
+  {
+   "bytes": 9997,
+   "path": "040_fx/Textures__FX__state_roll_again02_spark.png",
+   "sha256": "6ad10f17eed7fec9976b57179899d106b0b651140f3a075b77d036196f0790ee"
+  },
+  {
+   "bytes": 3134,
+   "path": "040_fx/Textures__FX__stun_star.png",
+   "sha256": "0c741c2c3306213cf027bd81ef4d18d6fb1fb3d6bd0083642741bdfec9d8b188"
+  },
+  {
+   "bytes": 4272,
+   "path": "040_fx/Textures__FX__up_land_parts.png",
+   "sha256": "0cb794e6dfb8d701eed7051881bcfcec598d364c7ff9c6c6a1349b1e16e6df5b"
+  },
+  {
+   "bytes": 351,
+   "path": "040_fx/Textures__FX__weapon_bubble_Grenade3_aura02.png",
+   "sha256": "13abfe8ce0ae56b6559d25598836c94b5209791bdfafd931d19b004e151f5dff"
+  },
+  {
+   "bytes": 6101,
+   "path": "040_fx/Textures__FX__weapon_bubble_Pang02_star02.png",
+   "sha256": "487ffc790368fa88f69df9d969c8a5af99d716e8ff0987d57673580d3a0976da"
+  },
+  {
+   "bytes": 9097,
+   "path": "040_fx/Textures__FX__weapon_bubble_Pang_circle.png",
+   "sha256": "31a2b236040e10f5eba0d1dbfea3a3e626218ff74470b048f5e30eb4093a5eb6"
+  },
+  {
+   "bytes": 7016,
+   "path": "040_fx/Textures__FX__weapon_bubble_Pang_water.png",
+   "sha256": "d74fa4261d6b1b4a7045666b699ee22febcef254da9344f5f2b93993d5134359"
+  },
+  {
+   "bytes": 7809,
+   "path": "040_fx/Textures__FX__weapon_bubble_Pang_zoom.png",
+   "sha256": "7a8e3f00d82130fa999dc08074bc1daee88543762866d267b6bbd33947389513"
+  },
+  {
+   "bytes": 4415,
+   "path": "040_fx/Textures__FX__weapon_bubble_grenade301_model.png",
+   "sha256": "d98f96d2060830dd9f7b3c3f60bea17bb9cbd191b976e52a7f189a6512c30ed9"
+  },
+  {
+   "bytes": 2216,
+   "path": "040_fx/Textures__FX__weapon_bubble_grenade301_spark.png",
+   "sha256": "637f59a9898506360d109d7575eae9590b3676b90e67ef5d52a6cf4789271130"
+  },
+  {
+   "bytes": 2897,
+   "path": "040_fx/Textures__FX__weapon_bubble_landMine02_sensingDown01.png",
+   "sha256": "cb82ad7527997e5e148554442e5ccec7f16f6102859f90f06bbdd3b781cfd646"
+  },
+  {
+   "bytes": 10364,
+   "path": "040_fx/Textures__FX__weapon_bubble_landMine02_sensingDown03.png",
+   "sha256": "767858d6ee88ced4209e2a57809d6c9b914752a00418147de7c624aaa3d90907"
+  },
+  {
+   "bytes": 2460,
+   "path": "040_fx/Textures__FX__weapon_bubble_pang_pang.png",
+   "sha256": "c05e0fa243d170618d5eb9942af8ea49a3cc859cdd651cd724ce331277db4938"
+  },
+  {
+   "bytes": 3566,
+   "path": "040_fx/Textures__FX__weapon_bubble_poisonGrenade_water02.png",
+   "sha256": "4d165ad04a94540cb450273b3b08177f96d9672b9431ab28b3f1444e51f5c5c0"
+  },
+  {
+   "bytes": 4607,
+   "path": "040_fx/Textures__FX__weapon_bubble_water02.png",
+   "sha256": "af1b6617fac2f8280084ec262a8133055c1a3d12dd4c302442d6f29d78499924"
+  },
+  {
+   "bytes": 1375,
+   "path": "040_fx/Textures__FX__weapon_hitground_Pistol-Shotgun-Rifle-SniperRifle__weapon_hitground_Rifle_boom03.png",
+   "sha256": "13a8dd0e42ff523a23915a7cbec255918e7753f3394e23b4d7235bd611eb1ff2"
+  },
+  {
+   "bytes": 2082,
+   "path": "040_fx/Textures__FX__weapon_hitground_Pistol-Shotgun-Rifle-SniperRifle__weapon_hitground_Rifle_ring001.png",
+   "sha256": "a1f82feb47c2f774e71768dc93ce5e2bd9716e019db6b70540dd187d1932d355"
+  },
+  {
+   "bytes": 1682,
+   "path": "040_fx/Textures__FX__weapon_hitground_Pistol-Shotgun-Rifle-SniperRifle__weapon_hitground_Rifle_ring002.png",
+   "sha256": "275ecf4109b9de056d0ba652384180f33846e59e25a02c6314597c0a41760459"
+  },
+  {
+   "bytes": 1781,
+   "path": "040_fx/Textures__FX__weapon_hitground_Pistol-Shotgun-Rifle-SniperRifle__weapon_hitground_SniperRifle_ring003.png",
+   "sha256": "e422f612d016f61500adf269f45faffec71d7c63758b7868bb88d1a0e48f845d"
+  },
+  {
+   "bytes": 25944,
+   "path": "040_fx/Textures__FX__weapon_hitground_poisonGrenade_boom02.png",
+   "sha256": "040beacbcd892e8ec0c2fb29def4fc92da30a92724587c683b01909b92d7eb74"
+  },
+  {
+   "bytes": 831,
+   "path": "040_fx/Textures__FX__weapon_hitground_poisonGrenade_ring.png",
+   "sha256": "3bf950fb9fa0d029986f80e7b5c3d251854bc6138e7bfb038217cc1eb6a4e431"
+  },
+  {
+   "bytes": 6853,
+   "path": "040_fx/Textures__FX__weapon_hitground_poisonGrenade_water01.png",
+   "sha256": "a6dfcc565419f81ec31975a93dc3dbd344e5912a2255b03e237b71148cc9a5df"
+  },
+  {
+   "bytes": 1210,
+   "path": "040_fx/Textures__FX__weapon_hitground_poisonGrenade_water02.png",
+   "sha256": "c693696102ab1857c81607e3b26fb0bce00dd483618c825292fe445a7fb02260"
+  },
+  {
+   "bytes": 1652,
+   "path": "040_fx/Textures__FX__weapon_hitground_poisonGrenade_wetGround.png",
+   "sha256": "6d1b19799569dee941d17eceea1458033e3c77a75aa6795a651b2e08a3e56827"
+  },
+  {
+   "bytes": 660,
+   "path": "040_fx/Textures__FX__weapon_hitground_waterGrenade3_ring.png",
+   "sha256": "945513ec39eb3b6ac7f8fd007a8c84af93f4d49c9c0ef913e3a6196dff247789"
+  },
+  {
+   "bytes": 2711,
+   "path": "040_fx/Textures__FX__weapon_hitground_waterGrenade3_ring03.png",
+   "sha256": "5ea80f2268d6827a1d67b1e2eff7edcfecb54f40c06da043b13f897cc66c4992"
+  },
+  {
+   "bytes": 8033,
+   "path": "040_fx/Textures__FX__weapon_hitground_waterGrenade3_water01.png",
+   "sha256": "c6fdd10066b610967f3b728b350f65d8cefe8ef12a34e1a07da2c581cd62bd98"
+  },
+  {
+   "bytes": 1686,
+   "path": "040_fx/Textures__FX__weapon_hitground_waterGrenade3_water02.png",
+   "sha256": "a46962cfc98ae80083a29b3c1972bb389d644f22c6e03f6152d0c5e81bda0ab3"
+  },
+  {
+   "bytes": 2208,
+   "path": "040_fx/Textures__FX__weapon_hitground_waterGrenade3_wetGround.png",
+   "sha256": "951de849a95da5b0c42a52bbecb9f2cb05b4c1350724bf16f1189484dbeb47d1"
+  },
+  {
+   "bytes": 6394,
+   "path": "040_fx/Textures__FX__weapon_hitground_waterGrenade_dom01.png",
+   "sha256": "0649c00ed6a2ebddfc825dc2075a939b47e80865d0f694389f2a64381f0cf411"
+  },
+  {
+   "bytes": 6815,
+   "path": "040_fx/Textures__FX__weapon_hitground_waterGrenade_dom01_seson01.png",
+   "sha256": "7443a5df8c2acdc509611a71ee8400a670043d86afc92384d5677afbeab399c2"
+  },
+  {
+   "bytes": 8403,
+   "path": "040_fx/Textures__FX__weapon_hitground_waterGrenade_dom02.png",
+   "sha256": "672e21a916d566385e51d8a055cc0eab08799eaccfb7e2aa454f9c7b803e5353"
+  },
+  {
+   "bytes": 8994,
+   "path": "040_fx/Textures__FX__weapon_hitground_waterGrenade_ring003.png",
+   "sha256": "0caba296a19feb3d25e3894d5a7e9c7452bf14178ff7880be2a613c2af9346eb"
+  },
+  {
+   "bytes": 1110,
+   "path": "040_fx/Textures__FX__weapon_hitground_waterGrenade_ring004.png",
+   "sha256": "4352037f81457a95a0d1cf4890f97ea26cc9e3ba5374767ef015a97180759c50"
+  },
+  {
+   "bytes": 14915,
+   "path": "040_fx/Textures__FX__zombie_eye_glow.png",
+   "sha256": "ff694375a024dc5f36fb92d9ced92d0fe4cbb423ec2cf733699dd411300a7c40"
+  },
+  {
+   "bytes": 22563,
+   "path": "040_fx/index.json",
+   "sha256": "80d8bbbc1beb40776adc765841d3b11730c64ca88192784ef39601da8f8bb7ad"
+  },
+  {
+   "bytes": 280227,
+   "path": "050_texture/Textures__Characters__char_all.png",
+   "sha256": "70038d1111b99e00c245b2be97c1cc96f552957019e3844da51f45da900751e7"
+  },
+  {
+   "bytes": 412694,
+   "path": "050_texture/Textures__Characters__npc_all.png",
+   "sha256": "30ffcea5f522eb00e85f315c1fdefe1e3c0ea6e12c452de628b652c1991cda61"
+  },
+  {
+   "bytes": 27699,
+   "path": "050_texture/Textures__Map__Common__skybox_back.png",
+   "sha256": "e6f17a79331e0e5f334acd6c6dd3f2684e470ea97d03cd4dec13c5f9818f89ef"
+  },
+  {
+   "bytes": 79,
+   "path": "050_texture/Textures__Map__Common__skybox_down.png",
+   "sha256": "1d6c46b5996b45a5da9dd70e1aedaf86b8debcae561b2987bdb331eebd157fab"
+  },
+  {
+   "bytes": 25721,
+   "path": "050_texture/Textures__Map__Common__skybox_front.png",
+   "sha256": "4224c1e1572f225962702e9c8d2955c9d3f3c4c6bf5885401fb03fcc530a13c3"
+  },
+  {
+   "bytes": 27992,
+   "path": "050_texture/Textures__Map__Common__skybox_left.png",
+   "sha256": "d254a82a4c34854f683a8390e24bec1e50edd1bbe84740d3fda4b239654d8049"
+  },
+  {
+   "bytes": 33071,
+   "path": "050_texture/Textures__Map__Common__skybox_one.png",
+   "sha256": "20249c9801422193a964aaf7eb0433793fb03329c86c80da7661fcd3b73ae085"
+  },
+  {
+   "bytes": 28232,
+   "path": "050_texture/Textures__Map__Common__skybox_right.png",
+   "sha256": "be727e667435be28932dbfbadec4d09a396397e19beab3efa60954207fbbfa28"
+  },
+  {
+   "bytes": 79,
+   "path": "050_texture/Textures__Map__Common__skybox_up.png",
+   "sha256": "965d2e60b18d2c35b438f9fb6d578c0c2e9d262df6160fd5ffab53327650906c"
+  },
+  {
+   "bytes": 2766,
+   "path": "050_texture/Textures__Map__Common__water00.png",
+   "sha256": "57580cd40880c12af8578da4df2018f9006319b0d4899a5e4604b6c688444c23"
+  },
+  {
+   "bytes": 7496,
+   "path": "050_texture/Textures__Map__Common__water01.png",
+   "sha256": "63a2cc57f234f104141a20f60416c7d28c81e1ea749e5401f2e2d73f88b6f4f6"
+  },
+  {
+   "bytes": 3555,
+   "path": "050_texture/Textures__Map__Common__water_fall00.png",
+   "sha256": "3ec00d62f730e8f6e4a60bb40df9683a757d3fcc0cfba09f732c49da65b3bbfb"
+  },
+  {
+   "bytes": 19403,
+   "path": "050_texture/Textures__Map__Forest__F_caveroad00_grass00.png",
+   "sha256": "6df3411adf75932e03465ca86fb5edff13a8ecc901b24c09010a87506a50f05a"
+  },
+  {
+   "bytes": 465199,
+   "path": "050_texture/Textures__Map__Forest__F_forest.png",
+   "sha256": "307f0c39f8bbeeb1eec83d0aa57d59d67d6c5892a021bac5b8881840b43a1ed6"
+  },
+  {
+   "bytes": 6275,
+   "path": "050_texture/Textures__Map__Forest__F_grass00.png",
+   "sha256": "9433d51044257ae52f0e8e968e84fe9e066c3fb82f88f37277730045848e4c98"
+  },
+  {
+   "bytes": 23201,
+   "path": "050_texture/Textures__Map__Forest__F_grass00_00.png",
+   "sha256": "5294c6742ae32c1d15260c1357081ca7961b7c353d095cfc8eb0db661cb85677"
+  },
+  {
+   "bytes": 23849,
+   "path": "050_texture/Textures__Map__Forest__F_grass00_01.png",
+   "sha256": "d1064d48eedf7343eac754e484b539bb8c5a6f1bbf31ffe7d111f78e04513cf7"
+  },
+  {
+   "bytes": 26508,
+   "path": "050_texture/Textures__Map__Forest__F_lake_02.png",
+   "sha256": "f4c215f6d8faf4e58f6c0d5402d8342f29480c8a623954cc68436a6cb7f91313"
+  },
+  {
+   "bytes": 14560,
+   "path": "050_texture/Textures__Map__Forest__F_road02_d.png",
+   "sha256": "b2fff56931d40733416d261fed8f99186c4b06c27f9dea8bfea5b5608b555e6c"
+  },
+  {
+   "bytes": 29517,
+   "path": "050_texture/Textures__Map__Forest__F_skydome02.png",
+   "sha256": "94febb46e76b9cf34ab329f6392f225b6515a9c5eb8c3144b61a5cf1a623dd46"
+  },
+  {
+   "bytes": 20761,
+   "path": "050_texture/Textures__Map__Forest__F_waterfall_water.png",
+   "sha256": "944090f1a20bd0739a683f0e38d0e39d64c860eee466e9a5bbd2589c06de6e96"
+  },
+  {
+   "bytes": 198617,
+   "path": "050_texture/Textures__Map__Village__V_startup.png",
+   "sha256": "1931698fdddb3381826d4e3f879961b422fede08d557de4674f205852ae3968e"
+  },
+  {
+   "bytes": 29372,
+   "path": "050_texture/Textures__Map__Village__skydome_village01.png",
+   "sha256": "a351b0a44720f380d5b1547c8da739e1415bfc3b4e0fdee1b73fc0c484e173c2"
+  },
+  {
+   "bytes": 7315,
+   "path": "050_texture/Textures__Map__Village__v_bottomGreen01.png",
+   "sha256": "5f76fc8b31d3abcd3218895de88ea44bf667c51e71eeeca0fb91faa3585beb4e"
+  },
+  {
+   "bytes": 327288,
+   "path": "050_texture/Textures__Map__Village__v_byway.png",
+   "sha256": "359b3b232af766f943cec959ff1ec26f2795f8879cfdc02115c9f0c9ce7674d9"
+  },
+  {
+   "bytes": 5831,
+   "path": "050_texture/Textures__Map__Village__v_centerbottom01.png",
+   "sha256": "4c8ba17e5e6d5361ca37c43e75c60c3cd61672f900d19e9c8d80b414fdad7661"
+  },
+  {
+   "bytes": 6419,
+   "path": "050_texture/Textures__Map__Village__v_centerbottom02.png",
+   "sha256": "6bdeca0426d44567bdb7ce3366fb507365e7d75ae4aaa38bdf7602ccc03d8c9c"
+  },
+  {
+   "bytes": 309573,
+   "path": "050_texture/Textures__Map__Village__v_circlePark.png",
+   "sha256": "2b6253fca5d3f5c6626036147d16d95972eff9bc0409164d27439c909258ed57"
+  },
+  {
+   "bytes": 350253,
+   "path": "050_texture/Textures__Map__Village__v_cityHall.png",
+   "sha256": "fc78e08c8d44b0bdacefcb91a2f52b00e95dfd2d9407022b915bb7e22a6d85d2"
+  },
+  {
+   "bytes": 365544,
+   "path": "050_texture/Textures__Map__Village__v_daohouse.png",
+   "sha256": "de6d3c58b2c75059f175a6da29ba3c06c38424a28cbff280d18f6deb66e7ea49"
+  },
+  {
+   "bytes": 371686,
+   "path": "050_texture/Textures__Map__Village__v_easy.png",
+   "sha256": "3427db507fab686933eed84bcaf86d4c90f0f969e59515d11305dc3c92afca3e"
+  },
+  {
+   "bytes": 3915,
+   "path": "050_texture/Textures__Map__Village__v_floor.png",
+   "sha256": "8e9a0c960cb8ac1664ce16ac7643a13cda8b3fb40c6d462f0593dbfe944eda7d"
+  },
+  {
+   "bytes": 6413,
+   "path": "050_texture/Textures__Map__Village__v_grass00.png",
+   "sha256": "a6defaf213bf5d00b7792b69ebb9b91f98039d9545ae21124b27d8ac23e22451"
+  },
+  {
+   "bytes": 1064,
+   "path": "050_texture/Textures__Map__Village__v_play_bottomTile03.png",
+   "sha256": "2e9920dfbbe49dfce7eeba5025bbc9424567bd9f3229ddad50465470ea7d2523"
+  },
+  {
+   "bytes": 3039,
+   "path": "050_texture/Textures__Map__Village__v_play_bottomTile_blue.png",
+   "sha256": "8e43b60a39516533e99da5595cd01380a4760360205579a549544943f1e82800"
+  },
+  {
+   "bytes": 2198,
+   "path": "050_texture/Textures__Map__Village__v_play_bottomTile_blue02.png",
+   "sha256": "bbc38d821d0d0e1496c119b5480886df9a2237434cd18e285f1165ff5e77571a"
+  },
+  {
+   "bytes": 3150,
+   "path": "050_texture/Textures__Map__Village__v_play_bottomTile_green.png",
+   "sha256": "5834bbb834a6bde54072f955011a423662d9866fa1254bc32c48eb1d84246b47"
+  },
+  {
+   "bytes": 2679,
+   "path": "050_texture/Textures__Map__Village__v_play_bottomTile_red.png",
+   "sha256": "cf8a9bd7ed6e284fb28bc1e272cad13c79f1898d712dbc29ccde32b922f66051"
+  },
+  {
+   "bytes": 356496,
+   "path": "050_texture/Textures__Map__Village__v_playground.png",
+   "sha256": "967d260d64484d13ca5dad434771b2f118e1fa5941224a4a5d32db73f95f8655"
+  },
+  {
+   "bytes": 3118,
+   "path": "050_texture/Textures__Map__Village__v_road00.png",
+   "sha256": "e009bcdaa0865c8c430b451ac32a0a901ad2cc58fba51d98e80ef90ef8d0430a"
+  },
+  {
+   "bytes": 3160,
+   "path": "050_texture/Textures__Map__Village__v_road01.png",
+   "sha256": "f65979020c21c893d8180ac7ecee0a6a9737399097181c1d544d3107b551cd47"
+  },
+  {
+   "bytes": 65105,
+   "path": "050_texture/Textures__Map__Village__v_sand00.png",
+   "sha256": "47f701bd30626e43735344ab874219b96ed03b683763a1175854c698e8faa56f"
+  },
+  {
+   "bytes": 4761,
+   "path": "050_texture/Textures__Map__Village__v_sand01.png",
+   "sha256": "69ddf86f78e7d8b0c772a41ad511a2516105585be8c3c2bb56601b4f62f42a10"
+  },
+  {
+   "bytes": 288174,
+   "path": "050_texture/Textures__Map__Village__v_station.png",
+   "sha256": "e5981fdec6f03936d5edf31a1f170893c31ff9c0d081e7dff756d9d7d2a2ac37"
+  },
+  {
+   "bytes": 2426,
+   "path": "050_texture/Textures__Map__Village__v_station_bottomTile01.png",
+   "sha256": "9d52ef0687728977c6dbaae9bd1de1bb3ea0c504116484f68f8786c479ba6249"
+  },
+  {
+   "bytes": 1854,
+   "path": "050_texture/Textures__Map__Village__v_station_bottomTile02.png",
+   "sha256": "0da3789f34f6feebe56ad47386246ecb979ccc688ea54ce1ff4b3bf5d09b9426"
+  },
+  {
+   "bytes": 14691,
+   "path": "050_texture/Textures__Map__Village__v_stoneroad_blue00.png",
+   "sha256": "bcebe5f921cc1fbf28c05ea7c91d3b83551f094daebf4372e53061e508ff8af3"
+  },
+  {
+   "bytes": 19065,
+   "path": "050_texture/Textures__Map__Village__v_stonroad.png",
+   "sha256": "3b11d79323872e68f673ea102b834033db984d0a45b443f229151d73a99d02f2"
+  },
+  {
+   "bytes": 13259,
+   "path": "050_texture/Textures__Map__Village__v_stonroad_red00.png",
+   "sha256": "f33568b120ca577f802e64588042883d65ba94d22419a1b456d5ad9210272063"
+  },
+  {
+   "bytes": 290263,
+   "path": "050_texture/Textures__Map__Village__v_waterPark.png",
+   "sha256": "03cc79e6a7d8d4944aef9e3173b431633a8ac1fabd3ca9e46b96237cd74c336b"
+  },
+  {
+   "bytes": 94203,
+   "path": "050_texture/Textures__Map__desert__defence_gasTank.png",
+   "sha256": "feb565689189e5d05d65113ff05aaa94a157951c260f61992a2052ff641567a2"
+  },
+  {
+   "bytes": 1199987,
+   "path": "050_texture/Textures__Map__desert__desert_d.png",
+   "sha256": "bab64446351894ff6199a785882ee7c70cb302b663726df2981346a72ef0932a"
+  },
+  {
+   "bytes": 96618,
+   "path": "050_texture/Textures__Map__desert__desert_skydome00.png",
+   "sha256": "6c239f8ae61884a426491d87818b9d564604f2deee0d4f6f3d10e4b52385c684"
+  },
+  {
+   "bytes": 7696,
+   "path": "050_texture/Textures__Map__desert__desert_tile00.png",
+   "sha256": "02c4849a133cac8b27a7aba643e3a0f940b0892fcc9ecf2b1018fb726b83f56a"
+  },
+  {
+   "bytes": 6999,
+   "path": "050_texture/Textures__Map__desert__desert_tile01.png",
+   "sha256": "77d31eaf3aec41a7c5153229c6025ed154017f5ff04ca43ceef80634a1f9d25d"
+  },
+  {
+   "bytes": 5670,
+   "path": "050_texture/Textures__Map__desert__desert_tile02.png",
+   "sha256": "dd704af15099e9819ca099a8a563e635d83961f1ba50bd6ccdf8928259131c41"
+  },
+  {
+   "bytes": 9523,
+   "path": "050_texture/Textures__Map__desert__desert_tile03.png",
+   "sha256": "9fa4451697eeae8a56cac6d2593f9474d6e73a90738f93a2f608b9e2eb56a13f"
+  },
+  {
+   "bytes": 11392,
+   "path": "050_texture/Textures__Map__desert__desert_tile04.png",
+   "sha256": "30ebc64688f008e4fdad2a2876831d3944f5f004956a87bad7eff255f509460e"
+  },
+  {
+   "bytes": 11565,
+   "path": "050_texture/Textures__Map__desert__desert_tile05.png",
+   "sha256": "0fec7ad02b0b9e9b8102dcf1e26ad6e08eddd7f7d059947b89d4a4ff0328d00c"
+  },
+  {
+   "bytes": 3821,
+   "path": "050_texture/Textures__Map__desert__desert_tile06.png",
+   "sha256": "b1a10d2eca51c317ffdf806d61d46fa8948eb423ded19d2b947a58dc7fc9d8d8"
+  },
+  {
+   "bytes": 4154,
+   "path": "050_texture/Textures__Map__desert__desert_tile07.png",
+   "sha256": "2dfafa39d49cda67551bc5098906cb1e93400731da226040b2f621892fa20574"
+  },
+  {
+   "bytes": 15735,
+   "path": "050_texture/Textures__Map__desert__desert_tile08.png",
+   "sha256": "1ce32a9aee96af4dbcf23030bfb21dae4d95122bffea77fcc8502e7ada7358b8"
+  },
+  {
+   "bytes": 668,
+   "path": "050_texture/Textures__Map__desert__desert_tile09.png",
+   "sha256": "5602a23a2b7833dd2183838be7fc2943085b05002c6373b7c76f47291196de42"
+  },
+  {
+   "bytes": 1163944,
+   "path": "050_texture/Textures__Map__ice__ice.png",
+   "sha256": "f2e8ccbaa154dcaec8af97075c77ab3b901865f1bf727d284944d01db74e3512"
+  },
+  {
+   "bytes": 10496,
+   "path": "050_texture/Textures__Map__ice__ice_tile00.png",
+   "sha256": "2f64e27007cff0354c0cee0271ff0ed41514f81efdaea0ce55cc3f4d5f832531"
+  },
+  {
+   "bytes": 974,
+   "path": "050_texture/Textures__Map__ice__ice_tile01.png",
+   "sha256": "f383536c5fd5b5e970bdab6990355cce5ba30310413dc3cb3df2974333710e57"
+  },
+  {
+   "bytes": 589069,
+   "path": "050_texture/Textures__Weapon__w_weaponAll.png",
+   "sha256": "36a0a20f607324638c9883db77bfbb5e0de7b36a3c7f8ddc4aed931f9472ecdf"
+  },
+  {
+   "bytes": 469882,
+   "path": "050_texture/Textures__season01__F_forest_autumn.png",
+   "sha256": "62cbae58f48f9fbc06a5dcefac2b00150acdc7a0e58eb2e26cece0f45f4885ca"
+  },
+  {
+   "bytes": 21099,
+   "path": "050_texture/Textures__season01__F_grass00_autumn.png",
+   "sha256": "34921e0672a1c386774cb9ae808bca1c84e918531fc8c964ae479bd23145bebc"
+  },
+  {
+   "bytes": 20693,
+   "path": "050_texture/Textures__season01__F_grass01_autumn.png",
+   "sha256": "f12ecf2b5a7655f98a6c56489a8064e1e170ea075ed5ae8baf31e28247e27b7b"
+  },
+  {
+   "bytes": 325135,
+   "path": "050_texture/Textures__season01__V_byway_season01.png",
+   "sha256": "b1f595a5bf2bea0430cf154a31627652560314fed4308aca0c944f7f6c05e8de"
+  },
+  {
+   "bytes": 304820,
+   "path": "050_texture/Textures__season01__V_circlepark_season01.png",
+   "sha256": "ba0bbfc38b27262fe1ea390e8a8f2cbc587209d00ce342f6e7d85cbdce0a5f73"
+  },
+  {
+   "bytes": 347877,
+   "path": "050_texture/Textures__season01__v_cityHall_autumn.png",
+   "sha256": "6b935b9f5d1479014cf48d6535ecf6b2bdb51e89b82cc8fc068db04f4c41197f"
+  },
+  {
+   "bytes": 6323,
+   "path": "050_texture/Textures__season01__v_grass00_autumn.png",
+   "sha256": "866f49bec1593b7438e8a0c8df84214743263605e8c495617b2e815ea928297f"
+  },
+  {
+   "bytes": 353300,
+   "path": "050_texture/Textures__season01__v_playground_autumn.png",
+   "sha256": "66f015eb35b3a0e78eac3a14289db7f6afca8bf5a0114bc01b4865230e2342f9"
+  },
+  {
+   "bytes": 15040,
+   "path": "050_texture/Textures__season01__v_stoneroad_blue00_autumn.png",
+   "sha256": "2fb5fa9db311771282fec37fb350445e6e64062c754f95c630eb70fa89f8d775"
+  },
+  {
+   "bytes": 19119,
+   "path": "050_texture/Textures__season01__v_stonroad_autumn.png",
+   "sha256": "477dc0c9a874d62d9d381aac29e53d893771e0648235bc7cdd397e26be16a2d9"
+  },
+  {
+   "bytes": 287905,
+   "path": "050_texture/Textures__season01__v_waterPark_season01.png",
+   "sha256": "8d94fcb0fdd4fa8fe8623d248dc10ae149b1d31e27736fef23fcb444e0689e93"
+  },
+  {
+   "bytes": 122,
+   "path": "050_texture/Textures__toon_ramp_126a085a.png",
+   "sha256": "1615e11cf7c19a13abad250f2f0d542c6331e984c0e820be23961165d9c6bad9"
+  },
+  {
+   "bytes": 194,
+   "path": "050_texture/Textures__toon_ramp_blue_a5291fe0.png",
+   "sha256": "69af4975d0f9b8f03183fac437d40dbaf5077a3ad1c3f67561f6c7cb884bbaaf"
+  },
+  {
+   "bytes": 236,
+   "path": "050_texture/Textures__toon_ramp_white_4ef67e5e.png",
+   "sha256": "2544ad3bf9c1784daf383799e682447a60c64d2a6695e828334cd5ccf5143cb8"
+  },
+  {
+   "bytes": 13673,
+   "path": "050_texture/index.json",
+   "sha256": "fd82995e0e8b60e6c89ee384e3f8072ca734f69a3e0adcdddfb1956536b40c3f"
+  },
+  {
+   "bytes": 1090,
+   "path": "index.json",
+   "sha256": "47b96d2fa891eb6dafc4730c09ec00436051622ee94318256e2c45ba65a4f62b"
+  }
+ ],
+ "game": "bubblefighter-adventure",
+ "schema": "boomhill-open-assets/manifest/v1",
+ "totals": {
+  "assets": 709,
+  "bytes": 14959506,
+  "files": 716,
+  "frames": 709
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "categories": [
+  {
+   "bytes": 166629,
+   "count": 47,
+   "dir": "010_character",
+   "id": "3d_character",
+   "list": "010_character/index.json",
+   "title": "캐릭터"
+  },
+  {
+   "bytes": 143143,
+   "count": 45,
+   "dir": "020_weapon",
+   "id": "3d_weapon",
+   "list": "020_weapon/index.json",
+   "title": "무기, 아이템"
+  },
+  {
+   "bytes": 50393,
+   "count": 16,
+   "dir": "030_map",
+   "id": "3d_map",
+   "list": "030_map/index.json",
+   "title": "맵"
+  },
+  {
+   "bytes": 21484821,
+   "count": 492,
+   "dir": "040_anim",
+   "id": "3d_anim",
+   "list": "040_anim/index.json",
+   "title": "애니메이션"
+  }
+ ],
+ "game": "bubblefighter-adventure",
+ "plugin": "bubblefighter-adventure",
+ "render": {
+  "background": "#1b1f27",
+  "hemi": [
+   "#ffffff",
+   "#445566",
+   1.1
+  ],
+  "sun": [
+   "#ffffff",
+   1.2,
+   [
+    5,
+    10,
+    7
+   ]
+  ]
+ },
+ "schema": "boomhill-open-assets/models/v1"
+}

@@ -1,0 +1,117 @@
+{
+ "materials": [
+  {
+   "tex": "_shared/textures/v_centerbottom01_073560.png"
+  },
+  {
+   "tex": "_shared/textures/v_cityHall_9cae48.png"
+  },
+  {
+   "tex": "_shared/textures/v_stonroad_red00_957e5e.png"
+  },
+  {
+   "tex": "_shared/textures/v_stoneroad_blue00_4c9b35.png"
+  },
+  {
+   "tex": "_shared/textures/v_bottomGreen01_524847.png"
+  },
+  {
+   "tex": "_shared/textures/v_grass00_9ca733.png"
+  },
+  {
+   "alpha": true,
+   "tex": "_shared/textures/v_cityHall_9cae48.png"
+  }
+ ],
+ "parts": [
+  {
+   "glb": "_shared/parts/gltf__Models__map__Tutorial__modeA__tutorial00_normalMesh.glb",
+   "mats": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "collision": true,
+   "glb": "_shared/parts/gltf__Models__map__Tutorial__modeA__tutorial00_collision00.glb",
+   "pos": [
+    -0.0,
+    -0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "glb": "_shared/parts/gltf__Models__map__Tutorial__modeA__tutorial00_alphaMesh.glb",
+   "mats": [
+    6
+   ],
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "collision": true,
+   "glb": "_shared/parts/gltf__Models__map__Tutorial__modeA__tutorial00_collision_wall.glb",
+   "pos": [
+    -0.0,
+    -0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  }
+ ]
+}

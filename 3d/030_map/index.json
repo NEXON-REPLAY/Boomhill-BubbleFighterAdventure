@@ -1,0 +1,152 @@
+{
+ "category": "3d_map",
+ "game": "bubblefighter-adventure",
+ "items": [
+  {
+   "assembly": {
+    "type": "map"
+   },
+   "detail": "030_map/forest_peterPan.json",
+   "id": "forest_peterPan",
+   "name": "forest_peterPan",
+   "thumb": "030_map/forest_peterPan.webp"
+  },
+  {
+   "assembly": {
+    "type": "map"
+   },
+   "detail": "030_map/forest_peterPan_autumn.json",
+   "id": "forest_peterPan_autumn",
+   "name": "forest_peterPan_autumn",
+   "thumb": "030_map/forest_peterPan_autumn.webp"
+  },
+  {
+   "assembly": {
+    "type": "map"
+   },
+   "detail": "030_map/ice_twobridge.json",
+   "id": "ice_twobridge",
+   "name": "ice_twobridge",
+   "thumb": "030_map/ice_twobridge.webp"
+  },
+  {
+   "assembly": {
+    "type": "map"
+   },
+   "detail": "030_map/skybox_one.json",
+   "id": "skybox_one",
+   "name": "skybox_one",
+   "thumb": "030_map/skybox_one.webp"
+  },
+  {
+   "assembly": {
+    "type": "map"
+   },
+   "detail": "030_map/skybox_one_zombie.json",
+   "id": "skybox_one_zombie",
+   "name": "skybox_one_zombie",
+   "thumb": "030_map/skybox_one_zombie.webp"
+  },
+  {
+   "assembly": {
+    "type": "map"
+   },
+   "detail": "030_map/tutorial_cityHall.json",
+   "id": "tutorial_cityHall",
+   "name": "tutorial_cityHall",
+   "thumb": "030_map/tutorial_cityHall.webp"
+  },
+  {
+   "assembly": {
+    "type": "map"
+   },
+   "detail": "030_map/tutorial_modeA.json",
+   "id": "tutorial_modeA",
+   "name": "tutorial_modeA",
+   "thumb": "030_map/tutorial_modeA.webp"
+  },
+  {
+   "assembly": {
+    "type": "map"
+   },
+   "detail": "030_map/tutorial_modeA_season01.json",
+   "id": "tutorial_modeA_season01",
+   "name": "tutorial_modeA_season01",
+   "thumb": "030_map/tutorial_modeA_season01.webp"
+  },
+  {
+   "assembly": {
+    "type": "map"
+   },
+   "detail": "030_map/tutorial_modeB.json",
+   "id": "tutorial_modeB",
+   "name": "tutorial_modeB",
+   "thumb": "030_map/tutorial_modeB.webp"
+  },
+  {
+   "assembly": {
+    "type": "map"
+   },
+   "detail": "030_map/tutorial_modeB_season01.json",
+   "id": "tutorial_modeB_season01",
+   "name": "tutorial_modeB_season01",
+   "thumb": "030_map/tutorial_modeB_season01.webp"
+  },
+  {
+   "assembly": {
+    "type": "map"
+   },
+   "detail": "030_map/village_byway_season01.json",
+   "id": "village_byway_season01",
+   "name": "village_byway_season01",
+   "thumb": "030_map/village_byway_season01.webp"
+  },
+  {
+   "assembly": {
+    "type": "map"
+   },
+   "detail": "030_map/village_circlePark_season01.json",
+   "id": "village_circlePark_season01",
+   "name": "village_circlePark_season01",
+   "thumb": "030_map/village_circlePark_season01.webp"
+  },
+  {
+   "assembly": {
+    "type": "map"
+   },
+   "detail": "030_map/village_cityHall_season01.json",
+   "id": "village_cityHall_season01",
+   "name": "village_cityHall_season01",
+   "thumb": "030_map/village_cityHall_season01.webp"
+  },
+  {
+   "assembly": {
+    "type": "map"
+   },
+   "detail": "030_map/village_playGround_season01.json",
+   "id": "village_playGround_season01",
+   "name": "village_playGround_season01",
+   "thumb": "030_map/village_playGround_season01.webp"
+  },
+  {
+   "assembly": {
+    "type": "map"
+   },
+   "detail": "030_map/village_startup.json",
+   "id": "village_startup",
+   "name": "village_startup",
+   "thumb": "030_map/village_startup.webp"
+  },
+  {
+   "assembly": {
+    "type": "map"
+   },
+   "detail": "030_map/village_waterPark_season01.json",
+   "id": "village_waterPark_season01",
+   "name": "village_waterPark_season01",
+   "thumb": "030_map/village_waterPark_season01.webp"
+  }
+ ],
+ "schema": "boomhill-open-assets/model-list/v1",
+ "title": "맵"
+}

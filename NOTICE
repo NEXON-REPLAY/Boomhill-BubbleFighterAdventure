@@ -1,0 +1,26 @@
+고지
+
+크레이지아케이드, 크레이지아케이드 BnB M, 버블파이터, 버블파이터 어드벤처, 에어라이더와 그 그림, 모델, 캐릭터의
+저작권과 상표권은 주식회사 넥슨코리아와 해당 권리자에게 있습니다.
+이 저장소와 사이트의 제공 리소스는 위 게임의 그래픽 자산을 변환, 분류한 것과 붐힐마을 세계관 문서입니다. 이용 조건은 LICENSE 를 따릅니다.
+
+NEXON REPLAY 공식 웹사이트(참가 신청과 문의): https://replay.nexon.com
+- Lab Track 이용약관: https://replay.nexon.com/home/kr/ko-kr/guide?tab=5be016fb
+- IP 활용 가이드: https://replay.nexon.com/home/kr/ko-kr/guide?tab=a489abf3
+- 출처 및 저작권 표기 가이드: https://replay.nexon.com/home/kr/ko-kr/guide?tab=bca164fc
+- 콘텐츠 고유번호 표기 가이드: https://replay.nexon.com/home/kr/ko-kr/guide?tab=70465280
+
+창작 콘텐츠의 표기 의무는 Lab Track 이용약관과 위 가이드를 따릅니다.
+
+구성
+- 이미지 파일: PNG(다시 인코딩한 것). 여러 프레임은 한 장의 스프라이트 시트
+- 3D 모델: glTF 2.0 바이너리(GLB). 원작 모델을 변환, 압축한 것이며, 텍스처는 PNG 또는 무손실 WebP
+- 메타데이터: 프레임 위치, 크기, 기준점, 애니메이션 순서와 지연
+- 세계관(허브 저장소의 lore/): 붐힐마을 세계관 문서와 그것을 보여 주는 화면
+- AI 도구용 안내(허브 저장소의 llms.txt)
+- 뷰어와 사이트 코드(허브 저장소의 index.html, viewer/, lore/, guide.html, demo.html, terms.html): 이 사이트를 위해 새로 쓴 코드입니다.
+  제3자 코드를 뺀 나머지에는 LICENSE 의 권리 보유가 그대로 적용됩니다.
+  자료 안내와 기술 예시에 실린 예시 코드는 창작자가 창작 콘텐츠를 만드는 데 쓸 수 있습니다
+- 글꼴: 뷰어는 Pretendard 와 갈무리(둘 다 SIL Open Font License 1.1)를 jsDelivr 에서 불러 씁니다
+- 제3자 코드: 허브 저장소의 viewer/vendor/three/ 에 three.js r170(MIT, viewer/vendor/three/LICENSE)과
+  meshoptimizer 디코더(MIT, 파일 머리말)를 그대로 싣습니다

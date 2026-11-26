@@ -1,0 +1,149 @@
+{
+ "materials": [
+  {
+   "alpha": true,
+   "tex": "_shared/textures/v_waterPark_season01_288a32.png"
+  },
+  {
+   "tex": "_shared/textures/v_stoneroad_blue00_autumn_ec41ac.png"
+  },
+  {
+   "tex": "_shared/textures/v_waterPark_season01_288a32.png"
+  },
+  {
+   "tex": "_shared/textures/v_centerbottom01_073560.png"
+  },
+  {
+   "tex": "_shared/textures/v_bottomGreen01_524847.png"
+  },
+  {
+   "tex": "_shared/textures/v_stonroad_red00_957e5e.png"
+  },
+  {
+   "tex": "_shared/textures/v_grass00_autumn_04a7b5.png"
+  },
+  {
+   "alpha": true,
+   "tex": "_shared/textures/water_fall00_b8c504.png"
+  },
+  {
+   "alpha": true,
+   "tex": "_shared/textures/water00_0fb097.png"
+  }
+ ],
+ "parts": [
+  {
+   "collision": true,
+   "glb": "_shared/parts/gltf__Models__map__Village__waterPark__waterPark_mergedCollision.glb",
+   "pos": [
+    -0.0,
+    0.0,
+    -0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    2.54,
+    2.54,
+    2.54
+   ]
+  },
+  {
+   "glb": "_shared/parts/gltf__Models__map__Village__waterPark__waterPark_mergedAlpha01.glb",
+   "mats": [
+    0
+   ],
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    2.54,
+    2.54,
+    2.54
+   ]
+  },
+  {
+   "glb": "_shared/parts/gltf__Models__map__Village__waterPark__waterPark_mergedScene_oneMesh.glb",
+   "mats": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    2.54,
+    2.54,
+    2.54
+   ]
+  },
+  {
+   "glb": "_shared/parts/gltf__Models__map__Village__waterPark__waterPark_mergedAlpha00.glb",
+   "mats": [
+    7,
+    8
+   ],
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    2.54,
+    2.54,
+    2.54
+   ]
+  },
+  {
+   "collision": true,
+   "glb": "_shared/parts/gltf__Models__map__Village__waterPark__waterPark_mergedCollision_wall.glb",
+   "pos": [
+    -0.0,
+    0.0,
+    -0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    2.54,
+    2.54,
+    2.54
+   ]
+  }
+ ]
+}

@@ -1,0 +1,192 @@
+{
+ "materials": [
+  {
+   "alpha": true,
+   "tex": "_shared/textures/V_startup_f6a490.png"
+  },
+  {
+   "tex": "_shared/textures/v_stonroad_red00_957e5e.png"
+  }
+ ],
+ "parts": [
+  {
+   "glb": "_shared/parts/gltf__Models__map__Village__startup__v_startup_mergedPlant.glb",
+   "mats": [
+    0
+   ],
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    2.54,
+    2.54,
+    2.54
+   ]
+  },
+  {
+   "glb": "_shared/parts/gltf__Models__map__Village__startup__v_startup_mergedTree.glb",
+   "mats": [
+    0
+   ],
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    2.54,
+    2.54,
+    2.54
+   ]
+  },
+  {
+   "glb": "_shared/parts/gltf__Models__map__Village__startup__v_startup_mergedBuild.glb",
+   "mats": [
+    0
+   ],
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    2.54,
+    2.54,
+    2.54
+   ]
+  },
+  {
+   "glb": "_shared/parts/gltf__Models__map__Village__startup__v_startup_mergedProp.glb",
+   "mats": [
+    0
+   ],
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    2.54,
+    2.54,
+    2.54
+   ]
+  },
+  {
+   "glb": "_shared/parts/gltf__Models__map__Village__startup__v_startup_mergedGround.glb",
+   "mats": [
+    0,
+    1
+   ],
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    2.54,
+    2.54,
+    2.54
+   ]
+  },
+  {
+   "collision": true,
+   "glb": "_shared/parts/gltf__Models__map__Village__startup__v_startup_mergedCollision.glb",
+   "mats": [
+    0
+   ],
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    2.54,
+    2.54,
+    2.54
+   ]
+  },
+  {
+   "glb": "_shared/parts/gltf__Models__map__Village__startup__v_startup_mergedFence.glb",
+   "mats": [
+    0
+   ],
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    2.54,
+    2.54,
+    2.54
+   ]
+  },
+  {
+   "glb": "_shared/parts/gltf__Models__map__Village__startup__v_startup_mergedSkyline.glb",
+   "mats": [
+    0
+   ],
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    2.54,
+    2.54,
+    2.54
+   ],
+   "sky": true
+  }
+ ]
+}

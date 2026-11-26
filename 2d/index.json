@@ -1,0 +1,49 @@
+{
+ "about": "모바일(Unity) 액션 게임 버블파이터 어드벤처의 2D 이미지: UI 낱장 스프라이트, 아이템과 무기 아이콘, 맵 배경, 효과와 모델 텍스처.",
+ "game": "bubblefighter-adventure",
+ "groups": [
+  {
+   "bytes": 1455171,
+   "count": 312,
+   "frames": 312,
+   "id": "010_ui",
+   "title": "UI"
+  },
+  {
+   "bytes": 893461,
+   "count": 143,
+   "frames": 143,
+   "id": "020_item",
+   "title": "아이템, 무기 아이콘"
+  },
+  {
+   "bytes": 2070846,
+   "count": 54,
+   "frames": 54,
+   "id": "030_map",
+   "title": "맵, 배경"
+  },
+  {
+   "bytes": 585394,
+   "count": 119,
+   "frames": 119,
+   "id": "040_fx",
+   "title": "효과 텍스처"
+  },
+  {
+   "bytes": 9953544,
+   "count": 81,
+   "frames": 81,
+   "id": "050_texture",
+   "title": "텍스처(캐릭터, 맵, 무기)"
+  }
+ ],
+ "schema": "boomhill-open-assets/game/v1",
+ "source_kind": "Unity 프로젝트의 NGUI 아틀라스 원본 낱장과 텍스처",
+ "title": "버블파이터 어드벤처",
+ "title_en": "BubbleFighter Adventure",
+ "totals": {
+  "assets": 709,
+  "frames": 709
+ }
+}

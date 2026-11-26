@@ -1,0 +1,1295 @@
+{
+ "assets": [
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__bazzi_angel",
+   "name": "Atlases/item/character/bazzi_angel",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__bazzi_bad",
+   "name": "Atlases/item/character/bazzi_bad",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__bazzi_bear",
+   "name": "Atlases/item/character/bazzi_bear",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__bazzi_cat",
+   "name": "Atlases/item/character/bazzi_cat",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__bazzi_explorer",
+   "name": "Atlases/item/character/bazzi_explorer",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__bazzi_hood",
+   "name": "Atlases/item/character/bazzi_hood",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__bazzi_red",
+   "name": "Atlases/item/character/bazzi_red",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__bazzi_studentF",
+   "name": "Atlases/item/character/bazzi_studentF",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__bazzi_studentM",
+   "name": "Atlases/item/character/bazzi_studentM",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__dao_angel",
+   "name": "Atlases/item/character/dao_angel",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__dao_bad",
+   "name": "Atlases/item/character/dao_bad",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__dao_bear",
+   "name": "Atlases/item/character/dao_bear",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__dao_blue",
+   "name": "Atlases/item/character/dao_blue",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__dao_cat",
+   "name": "Atlases/item/character/dao_cat",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__dao_explorer",
+   "name": "Atlases/item/character/dao_explorer",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__dao_hood",
+   "name": "Atlases/item/character/dao_hood",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__dao_studentF",
+   "name": "Atlases/item/character/dao_studentF",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__dao_studentM",
+   "name": "Atlases/item/character/dao_studentM",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__dizini_angel",
+   "name": "Atlases/item/character/dizini_angel",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__dizini_bad",
+   "name": "Atlases/item/character/dizini_bad",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__dizini_bear",
+   "name": "Atlases/item/character/dizini_bear",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__dizini_cat",
+   "name": "Atlases/item/character/dizini_cat",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__dizini_explorer",
+   "name": "Atlases/item/character/dizini_explorer",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__dizini_hood",
+   "name": "Atlases/item/character/dizini_hood",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__dizini_studentF",
+   "name": "Atlases/item/character/dizini_studentF",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__dizini_studentM",
+   "name": "Atlases/item/character/dizini_studentM",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__dizni_yellow",
+   "name": "Atlases/item/character/dizni_yellow",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__uni_angel",
+   "name": "Atlases/item/character/uni_angel",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__uni_bad",
+   "name": "Atlases/item/character/uni_bad",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__uni_bear",
+   "name": "Atlases/item/character/uni_bear",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__uni_cat",
+   "name": "Atlases/item/character/uni_cat",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__uni_explorer",
+   "name": "Atlases/item/character/uni_explorer",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__uni_green",
+   "name": "Atlases/item/character/uni_green",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__uni_hood",
+   "name": "Atlases/item/character/uni_hood",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__uni_studentF",
+   "name": "Atlases/item/character/uni_studentF",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__character__uni_studentM",
+   "name": "Atlases/item/character/uni_studentM",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__etc__img_map_lock",
+   "name": "Atlases/item/etc/img_map_lock",
+   "sheet": {
+    "h": 30,
+    "w": 20
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__etc__thum_box",
+   "name": "Atlases/item/etc/thum_box",
+   "sheet": {
+    "h": 78,
+    "w": 78
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__etc__thum_box_d",
+   "name": "Atlases/item/etc/thum_box_d",
+   "sheet": {
+    "h": 78,
+    "w": 78
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__etc__thum_hammer",
+   "name": "Atlases/item/etc/thum_hammer",
+   "sheet": {
+    "h": 78,
+    "w": 78
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__etc__thum_hammer_d",
+   "name": "Atlases/item/etc/thum_hammer_d",
+   "sheet": {
+    "h": 78,
+    "w": 78
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__hammer__w_hammer_00",
+   "name": "Atlases/item/hammer/w_hammer_00",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__hammer__w_hammer_01",
+   "name": "Atlases/item/hammer/w_hammer_01",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__hammer__w_hammer_02",
+   "name": "Atlases/item/hammer/w_hammer_02",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__hammer__w_hammer_03",
+   "name": "Atlases/item/hammer/w_hammer_03",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__item__item_acuaE01",
+   "name": "Atlases/item/item/item_acuaE01",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__item__item_aid",
+   "name": "Atlases/item/item/item_aid",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__item__item_booster",
+   "name": "Atlases/item/item/item_booster",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__item__item_energe_large",
+   "name": "Atlases/item/item/item_energe_large",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__item__item_energe_medium",
+   "name": "Atlases/item/item/item_energe_medium",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__item__item_energy",
+   "name": "Atlases/item/item/item_energy",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__item__item_hongsi",
+   "name": "Atlases/item/item/item_hongsi",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__item__item_itemslot",
+   "name": "Atlases/item/item/item_itemslot",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__item__item_needle",
+   "name": "Atlases/item/item/item_needle",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__item__item_normalbox",
+   "name": "Atlases/item/item/item_normalbox",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__item__item_secretbox",
+   "name": "Atlases/item/item/item_secretbox",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__item__item_shield",
+   "name": "Atlases/item/item/item_shield",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__item__item_syringe",
+   "name": "Atlases/item/item/item_syringe",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__pistol__pistol_burst_lv1",
+   "name": "Atlases/item/pistol/pistol_burst_lv1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__pistol__pistol_burst_lv2",
+   "name": "Atlases/item/pistol/pistol_burst_lv2",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__pistol__pistol_burst_lv3",
+   "name": "Atlases/item/pistol/pistol_burst_lv3",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__pistol__pistol_cotton_lv1",
+   "name": "Atlases/item/pistol/pistol_cotton_lv1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__pistol__pistol_cotton_lv2",
+   "name": "Atlases/item/pistol/pistol_cotton_lv2",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__pistol__pistol_cotton_lv3",
+   "name": "Atlases/item/pistol/pistol_cotton_lv3",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__pistol__pistol_practice",
+   "name": "Atlases/item/pistol/pistol_practice",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__pistol__pistol_revolver_lv1",
+   "name": "Atlases/item/pistol/pistol_revolver_lv1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__pistol__pistol_revolver_lv2",
+   "name": "Atlases/item/pistol/pistol_revolver_lv2",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__pistol__pistol_saver_lv1",
+   "name": "Atlases/item/pistol/pistol_saver_lv1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__pistol__pistol_saver_lv2",
+   "name": "Atlases/item/pistol/pistol_saver_lv2",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__pistol__pistol_saver_lv3",
+   "name": "Atlases/item/pistol/pistol_saver_lv3",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_butterfly_b",
+   "name": "Atlases/item/quest/icon_butterfly_b",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_butterfly_g",
+   "name": "Atlases/item/quest/icon_butterfly_g",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_butterfly_y",
+   "name": "Atlases/item/quest/icon_butterfly_y",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_coconut_b",
+   "name": "Atlases/item/quest/icon_coconut_b",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_coconut_g",
+   "name": "Atlases/item/quest/icon_coconut_g",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_coconut_y",
+   "name": "Atlases/item/quest/icon_coconut_y",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_coffee",
+   "name": "Atlases/item/quest/icon_coffee",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_coffee_b",
+   "name": "Atlases/item/quest/icon_coffee_b",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_coffee_g",
+   "name": "Atlases/item/quest/icon_coffee_g",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_coffee_r",
+   "name": "Atlases/item/quest/icon_coffee_r",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_coffee_y",
+   "name": "Atlases/item/quest/icon_coffee_y",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_flower_b",
+   "name": "Atlases/item/quest/icon_flower_b",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_flower_g",
+   "name": "Atlases/item/quest/icon_flower_g",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_flower_y",
+   "name": "Atlases/item/quest/icon_flower_y",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_leaf_b",
+   "name": "Atlases/item/quest/icon_leaf_b",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_leaf_g",
+   "name": "Atlases/item/quest/icon_leaf_g",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_leaf_y",
+   "name": "Atlases/item/quest/icon_leaf_y",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_mushroom_b",
+   "name": "Atlases/item/quest/icon_mushroom_b",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_mushroom_g",
+   "name": "Atlases/item/quest/icon_mushroom_g",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_mushroom_y",
+   "name": "Atlases/item/quest/icon_mushroom_y",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_needle",
+   "name": "Atlases/item/quest/icon_needle",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_needle_g",
+   "name": "Atlases/item/quest/icon_needle_g",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_needle_r",
+   "name": "Atlases/item/quest/icon_needle_r",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_needle_y",
+   "name": "Atlases/item/quest/icon_needle_y",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_pot_b",
+   "name": "Atlases/item/quest/icon_pot_b",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_pot_g",
+   "name": "Atlases/item/quest/icon_pot_g",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_pot_y",
+   "name": "Atlases/item/quest/icon_pot_y",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_reed_b",
+   "name": "Atlases/item/quest/icon_reed_b",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_reed_g",
+   "name": "Atlases/item/quest/icon_reed_g",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_reed_y",
+   "name": "Atlases/item/quest/icon_reed_y",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_scroll_b",
+   "name": "Atlases/item/quest/icon_scroll_b",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_scroll_g",
+   "name": "Atlases/item/quest/icon_scroll_g",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_scroll_y",
+   "name": "Atlases/item/quest/icon_scroll_y",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_shovel_b",
+   "name": "Atlases/item/quest/icon_shovel_b",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_shovel_g",
+   "name": "Atlases/item/quest/icon_shovel_g",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_shovel_y",
+   "name": "Atlases/item/quest/icon_shovel_y",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_sphinx_b",
+   "name": "Atlases/item/quest/icon_sphinx_b",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_sphinx_g",
+   "name": "Atlases/item/quest/icon_sphinx_g",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_sphinx_y",
+   "name": "Atlases/item/quest/icon_sphinx_y",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_wood_b",
+   "name": "Atlases/item/quest/icon_wood_b",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__quest__icon_wood_g",
+   "name": "Atlases/item/quest/icon_wood_g",
+   "sheet": {
+    "h": 76,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__rifle__rifle_burst_lv1",
+   "name": "Atlases/item/rifle/rifle_burst_lv1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__rifle__rifle_burst_lv2",
+   "name": "Atlases/item/rifle/rifle_burst_lv2",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__rifle__rifle_burst_lv3",
+   "name": "Atlases/item/rifle/rifle_burst_lv3",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__rifle__rifle_cotton_lv1",
+   "name": "Atlases/item/rifle/rifle_cotton_lv1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__rifle__rifle_cotton_lv2",
+   "name": "Atlases/item/rifle/rifle_cotton_lv2",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__rifle__rifle_cotton_lv3",
+   "name": "Atlases/item/rifle/rifle_cotton_lv3",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__rifle__rifle_kt",
+   "name": "Atlases/item/rifle/rifle_kt",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__rifle__rifle_practice",
+   "name": "Atlases/item/rifle/rifle_practice",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__rifle__rifle_revolver_lv2",
+   "name": "Atlases/item/rifle/rifle_revolver_lv2",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__rifle__rifle_saver_lv1",
+   "name": "Atlases/item/rifle/rifle_saver_lv1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__rifle__rifle_saver_lv2",
+   "name": "Atlases/item/rifle/rifle_saver_lv2",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__rifle__rifle_saver_lv3",
+   "name": "Atlases/item/rifle/rifle_saver_lv3",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__shotgun__shotgun_burst_lv1",
+   "name": "Atlases/item/shotgun/shotgun_burst_lv1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__shotgun__shotgun_burst_lv2",
+   "name": "Atlases/item/shotgun/shotgun_burst_lv2",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__shotgun__shotgun_burst_lv3",
+   "name": "Atlases/item/shotgun/shotgun_burst_lv3",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__shotgun__shotgun_cotton_lv1",
+   "name": "Atlases/item/shotgun/shotgun_cotton_lv1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__shotgun__shotgun_cotton_lv2",
+   "name": "Atlases/item/shotgun/shotgun_cotton_lv2",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__shotgun__shotgun_cotton_lv3",
+   "name": "Atlases/item/shotgun/shotgun_cotton_lv3",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__shotgun__shotgun_practice",
+   "name": "Atlases/item/shotgun/shotgun_practice",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__shotgun__shotgun_revolver_lv2",
+   "name": "Atlases/item/shotgun/shotgun_revolver_lv2",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__shotgun__shotgun_saver_lv1",
+   "name": "Atlases/item/shotgun/shotgun_saver_lv1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__shotgun__shotgun_saver_lv2",
+   "name": "Atlases/item/shotgun/shotgun_saver_lv2",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__shotgun__shotgun_saver_lv3",
+   "name": "Atlases/item/shotgun/shotgun_saver_lv3",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__sniper__sniper_burst_lv1",
+   "name": "Atlases/item/sniper/sniper_burst_lv1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__sniper__sniper_burst_lv2",
+   "name": "Atlases/item/sniper/sniper_burst_lv2",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__sniper__sniper_cotton_lv1",
+   "name": "Atlases/item/sniper/sniper_cotton_lv1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__sniper__sniper_cotton_lv2",
+   "name": "Atlases/item/sniper/sniper_cotton_lv2",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__sniper__sniper_practice",
+   "name": "Atlases/item/sniper/sniper_practice",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__sniper__sniper_revolver_lv1",
+   "name": "Atlases/item/sniper/sniper_revolver_lv1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__sniper__sniper_revolver_lv2",
+   "name": "Atlases/item/sniper/sniper_revolver_lv2",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__sniper__sniper_saver_lv1",
+   "name": "Atlases/item/sniper/sniper_saver_lv1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__item__sniper__sniper_saver_lv2",
+   "name": "Atlases/item/sniper/sniper_saver_lv2",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  }
+ ],
+ "game": "bubblefighter-adventure",
+ "group": "020_item",
+ "schema": "boomhill-open-assets/index/v1",
+ "title": "아이템, 무기 아이콘"
+}

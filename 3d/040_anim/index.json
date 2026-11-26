@@ -1,0 +1,6896 @@
+{
+ "category": "3d_anim",
+ "game": "bubblefighter-adventure",
+ "items": [
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_hammer-basic-dash_be7c761f.glb",
+   "id": "dao_hammer-basic-dash_be7c761f",
+   "name": "dao@hammer-basic-dash",
+   "stats": {
+    "channels": 93,
+    "duration": 0.433
+   },
+   "thumb": "040_anim/dao_hammer-basic-dash_be7c761f.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_hammer-basic-runB_94021fe4.glb",
+   "id": "dao_hammer-basic-runB_94021fe4",
+   "name": "dao@hammer-basic-runB",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_hammer-basic-runB_94021fe4.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_hammer-basic-runBL_cfcbe184.glb",
+   "id": "dao_hammer-basic-runBL_cfcbe184",
+   "name": "dao@hammer-basic-runBL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_hammer-basic-runBL_cfcbe184.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_hammer-basic-runBR_024f70bf.glb",
+   "id": "dao_hammer-basic-runBR_024f70bf",
+   "name": "dao@hammer-basic-runBR",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_hammer-basic-runBR_024f70bf.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_hammer-basic-runF_5b2a3e78.glb",
+   "id": "dao_hammer-basic-runF_5b2a3e78",
+   "name": "dao@hammer-basic-runF",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_hammer-basic-runF_5b2a3e78.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_hammer-basic-runFL_c81266d1.glb",
+   "id": "dao_hammer-basic-runFL_c81266d1",
+   "name": "dao@hammer-basic-runFL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_hammer-basic-runFL_c81266d1.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_hammer-basic-runFR_e25260ce.glb",
+   "id": "dao_hammer-basic-runFR_e25260ce",
+   "name": "dao@hammer-basic-runFR",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_hammer-basic-runFR_e25260ce.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_hammer-basic-runL_6ccaa39e.glb",
+   "id": "dao_hammer-basic-runL_6ccaa39e",
+   "name": "dao@hammer-basic-runL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_hammer-basic-runL_6ccaa39e.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_hammer-basic-runR_7e8640d0.glb",
+   "id": "dao_hammer-basic-runR_7e8640d0",
+   "name": "dao@hammer-basic-runR",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_hammer-basic-runR_7e8640d0.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_hammer-basic-stand_ccb42a0b.glb",
+   "id": "dao_hammer-basic-stand_ccb42a0b",
+   "name": "dao@hammer-basic-stand",
+   "stats": {
+    "channels": 93,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/dao_hammer-basic-stand_ccb42a0b.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_hammer-shoot-aim_fc291f8a.glb",
+   "id": "dao_hammer-shoot-aim_fc291f8a",
+   "name": "dao@hammer-shoot-aim",
+   "stats": {
+    "channels": 93,
+    "duration": 1.033
+   },
+   "thumb": "040_anim/dao_hammer-shoot-aim_fc291f8a.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_hammer-shoot-fire_c17009c5.glb",
+   "id": "dao_hammer-shoot-fire_c17009c5",
+   "name": "dao@hammer-shoot-fire",
+   "stats": {
+    "channels": 93,
+    "duration": 1.033
+   },
+   "thumb": "040_anim/dao_hammer-shoot-fire_c17009c5.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-basic-changeWeapon_9c889c8e.glb",
+   "id": "dao_pis-basic-changeWeapon_9c889c8e",
+   "name": "dao@pis-basic-changeWeapon",
+   "stats": {
+    "channels": 96,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/dao_pis-basic-changeWeapon_9c889c8e.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-basic-dash_4c9f4e13.glb",
+   "id": "dao_pis-basic-dash_4c9f4e13",
+   "name": "dao@pis-basic-dash",
+   "stats": {
+    "channels": 96,
+    "duration": 0.433
+   },
+   "thumb": "040_anim/dao_pis-basic-dash_4c9f4e13.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-basic-jump_30ee5361.glb",
+   "id": "dao_pis-basic-jump_30ee5361",
+   "name": "dao@pis-basic-jump",
+   "stats": {
+    "channels": 96,
+    "duration": 1.2
+   },
+   "thumb": "040_anim/dao_pis-basic-jump_30ee5361.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-basic-respawn_b4fc5d7f.glb",
+   "id": "dao_pis-basic-respawn_b4fc5d7f",
+   "name": "dao@pis-basic-respawn",
+   "stats": {
+    "channels": 93,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/dao_pis-basic-respawn_b4fc5d7f.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-basic-rollB1_b0f6218b.glb",
+   "id": "dao_pis-basic-rollB1_b0f6218b",
+   "name": "dao@pis-basic-rollB1",
+   "stats": {
+    "channels": 93,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/dao_pis-basic-rollB1_b0f6218b.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-basic-rollBL1_98f14424.glb",
+   "id": "dao_pis-basic-rollBL1_98f14424",
+   "name": "dao@pis-basic-rollBL1",
+   "stats": {
+    "channels": 93,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/dao_pis-basic-rollBL1_98f14424.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-basic-rollBR1_529053e2.glb",
+   "id": "dao_pis-basic-rollBR1_529053e2",
+   "name": "dao@pis-basic-rollBR1",
+   "stats": {
+    "channels": 93,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/dao_pis-basic-rollBR1_529053e2.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-basic-rollF1_ad629870.glb",
+   "id": "dao_pis-basic-rollF1_ad629870",
+   "name": "dao@pis-basic-rollF1",
+   "stats": {
+    "channels": 93,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/dao_pis-basic-rollF1_ad629870.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-basic-rollFL1_eb09adb5.glb",
+   "id": "dao_pis-basic-rollFL1_eb09adb5",
+   "name": "dao@pis-basic-rollFL1",
+   "stats": {
+    "channels": 93,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/dao_pis-basic-rollFL1_eb09adb5.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-basic-rollFR1_c88d5f72.glb",
+   "id": "dao_pis-basic-rollFR1_c88d5f72",
+   "name": "dao@pis-basic-rollFR1",
+   "stats": {
+    "channels": 93,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/dao_pis-basic-rollFR1_c88d5f72.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-basic-rollL1_e7619433.glb",
+   "id": "dao_pis-basic-rollL1_e7619433",
+   "name": "dao@pis-basic-rollL1",
+   "stats": {
+    "channels": 93,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/dao_pis-basic-rollL1_e7619433.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-basic-rollR1_32cff33d.glb",
+   "id": "dao_pis-basic-rollR1_32cff33d",
+   "name": "dao@pis-basic-rollR1",
+   "stats": {
+    "channels": 93,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/dao_pis-basic-rollR1_32cff33d.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-basic-runB_c3ef0a3f.glb",
+   "id": "dao_pis-basic-runB_c3ef0a3f",
+   "name": "dao@pis-basic-runB",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_pis-basic-runB_c3ef0a3f.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-basic-runBL_2bbb7978.glb",
+   "id": "dao_pis-basic-runBL_2bbb7978",
+   "name": "dao@pis-basic-runBL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_pis-basic-runBL_2bbb7978.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-basic-runBR_8668f36a.glb",
+   "id": "dao_pis-basic-runBR_8668f36a",
+   "name": "dao@pis-basic-runBR",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_pis-basic-runBR_8668f36a.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-basic-runF_426f5056.glb",
+   "id": "dao_pis-basic-runF_426f5056",
+   "name": "dao@pis-basic-runF",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_pis-basic-runF_426f5056.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-basic-runFL_403aac54.glb",
+   "id": "dao_pis-basic-runFL_403aac54",
+   "name": "dao@pis-basic-runFL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_pis-basic-runFL_403aac54.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-basic-runFR_24c34804.glb",
+   "id": "dao_pis-basic-runFR_24c34804",
+   "name": "dao@pis-basic-runFR",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_pis-basic-runFR_24c34804.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-basic-runL_c89a88b2.glb",
+   "id": "dao_pis-basic-runL_c89a88b2",
+   "name": "dao@pis-basic-runL",
+   "stats": {
+    "channels": 75,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_pis-basic-runL_c89a88b2.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-basic-runR_2353c0a4.glb",
+   "id": "dao_pis-basic-runR_2353c0a4",
+   "name": "dao@pis-basic-runR",
+   "stats": {
+    "channels": 75,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_pis-basic-runR_2353c0a4.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-basic-stand_40ed2e88.glb",
+   "id": "dao_pis-basic-stand_40ed2e88",
+   "name": "dao@pis-basic-stand",
+   "stats": {
+    "channels": 78,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/dao_pis-basic-stand_40ed2e88.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-bind-doSmash_6bd05bd4.glb",
+   "id": "dao_pis-bind-doSmash_6bd05bd4",
+   "name": "dao@pis-bind-doSmash",
+   "stats": {
+    "channels": 93,
+    "duration": 0.733
+   },
+   "thumb": "040_anim/dao_pis-bind-doSmash_6bd05bd4.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-bind-readySmash_be1c0b8a.glb",
+   "id": "dao_pis-bind-readySmash_be1c0b8a",
+   "name": "dao@pis-bind-readySmash",
+   "stats": {
+    "channels": 93,
+    "duration": 1.033
+   },
+   "thumb": "040_anim/dao_pis-bind-readySmash_be1c0b8a.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-bound-die_19ab068e.glb",
+   "id": "dao_pis-bound-die_19ab068e",
+   "name": "dao@pis-bound-die",
+   "stats": {
+    "channels": 93,
+    "duration": 2.033
+   },
+   "thumb": "040_anim/dao_pis-bound-die_19ab068e.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-bound-escape_83183500.glb",
+   "id": "dao_pis-bound-escape_83183500",
+   "name": "dao@pis-bound-escape",
+   "stats": {
+    "channels": 78,
+    "duration": 2.033
+   },
+   "thumb": "040_anim/dao_pis-bound-escape_83183500.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-bound-HP0_ba677980.glb",
+   "id": "dao_pis-bound-HP0_ba677980",
+   "name": "dao@pis-bound-HP0",
+   "stats": {
+    "channels": 93,
+    "duration": 2.367
+   },
+   "thumb": "040_anim/dao_pis-bound-HP0_ba677980.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-bound-idle_d6c447f7.glb",
+   "id": "dao_pis-bound-idle_d6c447f7",
+   "name": "dao@pis-bound-idle",
+   "stats": {
+    "channels": 93,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/dao_pis-bound-idle_d6c447f7.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-bound-into_da364b52.glb",
+   "id": "dao_pis-bound-into_da364b52",
+   "name": "dao@pis-bound-into",
+   "stats": {
+    "channels": 96,
+    "duration": 3.367
+   },
+   "thumb": "040_anim/dao_pis-bound-into_da364b52.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-bound-kicked_83f1ca9d.glb",
+   "id": "dao_pis-bound-kicked_83f1ca9d",
+   "name": "dao@pis-bound-kicked",
+   "stats": {
+    "channels": 93,
+    "duration": 2.367
+   },
+   "thumb": "040_anim/dao_pis-bound-kicked_83f1ca9d.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-bound-kickedDelay_8a39f467.glb",
+   "id": "dao_pis-bound-kickedDelay_8a39f467",
+   "name": "dao@pis-bound-kickedDelay",
+   "stats": {
+    "channels": 96,
+    "duration": 2.367
+   },
+   "thumb": "040_anim/dao_pis-bound-kickedDelay_8a39f467.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-bound-runB_170116df.glb",
+   "id": "dao_pis-bound-runB_170116df",
+   "name": "dao@pis-bound-runB",
+   "stats": {
+    "channels": 93,
+    "duration": 0.633
+   },
+   "thumb": "040_anim/dao_pis-bound-runB_170116df.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-bound-runBL_47e11597.glb",
+   "id": "dao_pis-bound-runBL_47e11597",
+   "name": "dao@pis-bound-runBL",
+   "stats": {
+    "channels": 93,
+    "duration": 1.9
+   },
+   "thumb": "040_anim/dao_pis-bound-runBL_47e11597.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-bound-runBR_3bdc34fb.glb",
+   "id": "dao_pis-bound-runBR_3bdc34fb",
+   "name": "dao@pis-bound-runBR",
+   "stats": {
+    "channels": 102,
+    "duration": 1.9
+   },
+   "thumb": "040_anim/dao_pis-bound-runBR_3bdc34fb.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-bound-runF_7f261386.glb",
+   "id": "dao_pis-bound-runF_7f261386",
+   "name": "dao@pis-bound-runF",
+   "stats": {
+    "channels": 93,
+    "duration": 0.633
+   },
+   "thumb": "040_anim/dao_pis-bound-runF_7f261386.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-bound-runFL_26a7df9c.glb",
+   "id": "dao_pis-bound-runFL_26a7df9c",
+   "name": "dao@pis-bound-runFL",
+   "stats": {
+    "channels": 78,
+    "duration": 1.9
+   },
+   "thumb": "040_anim/dao_pis-bound-runFL_26a7df9c.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-bound-runFR_f027316f.glb",
+   "id": "dao_pis-bound-runFR_f027316f",
+   "name": "dao@pis-bound-runFR",
+   "stats": {
+    "channels": 78,
+    "duration": 1.9
+   },
+   "thumb": "040_anim/dao_pis-bound-runFR_f027316f.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-bound-runL_a9697aa8.glb",
+   "id": "dao_pis-bound-runL_a9697aa8",
+   "name": "dao@pis-bound-runL",
+   "stats": {
+    "channels": 96,
+    "duration": 1.9
+   },
+   "thumb": "040_anim/dao_pis-bound-runL_a9697aa8.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-bound-runR_2da30ea0.glb",
+   "id": "dao_pis-bound-runR_2da30ea0",
+   "name": "dao@pis-bound-runR",
+   "stats": {
+    "channels": 96,
+    "duration": 1.9
+   },
+   "thumb": "040_anim/dao_pis-bound-runR_2da30ea0.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-cover-aimL_b93678af.glb",
+   "id": "dao_pis-cover-aimL_b93678af",
+   "name": "dao@pis-cover-aimL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/dao_pis-cover-aimL_b93678af.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-cover-aimR_f576b43f.glb",
+   "id": "dao_pis-cover-aimR_f576b43f",
+   "name": "dao@pis-cover-aimR",
+   "stats": {
+    "channels": 93,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/dao_pis-cover-aimR_f576b43f.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-cover-aimT_cf3021d6.glb",
+   "id": "dao_pis-cover-aimT_cf3021d6",
+   "name": "dao@pis-cover-aimT",
+   "stats": {
+    "channels": 78,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/dao_pis-cover-aimT_cf3021d6.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-cover-changeWeapon_d0f6d1c6.glb",
+   "id": "dao_pis-cover-changeWeapon_d0f6d1c6",
+   "name": "dao@pis-cover-changeWeapon",
+   "stats": {
+    "channels": 93,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/dao_pis-cover-changeWeapon_d0f6d1c6.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-cover-changeWeaponL_0b567b69.glb",
+   "id": "dao_pis-cover-changeWeaponL_0b567b69",
+   "name": "dao@pis-cover-changeWeaponL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/dao_pis-cover-changeWeaponL_0b567b69.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-cover-changeWeaponR_2c70f160.glb",
+   "id": "dao_pis-cover-changeWeaponR_2c70f160",
+   "name": "dao@pis-cover-changeWeaponR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.6
+   },
+   "thumb": "040_anim/dao_pis-cover-changeWeaponR_2c70f160.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-cover-changeWeaponT_2143f9c4.glb",
+   "id": "dao_pis-cover-changeWeaponT_2143f9c4",
+   "name": "dao@pis-cover-changeWeaponT",
+   "stats": {
+    "channels": 78,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/dao_pis-cover-changeWeaponT_2143f9c4.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-cover-fireL_1fb07b11.glb",
+   "id": "dao_pis-cover-fireL_1fb07b11",
+   "name": "dao@pis-cover-fireL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.167
+   },
+   "thumb": "040_anim/dao_pis-cover-fireL_1fb07b11.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-cover-fireR_4117f8c2.glb",
+   "id": "dao_pis-cover-fireR_4117f8c2",
+   "name": "dao@pis-cover-fireR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.167
+   },
+   "thumb": "040_anim/dao_pis-cover-fireR_4117f8c2.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-cover-fireT_55eff888.glb",
+   "id": "dao_pis-cover-fireT_55eff888",
+   "name": "dao@pis-cover-fireT",
+   "stats": {
+    "channels": 78,
+    "duration": 0.167
+   },
+   "thumb": "040_anim/dao_pis-cover-fireT_55eff888.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-cover-moveL_ea0cfea7.glb",
+   "id": "dao_pis-cover-moveL_ea0cfea7",
+   "name": "dao@pis-cover-moveL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.3
+   },
+   "thumb": "040_anim/dao_pis-cover-moveL_ea0cfea7.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-cover-moveR_6e491c47.glb",
+   "id": "dao_pis-cover-moveR_6e491c47",
+   "name": "dao@pis-cover-moveR",
+   "stats": {
+    "channels": 93,
+    "duration": 0.3
+   },
+   "thumb": "040_anim/dao_pis-cover-moveR_6e491c47.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-cover-outT2_1b4f8862.glb",
+   "id": "dao_pis-cover-outT2_1b4f8862",
+   "name": "dao@pis-cover-outT2",
+   "stats": {
+    "channels": 78,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/dao_pis-cover-outT2_1b4f8862.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-cover-outT_1e4c2241.glb",
+   "id": "dao_pis-cover-outT_1e4c2241",
+   "name": "dao@pis-cover-outT",
+   "stats": {
+    "channels": 78,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/dao_pis-cover-outT_1e4c2241.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-cover-outWall_289f52a1.glb",
+   "id": "dao_pis-cover-outWall_289f52a1",
+   "name": "dao@pis-cover-outWall",
+   "stats": {
+    "channels": 93,
+    "duration": 0.433
+   },
+   "thumb": "040_anim/dao_pis-cover-outWall_289f52a1.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-cover-popL_3c0499d7.glb",
+   "id": "dao_pis-cover-popL_3c0499d7",
+   "name": "dao@pis-cover-popL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/dao_pis-cover-popL_3c0499d7.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-cover-popR_1a43de47.glb",
+   "id": "dao_pis-cover-popR_1a43de47",
+   "name": "dao@pis-cover-popR",
+   "stats": {
+    "channels": 93,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/dao_pis-cover-popR_1a43de47.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-cover-popT_fee5c1db.glb",
+   "id": "dao_pis-cover-popT_fee5c1db",
+   "name": "dao@pis-cover-popT",
+   "stats": {
+    "channels": 93,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/dao_pis-cover-popT_fee5c1db.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-cover-poptMoveL_11d3df0e.glb",
+   "id": "dao_pis-cover-poptMoveL_11d3df0e",
+   "name": "dao@pis-cover-poptMoveL",
+   "stats": {
+    "channels": 81,
+    "duration": 0.533
+   },
+   "thumb": "040_anim/dao_pis-cover-poptMoveL_11d3df0e.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-cover-poptMoveR_3a06ccee.glb",
+   "id": "dao_pis-cover-poptMoveR_3a06ccee",
+   "name": "dao@pis-cover-poptMoveR",
+   "stats": {
+    "channels": 81,
+    "duration": 0.533
+   },
+   "thumb": "040_anim/dao_pis-cover-poptMoveR_3a06ccee.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-cover-returnL_e0cc9a80.glb",
+   "id": "dao_pis-cover-returnL_e0cc9a80",
+   "name": "dao@pis-cover-returnL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.533
+   },
+   "thumb": "040_anim/dao_pis-cover-returnL_e0cc9a80.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-cover-returnR_a86bf5d1.glb",
+   "id": "dao_pis-cover-returnR_a86bf5d1",
+   "name": "dao@pis-cover-returnR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.5
+   },
+   "thumb": "040_anim/dao_pis-cover-returnR_a86bf5d1.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-cover-returnT_1acfc101.glb",
+   "id": "dao_pis-cover-returnT_1acfc101",
+   "name": "dao@pis-cover-returnT",
+   "stats": {
+    "channels": 93,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/dao_pis-cover-returnT_1acfc101.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-cover-stand_7040270b.glb",
+   "id": "dao_pis-cover-stand_7040270b",
+   "name": "dao@pis-cover-stand",
+   "stats": {
+    "channels": 93,
+    "duration": 1.033
+   },
+   "thumb": "040_anim/dao_pis-cover-stand_7040270b.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-cover-toWall_4b3e0a7f.glb",
+   "id": "dao_pis-cover-toWall_4b3e0a7f",
+   "name": "dao@pis-cover-toWall",
+   "stats": {
+    "channels": 93,
+    "duration": 0.433
+   },
+   "thumb": "040_anim/dao_pis-cover-toWall_4b3e0a7f.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-emotion-angry_c596d1b1.glb",
+   "id": "dao_pis-emotion-angry_c596d1b1",
+   "name": "dao@pis-emotion-angry",
+   "stats": {
+    "channels": 90,
+    "duration": 3.433
+   },
+   "thumb": "040_anim/dao_pis-emotion-angry_c596d1b1.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-emotion-boring_f1cfd1ad.glb",
+   "id": "dao_pis-emotion-boring_f1cfd1ad",
+   "name": "dao@pis-emotion-boring",
+   "stats": {
+    "channels": 90,
+    "duration": 5.367
+   },
+   "thumb": "040_anim/dao_pis-emotion-boring_f1cfd1ad.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-emotion-bye_bca761ff.glb",
+   "id": "dao_pis-emotion-bye_bca761ff",
+   "name": "dao@pis-emotion-bye",
+   "stats": {
+    "channels": 90,
+    "duration": 5.633
+   },
+   "thumb": "040_anim/dao_pis-emotion-bye_bca761ff.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-emotion-cry_4c887ad7.glb",
+   "id": "dao_pis-emotion-cry_4c887ad7",
+   "name": "dao@pis-emotion-cry",
+   "stats": {
+    "channels": 90,
+    "duration": 5.633
+   },
+   "thumb": "040_anim/dao_pis-emotion-cry_4c887ad7.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-emotion-derision_aeb37bda.glb",
+   "id": "dao_pis-emotion-derision_aeb37bda",
+   "name": "dao@pis-emotion-derision",
+   "stats": {
+    "channels": 90,
+    "duration": 4.033
+   },
+   "thumb": "040_anim/dao_pis-emotion-derision_aeb37bda.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-emotion-happy_69432a05.glb",
+   "id": "dao_pis-emotion-happy_69432a05",
+   "name": "dao@pis-emotion-happy",
+   "stats": {
+    "channels": 90,
+    "duration": 2.267
+   },
+   "thumb": "040_anim/dao_pis-emotion-happy_69432a05.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-emotion-idle_62deea9c.glb",
+   "id": "dao_pis-emotion-idle_62deea9c",
+   "name": "dao@pis-emotion-idle",
+   "stats": {
+    "channels": 90,
+    "duration": 5.033
+   },
+   "thumb": "040_anim/dao_pis-emotion-idle_62deea9c.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-emotion-laugh_11aa9f30.glb",
+   "id": "dao_pis-emotion-laugh_11aa9f30",
+   "name": "dao@pis-emotion-laugh",
+   "stats": {
+    "channels": 90,
+    "duration": 4.033
+   },
+   "thumb": "040_anim/dao_pis-emotion-laugh_11aa9f30.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-emotion-nonsense_a5dedc95.glb",
+   "id": "dao_pis-emotion-nonsense_a5dedc95",
+   "name": "dao@pis-emotion-nonsense",
+   "stats": {
+    "channels": 90,
+    "duration": 3.367
+   },
+   "thumb": "040_anim/dao_pis-emotion-nonsense_a5dedc95.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-emotion-sleep_bf6795ae.glb",
+   "id": "dao_pis-emotion-sleep_bf6795ae",
+   "name": "dao@pis-emotion-sleep",
+   "stats": {
+    "channels": 90,
+    "duration": 11.033
+   },
+   "thumb": "040_anim/dao_pis-emotion-sleep_bf6795ae.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-emotion-sorry_27a12b18.glb",
+   "id": "dao_pis-emotion-sorry_27a12b18",
+   "name": "dao@pis-emotion-sorry",
+   "stats": {
+    "channels": 90,
+    "duration": 2.367
+   },
+   "thumb": "040_anim/dao_pis-emotion-sorry_27a12b18.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-emotion-talk_95ec0975.glb",
+   "id": "dao_pis-emotion-talk_95ec0975",
+   "name": "dao@pis-emotion-talk",
+   "stats": {
+    "channels": 90,
+    "duration": 3.7
+   },
+   "thumb": "040_anim/dao_pis-emotion-talk_95ec0975.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-emotion-thanks_a2d1541f.glb",
+   "id": "dao_pis-emotion-thanks_a2d1541f",
+   "name": "dao@pis-emotion-thanks",
+   "stats": {
+    "channels": 90,
+    "duration": 1.633
+   },
+   "thumb": "040_anim/dao_pis-emotion-thanks_a2d1541f.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-emotion-welcome_ed62bff8.glb",
+   "id": "dao_pis-emotion-welcome_ed62bff8",
+   "name": "dao@pis-emotion-welcome",
+   "stats": {
+    "channels": 90,
+    "duration": 2.2
+   },
+   "thumb": "040_anim/dao_pis-emotion-welcome_ed62bff8.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-knocked-small_669c3534.glb",
+   "id": "dao_pis-knocked-small_669c3534",
+   "name": "dao@pis-knocked-small",
+   "stats": {
+    "channels": 93,
+    "duration": 0.167
+   },
+   "thumb": "040_anim/dao_pis-knocked-small_669c3534.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-knocked-stun_4a3fd657.glb",
+   "id": "dao_pis-knocked-stun_4a3fd657",
+   "name": "dao@pis-knocked-stun",
+   "stats": {
+    "channels": 93,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/dao_pis-knocked-stun_4a3fd657.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-reload-cover_0cbc1dfa.glb",
+   "id": "dao_pis-reload-cover_0cbc1dfa",
+   "name": "dao@pis-reload-cover",
+   "stats": {
+    "channels": 78,
+    "duration": 3.533
+   },
+   "thumb": "040_anim/dao_pis-reload-cover_0cbc1dfa.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-reload-end_d8434b74.glb",
+   "id": "dao_pis-reload-end_d8434b74",
+   "name": "dao@pis-reload-end",
+   "stats": {
+    "channels": 96,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_pis-reload-end_d8434b74.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-reload-popL_3fbc24f8.glb",
+   "id": "dao_pis-reload-popL_3fbc24f8",
+   "name": "dao@pis-reload-popL",
+   "stats": {
+    "channels": 78,
+    "duration": 3.533
+   },
+   "thumb": "040_anim/dao_pis-reload-popL_3fbc24f8.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-reload-popR_e3ea0fa1.glb",
+   "id": "dao_pis-reload-popR_e3ea0fa1",
+   "name": "dao@pis-reload-popR",
+   "stats": {
+    "channels": 78,
+    "duration": 3.767
+   },
+   "thumb": "040_anim/dao_pis-reload-popR_e3ea0fa1.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-reload-popT_c042784a.glb",
+   "id": "dao_pis-reload-popT_c042784a",
+   "name": "dao@pis-reload-popT",
+   "stats": {
+    "channels": 78,
+    "duration": 3.533
+   },
+   "thumb": "040_anim/dao_pis-reload-popT_c042784a.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-reload-reload_f1c9c5fd.glb",
+   "id": "dao_pis-reload-reload_f1c9c5fd",
+   "name": "dao@pis-reload-reload",
+   "stats": {
+    "channels": 96,
+    "duration": 3.533
+   },
+   "thumb": "040_anim/dao_pis-reload-reload_f1c9c5fd.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-reload-runB_2245497a.glb",
+   "id": "dao_pis-reload-runB_2245497a",
+   "name": "dao@pis-reload-runB",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_pis-reload-runB_2245497a.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-reload-runBL_c0d03430.glb",
+   "id": "dao_pis-reload-runBL_c0d03430",
+   "name": "dao@pis-reload-runBL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_pis-reload-runBL_c0d03430.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-reload-runBR_f0bb0b2f.glb",
+   "id": "dao_pis-reload-runBR_f0bb0b2f",
+   "name": "dao@pis-reload-runBR",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_pis-reload-runBR_f0bb0b2f.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-reload-runF_daa07833.glb",
+   "id": "dao_pis-reload-runF_daa07833",
+   "name": "dao@pis-reload-runF",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_pis-reload-runF_daa07833.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-reload-runFL_e2c9bac3.glb",
+   "id": "dao_pis-reload-runFL_e2c9bac3",
+   "name": "dao@pis-reload-runFL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_pis-reload-runFL_e2c9bac3.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-reload-runFR_b27b82a9.glb",
+   "id": "dao_pis-reload-runFR_b27b82a9",
+   "name": "dao@pis-reload-runFR",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_pis-reload-runFR_b27b82a9.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-reload-runL_9f04fd16.glb",
+   "id": "dao_pis-reload-runL_9f04fd16",
+   "name": "dao@pis-reload-runL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_pis-reload-runL_9f04fd16.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-reload-runR_82794fad.glb",
+   "id": "dao_pis-reload-runR_82794fad",
+   "name": "dao@pis-reload-runR",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_pis-reload-runR_82794fad.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-reload-stand_2c7d5cac.glb",
+   "id": "dao_pis-reload-stand_2c7d5cac",
+   "name": "dao@pis-reload-stand",
+   "stats": {
+    "channels": 96,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/dao_pis-reload-stand_2c7d5cac.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-reload-start_29278cec.glb",
+   "id": "dao_pis-reload-start_29278cec",
+   "name": "dao@pis-reload-start",
+   "stats": {
+    "channels": 96,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_pis-reload-start_29278cec.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-result-draw1_c6d029c8.glb",
+   "id": "dao_pis-result-draw1_c6d029c8",
+   "name": "dao@pis-result-draw1",
+   "stats": {
+    "channels": 96,
+    "duration": 0.733
+   },
+   "thumb": "040_anim/dao_pis-result-draw1_c6d029c8.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-result-lose1_98a2df20.glb",
+   "id": "dao_pis-result-lose1_98a2df20",
+   "name": "dao@pis-result-lose1",
+   "stats": {
+    "channels": 96,
+    "duration": 4.5
+   },
+   "thumb": "040_anim/dao_pis-result-lose1_98a2df20.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-result-win1_f6b9439f.glb",
+   "id": "dao_pis-result-win1_f6b9439f",
+   "name": "dao@pis-result-win1",
+   "stats": {
+    "channels": 96,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_pis-result-win1_f6b9439f.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-shoot-aim_b0deabb0.glb",
+   "id": "dao_pis-shoot-aim_b0deabb0",
+   "name": "dao@pis-shoot-aim",
+   "stats": {
+    "channels": 96,
+    "duration": 0.167
+   },
+   "thumb": "040_anim/dao_pis-shoot-aim_b0deabb0.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_pis-shoot-fire_ea3bd0c3.glb",
+   "id": "dao_pis-shoot-fire_ea3bd0c3",
+   "name": "dao@pis-shoot-fire",
+   "stats": {
+    "channels": 93,
+    "duration": 0.167
+   },
+   "thumb": "040_anim/dao_pis-shoot-fire_ea3bd0c3.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-basic-runB_0f4411d5.glb",
+   "id": "dao_ri-basic-runB_0f4411d5",
+   "name": "dao@ri-basic-runB",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_ri-basic-runB_0f4411d5.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-basic-runBL_593dc372.glb",
+   "id": "dao_ri-basic-runBL_593dc372",
+   "name": "dao@ri-basic-runBL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_ri-basic-runBL_593dc372.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-basic-runBR_9e2d7b76.glb",
+   "id": "dao_ri-basic-runBR_9e2d7b76",
+   "name": "dao@ri-basic-runBR",
+   "stats": {
+    "channels": 96,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_ri-basic-runBR_9e2d7b76.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-basic-runF_9f044aca.glb",
+   "id": "dao_ri-basic-runF_9f044aca",
+   "name": "dao@ri-basic-runF",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_ri-basic-runF_9f044aca.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-basic-runFL_861c05e7.glb",
+   "id": "dao_ri-basic-runFL_861c05e7",
+   "name": "dao@ri-basic-runFL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_ri-basic-runFL_861c05e7.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-basic-runFR_5d2c666e.glb",
+   "id": "dao_ri-basic-runFR_5d2c666e",
+   "name": "dao@ri-basic-runFR",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_ri-basic-runFR_5d2c666e.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-basic-runL_7f9e7beb.glb",
+   "id": "dao_ri-basic-runL_7f9e7beb",
+   "name": "dao@ri-basic-runL",
+   "stats": {
+    "channels": 96,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_ri-basic-runL_7f9e7beb.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-basic-runR_105dcf16.glb",
+   "id": "dao_ri-basic-runR_105dcf16",
+   "name": "dao@ri-basic-runR",
+   "stats": {
+    "channels": 96,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_ri-basic-runR_105dcf16.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-cover-aimR02_27f47740.glb",
+   "id": "dao_ri-cover-aimR02_27f47740",
+   "name": "dao@ri-cover-aimR02",
+   "stats": {
+    "channels": 81,
+    "duration": 0.5
+   },
+   "thumb": "040_anim/dao_ri-cover-aimR02_27f47740.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-cover-changeWeapon_0e853e9a.glb",
+   "id": "dao_ri-cover-changeWeapon_0e853e9a",
+   "name": "dao@ri-cover-changeWeapon",
+   "stats": {
+    "channels": 96,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/dao_ri-cover-changeWeapon_0e853e9a.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-cover-changeWeaponL_0b9c0627.glb",
+   "id": "dao_ri-cover-changeWeaponL_0b9c0627",
+   "name": "dao@ri-cover-changeWeaponL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/dao_ri-cover-changeWeaponL_0b9c0627.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-cover-changeWeaponR_984f0a21.glb",
+   "id": "dao_ri-cover-changeWeaponR_984f0a21",
+   "name": "dao@ri-cover-changeWeaponR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.6
+   },
+   "thumb": "040_anim/dao_ri-cover-changeWeaponR_984f0a21.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-cover-changeWeaponT_63e24eec.glb",
+   "id": "dao_ri-cover-changeWeaponT_63e24eec",
+   "name": "dao@ri-cover-changeWeaponT",
+   "stats": {
+    "channels": 78,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/dao_ri-cover-changeWeaponT_63e24eec.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-reload-cover_70f08cd2.glb",
+   "id": "dao_ri-reload-cover_70f08cd2",
+   "name": "dao@ri-reload-cover",
+   "stats": {
+    "channels": 78,
+    "duration": 3.533
+   },
+   "thumb": "040_anim/dao_ri-reload-cover_70f08cd2.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-reload-end_03dde74e.glb",
+   "id": "dao_ri-reload-end_03dde74e",
+   "name": "dao@ri-reload-end",
+   "stats": {
+    "channels": 96,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_ri-reload-end_03dde74e.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-reload-popL_8893436d.glb",
+   "id": "dao_ri-reload-popL_8893436d",
+   "name": "dao@ri-reload-popL",
+   "stats": {
+    "channels": 78,
+    "duration": 3.533
+   },
+   "thumb": "040_anim/dao_ri-reload-popL_8893436d.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-reload-popR_f07e707b.glb",
+   "id": "dao_ri-reload-popR_f07e707b",
+   "name": "dao@ri-reload-popR",
+   "stats": {
+    "channels": 78,
+    "duration": 3.533
+   },
+   "thumb": "040_anim/dao_ri-reload-popR_f07e707b.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-reload-popT_b80c3a3e.glb",
+   "id": "dao_ri-reload-popT_b80c3a3e",
+   "name": "dao@ri-reload-popT",
+   "stats": {
+    "channels": 78,
+    "duration": 3.533
+   },
+   "thumb": "040_anim/dao_ri-reload-popT_b80c3a3e.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-reload-reload_ef3918e4.glb",
+   "id": "dao_ri-reload-reload_ef3918e4",
+   "name": "dao@ri-reload-reload",
+   "stats": {
+    "channels": 96,
+    "duration": 3.533
+   },
+   "thumb": "040_anim/dao_ri-reload-reload_ef3918e4.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-reload-runB_e3319e44.glb",
+   "id": "dao_ri-reload-runB_e3319e44",
+   "name": "dao@ri-reload-runB",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_ri-reload-runB_e3319e44.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-reload-runBL_48a27f13.glb",
+   "id": "dao_ri-reload-runBL_48a27f13",
+   "name": "dao@ri-reload-runBL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_ri-reload-runBL_48a27f13.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-reload-runBR_38c20d66.glb",
+   "id": "dao_ri-reload-runBR_38c20d66",
+   "name": "dao@ri-reload-runBR",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_ri-reload-runBR_38c20d66.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-reload-runF_4006e42f.glb",
+   "id": "dao_ri-reload-runF_4006e42f",
+   "name": "dao@ri-reload-runF",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_ri-reload-runF_4006e42f.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-reload-runFL_887ec336.glb",
+   "id": "dao_ri-reload-runFL_887ec336",
+   "name": "dao@ri-reload-runFL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_ri-reload-runFL_887ec336.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-reload-runFR_c7882263.glb",
+   "id": "dao_ri-reload-runFR_c7882263",
+   "name": "dao@ri-reload-runFR",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_ri-reload-runFR_c7882263.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-reload-runL_b8117188.glb",
+   "id": "dao_ri-reload-runL_b8117188",
+   "name": "dao@ri-reload-runL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_ri-reload-runL_b8117188.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-reload-runR_a3ea8a25.glb",
+   "id": "dao_ri-reload-runR_a3ea8a25",
+   "name": "dao@ri-reload-runR",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_ri-reload-runR_a3ea8a25.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-reload-start_fcbd84b6.glb",
+   "id": "dao_ri-reload-start_fcbd84b6",
+   "name": "dao@ri-reload-start",
+   "stats": {
+    "channels": 96,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_ri-reload-start_fcbd84b6.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-shoot-aim_4539683c.glb",
+   "id": "dao_ri-shoot-aim_4539683c",
+   "name": "dao@ri-shoot-aim",
+   "stats": {
+    "channels": 93,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/dao_ri-shoot-aim_4539683c.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-shoot-fire_4c489cb5.glb",
+   "id": "dao_ri-shoot-fire_4c489cb5",
+   "name": "dao@ri-shoot-fire",
+   "stats": {
+    "channels": 93,
+    "duration": 0.233
+   },
+   "thumb": "040_anim/dao_ri-shoot-fire_4c489cb5.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-stand-aim_a18cec1a.glb",
+   "id": "dao_ri-stand-aim_a18cec1a",
+   "name": "dao@ri-stand-aim",
+   "stats": {
+    "channels": 93,
+    "duration": 0.233
+   },
+   "thumb": "040_anim/dao_ri-stand-aim_a18cec1a.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_ri-stand-fire_911ac3c4.glb",
+   "id": "dao_ri-stand-fire_911ac3c4",
+   "name": "dao@ri-stand-fire",
+   "stats": {
+    "channels": 96,
+    "duration": 0.233
+   },
+   "thumb": "040_anim/dao_ri-stand-fire_911ac3c4.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-basic-changeWeapon_553f73bf.glb",
+   "id": "dao_sg-basic-changeWeapon_553f73bf",
+   "name": "dao@sg-basic-changeWeapon",
+   "stats": {
+    "channels": 96,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/dao_sg-basic-changeWeapon_553f73bf.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-basic-dash_1b2dd9f3.glb",
+   "id": "dao_sg-basic-dash_1b2dd9f3",
+   "name": "dao@sg-basic-dash",
+   "stats": {
+    "channels": 96,
+    "duration": 0.433
+   },
+   "thumb": "040_anim/dao_sg-basic-dash_1b2dd9f3.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-basic-jump_97f68791.glb",
+   "id": "dao_sg-basic-jump_97f68791",
+   "name": "dao@sg-basic-jump",
+   "stats": {
+    "channels": 78,
+    "duration": 0.667
+   },
+   "thumb": "040_anim/dao_sg-basic-jump_97f68791.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-basic-rollB1_ae1efb5c.glb",
+   "id": "dao_sg-basic-rollB1_ae1efb5c",
+   "name": "dao@sg-basic-rollB1",
+   "stats": {
+    "channels": 93,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/dao_sg-basic-rollB1_ae1efb5c.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-basic-rollBL1_a0d4b60c.glb",
+   "id": "dao_sg-basic-rollBL1_a0d4b60c",
+   "name": "dao@sg-basic-rollBL1",
+   "stats": {
+    "channels": 93,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/dao_sg-basic-rollBL1_a0d4b60c.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-basic-rollBR1_421b6fa0.glb",
+   "id": "dao_sg-basic-rollBR1_421b6fa0",
+   "name": "dao@sg-basic-rollBR1",
+   "stats": {
+    "channels": 93,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/dao_sg-basic-rollBR1_421b6fa0.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-basic-rollF1_7a96ebd7.glb",
+   "id": "dao_sg-basic-rollF1_7a96ebd7",
+   "name": "dao@sg-basic-rollF1",
+   "stats": {
+    "channels": 93,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/dao_sg-basic-rollF1_7a96ebd7.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-basic-rollFL1_b862929e.glb",
+   "id": "dao_sg-basic-rollFL1_b862929e",
+   "name": "dao@sg-basic-rollFL1",
+   "stats": {
+    "channels": 93,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/dao_sg-basic-rollFL1_b862929e.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-basic-rollFR1_b5d8a7cc.glb",
+   "id": "dao_sg-basic-rollFR1_b5d8a7cc",
+   "name": "dao@sg-basic-rollFR1",
+   "stats": {
+    "channels": 93,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/dao_sg-basic-rollFR1_b5d8a7cc.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-basic-rollL1_31301270.glb",
+   "id": "dao_sg-basic-rollL1_31301270",
+   "name": "dao@sg-basic-rollL1",
+   "stats": {
+    "channels": 93,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/dao_sg-basic-rollL1_31301270.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-basic-rollR1_3913fabc.glb",
+   "id": "dao_sg-basic-rollR1_3913fabc",
+   "name": "dao@sg-basic-rollR1",
+   "stats": {
+    "channels": 93,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/dao_sg-basic-rollR1_3913fabc.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-basic-runB_dc108a47.glb",
+   "id": "dao_sg-basic-runB_dc108a47",
+   "name": "dao@sg-basic-runB",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sg-basic-runB_dc108a47.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-basic-runBL_b2b8cb80.glb",
+   "id": "dao_sg-basic-runBL_b2b8cb80",
+   "name": "dao@sg-basic-runBL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sg-basic-runBL_b2b8cb80.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-basic-runBR_249e5e32.glb",
+   "id": "dao_sg-basic-runBR_249e5e32",
+   "name": "dao@sg-basic-runBR",
+   "stats": {
+    "channels": 96,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sg-basic-runBR_249e5e32.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-basic-runF_382091b2.glb",
+   "id": "dao_sg-basic-runF_382091b2",
+   "name": "dao@sg-basic-runF",
+   "stats": {
+    "channels": 96,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sg-basic-runF_382091b2.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-basic-runFL_2b8a5567.glb",
+   "id": "dao_sg-basic-runFL_2b8a5567",
+   "name": "dao@sg-basic-runFL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sg-basic-runFL_2b8a5567.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-basic-runFR_c9579e8d.glb",
+   "id": "dao_sg-basic-runFR_c9579e8d",
+   "name": "dao@sg-basic-runFR",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sg-basic-runFR_c9579e8d.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-basic-runL_331d93b8.glb",
+   "id": "dao_sg-basic-runL_331d93b8",
+   "name": "dao@sg-basic-runL",
+   "stats": {
+    "channels": 96,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sg-basic-runL_331d93b8.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-basic-runR_997d8059.glb",
+   "id": "dao_sg-basic-runR_997d8059",
+   "name": "dao@sg-basic-runR",
+   "stats": {
+    "channels": 96,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sg-basic-runR_997d8059.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-basic-stand_27f6bfc2.glb",
+   "id": "dao_sg-basic-stand_27f6bfc2",
+   "name": "dao@sg-basic-stand",
+   "stats": {
+    "channels": 93,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/dao_sg-basic-stand_27f6bfc2.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-cover-aimL_f9b30449.glb",
+   "id": "dao_sg-cover-aimL_f9b30449",
+   "name": "dao@sg-cover-aimL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.5
+   },
+   "thumb": "040_anim/dao_sg-cover-aimL_f9b30449.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-cover-aimR_c376db6a.glb",
+   "id": "dao_sg-cover-aimR_c376db6a",
+   "name": "dao@sg-cover-aimR",
+   "stats": {
+    "channels": 96,
+    "duration": 0.5
+   },
+   "thumb": "040_anim/dao_sg-cover-aimR_c376db6a.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-cover-aimT_6cdd4c7a.glb",
+   "id": "dao_sg-cover-aimT_6cdd4c7a",
+   "name": "dao@sg-cover-aimT",
+   "stats": {
+    "channels": 93,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/dao_sg-cover-aimT_6cdd4c7a.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-cover-changeWeapon_d437d4a1.glb",
+   "id": "dao_sg-cover-changeWeapon_d437d4a1",
+   "name": "dao@sg-cover-changeWeapon",
+   "stats": {
+    "channels": 93,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/dao_sg-cover-changeWeapon_d437d4a1.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-cover-changeWeaponL_cb68be2d.glb",
+   "id": "dao_sg-cover-changeWeaponL_cb68be2d",
+   "name": "dao@sg-cover-changeWeaponL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/dao_sg-cover-changeWeaponL_cb68be2d.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-cover-changeWeaponR_604470de.glb",
+   "id": "dao_sg-cover-changeWeaponR_604470de",
+   "name": "dao@sg-cover-changeWeaponR",
+   "stats": {
+    "channels": 99,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/dao_sg-cover-changeWeaponR_604470de.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-cover-changeweaponT_18146781.glb",
+   "id": "dao_sg-cover-changeweaponT_18146781",
+   "name": "dao@sg-cover-changeweaponT",
+   "stats": {
+    "channels": 78,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/dao_sg-cover-changeweaponT_18146781.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-cover-fireL_b7d5141e.glb",
+   "id": "dao_sg-cover-fireL_b7d5141e",
+   "name": "dao@sg-cover-fireL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.767
+   },
+   "thumb": "040_anim/dao_sg-cover-fireL_b7d5141e.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-cover-fireR_0d9a5793.glb",
+   "id": "dao_sg-cover-fireR_0d9a5793",
+   "name": "dao@sg-cover-fireR",
+   "stats": {
+    "channels": 93,
+    "duration": 0.767
+   },
+   "thumb": "040_anim/dao_sg-cover-fireR_0d9a5793.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-cover-fireT_c45f4a1b.glb",
+   "id": "dao_sg-cover-fireT_c45f4a1b",
+   "name": "dao@sg-cover-fireT",
+   "stats": {
+    "channels": 93,
+    "duration": 0.767
+   },
+   "thumb": "040_anim/dao_sg-cover-fireT_c45f4a1b.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-cover-moveL_30a1de1d.glb",
+   "id": "dao_sg-cover-moveL_30a1de1d",
+   "name": "dao@sg-cover-moveL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.3
+   },
+   "thumb": "040_anim/dao_sg-cover-moveL_30a1de1d.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-cover-moveR_9bcd6039.glb",
+   "id": "dao_sg-cover-moveR_9bcd6039",
+   "name": "dao@sg-cover-moveR",
+   "stats": {
+    "channels": 93,
+    "duration": 0.3
+   },
+   "thumb": "040_anim/dao_sg-cover-moveR_9bcd6039.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-cover-outT2_076836a5.glb",
+   "id": "dao_sg-cover-outT2_076836a5",
+   "name": "dao@sg-cover-outT2",
+   "stats": {
+    "channels": 78,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/dao_sg-cover-outT2_076836a5.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-cover-outT_89e0ced2.glb",
+   "id": "dao_sg-cover-outT_89e0ced2",
+   "name": "dao@sg-cover-outT",
+   "stats": {
+    "channels": 78,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/dao_sg-cover-outT_89e0ced2.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-cover-outWall_fc18cd2c.glb",
+   "id": "dao_sg-cover-outWall_fc18cd2c",
+   "name": "dao@sg-cover-outWall",
+   "stats": {
+    "channels": 93,
+    "duration": 0.433
+   },
+   "thumb": "040_anim/dao_sg-cover-outWall_fc18cd2c.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-cover-popL_39dff22d.glb",
+   "id": "dao_sg-cover-popL_39dff22d",
+   "name": "dao@sg-cover-popL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/dao_sg-cover-popL_39dff22d.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-cover-popR_016603f0.glb",
+   "id": "dao_sg-cover-popR_016603f0",
+   "name": "dao@sg-cover-popR",
+   "stats": {
+    "channels": 93,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/dao_sg-cover-popR_016603f0.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-cover-popT_0f526602.glb",
+   "id": "dao_sg-cover-popT_0f526602",
+   "name": "dao@sg-cover-popT",
+   "stats": {
+    "channels": 93,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/dao_sg-cover-popT_0f526602.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-cover-returnL_44d8090a.glb",
+   "id": "dao_sg-cover-returnL_44d8090a",
+   "name": "dao@sg-cover-returnL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/dao_sg-cover-returnL_44d8090a.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-cover-returnR_f645cb71.glb",
+   "id": "dao_sg-cover-returnR_f645cb71",
+   "name": "dao@sg-cover-returnR",
+   "stats": {
+    "channels": 81,
+    "duration": 0.5
+   },
+   "thumb": "040_anim/dao_sg-cover-returnR_f645cb71.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-cover-returnT_603c954f.glb",
+   "id": "dao_sg-cover-returnT_603c954f",
+   "name": "dao@sg-cover-returnT",
+   "stats": {
+    "channels": 93,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/dao_sg-cover-returnT_603c954f.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-cover-stand_4fa24b09.glb",
+   "id": "dao_sg-cover-stand_4fa24b09",
+   "name": "dao@sg-cover-stand",
+   "stats": {
+    "channels": 93,
+    "duration": 1.033
+   },
+   "thumb": "040_anim/dao_sg-cover-stand_4fa24b09.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-cover-toWall_7c5d0040.glb",
+   "id": "dao_sg-cover-toWall_7c5d0040",
+   "name": "dao@sg-cover-toWall",
+   "stats": {
+    "channels": 96,
+    "duration": 0.433
+   },
+   "thumb": "040_anim/dao_sg-cover-toWall_7c5d0040.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-reload-cover_d9326939.glb",
+   "id": "dao_sg-reload-cover_d9326939",
+   "name": "dao@sg-reload-cover",
+   "stats": {
+    "channels": 78,
+    "duration": 3.533
+   },
+   "thumb": "040_anim/dao_sg-reload-cover_d9326939.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-reload-end_9bbe44d3.glb",
+   "id": "dao_sg-reload-end_9bbe44d3",
+   "name": "dao@sg-reload-end",
+   "stats": {
+    "channels": 96,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sg-reload-end_9bbe44d3.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-reload-popL_624030b5.glb",
+   "id": "dao_sg-reload-popL_624030b5",
+   "name": "dao@sg-reload-popL",
+   "stats": {
+    "channels": 78,
+    "duration": 3.533
+   },
+   "thumb": "040_anim/dao_sg-reload-popL_624030b5.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-reload-popR_7f938d38.glb",
+   "id": "dao_sg-reload-popR_7f938d38",
+   "name": "dao@sg-reload-popR",
+   "stats": {
+    "channels": 93,
+    "duration": 3.767
+   },
+   "thumb": "040_anim/dao_sg-reload-popR_7f938d38.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-reload-popT_72fa2031.glb",
+   "id": "dao_sg-reload-popT_72fa2031",
+   "name": "dao@sg-reload-popT",
+   "stats": {
+    "channels": 78,
+    "duration": 3.533
+   },
+   "thumb": "040_anim/dao_sg-reload-popT_72fa2031.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-reload-reload_436b6fea.glb",
+   "id": "dao_sg-reload-reload_436b6fea",
+   "name": "dao@sg-reload-reload",
+   "stats": {
+    "channels": 96,
+    "duration": 3.533
+   },
+   "thumb": "040_anim/dao_sg-reload-reload_436b6fea.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-reload-start_9b3dffc5.glb",
+   "id": "dao_sg-reload-start_9b3dffc5",
+   "name": "dao@sg-reload-start",
+   "stats": {
+    "channels": 96,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sg-reload-start_9b3dffc5.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-shoot-aim_109a5ee9.glb",
+   "id": "dao_sg-shoot-aim_109a5ee9",
+   "name": "dao@sg-shoot-aim",
+   "stats": {
+    "channels": 93,
+    "duration": 0.233
+   },
+   "thumb": "040_anim/dao_sg-shoot-aim_109a5ee9.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-shoot-fire_78667b2f.glb",
+   "id": "dao_sg-shoot-fire_78667b2f",
+   "name": "dao@sg-shoot-fire",
+   "stats": {
+    "channels": 93,
+    "duration": 0.767
+   },
+   "thumb": "040_anim/dao_sg-shoot-fire_78667b2f.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-stand-aim_3cac835b.glb",
+   "id": "dao_sg-stand-aim_3cac835b",
+   "name": "dao@sg-stand-aim",
+   "stats": {
+    "channels": 96,
+    "duration": 0.233
+   },
+   "thumb": "040_anim/dao_sg-stand-aim_3cac835b.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sg-stand-fire_0409ee62.glb",
+   "id": "dao_sg-stand-fire_0409ee62",
+   "name": "dao@sg-stand-fire",
+   "stats": {
+    "channels": 93,
+    "duration": 0.767
+   },
+   "thumb": "040_anim/dao_sg-stand-fire_0409ee62.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-basic-changeWeapon_4b05399a.glb",
+   "id": "dao_sni-basic-changeWeapon_4b05399a",
+   "name": "dao@sni-basic-changeWeapon",
+   "stats": {
+    "channels": 93,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/dao_sni-basic-changeWeapon_4b05399a.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-basic-dash_c11dda4f.glb",
+   "id": "dao_sni-basic-dash_c11dda4f",
+   "name": "dao@sni-basic-dash",
+   "stats": {
+    "channels": 93,
+    "duration": 0.433
+   },
+   "thumb": "040_anim/dao_sni-basic-dash_c11dda4f.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-basic-jump_e16b4aee.glb",
+   "id": "dao_sni-basic-jump_e16b4aee",
+   "name": "dao@sni-basic-jump",
+   "stats": {
+    "channels": 96,
+    "duration": 1.2
+   },
+   "thumb": "040_anim/dao_sni-basic-jump_e16b4aee.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-basic-rollB1_c6b80b5e.glb",
+   "id": "dao_sni-basic-rollB1_c6b80b5e",
+   "name": "dao@sni-basic-rollB1",
+   "stats": {
+    "channels": 93,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/dao_sni-basic-rollB1_c6b80b5e.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-basic-rollBL1_f36e22ba.glb",
+   "id": "dao_sni-basic-rollBL1_f36e22ba",
+   "name": "dao@sni-basic-rollBL1",
+   "stats": {
+    "channels": 93,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/dao_sni-basic-rollBL1_f36e22ba.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-basic-rollBR1_0de5cdbc.glb",
+   "id": "dao_sni-basic-rollBR1_0de5cdbc",
+   "name": "dao@sni-basic-rollBR1",
+   "stats": {
+    "channels": 93,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/dao_sni-basic-rollBR1_0de5cdbc.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-basic-rollF1_d5108845.glb",
+   "id": "dao_sni-basic-rollF1_d5108845",
+   "name": "dao@sni-basic-rollF1",
+   "stats": {
+    "channels": 93,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/dao_sni-basic-rollF1_d5108845.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-basic-rollFL1_b39be810.glb",
+   "id": "dao_sni-basic-rollFL1_b39be810",
+   "name": "dao@sni-basic-rollFL1",
+   "stats": {
+    "channels": 93,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/dao_sni-basic-rollFL1_b39be810.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-basic-rollFR1_d82641c0.glb",
+   "id": "dao_sni-basic-rollFR1_d82641c0",
+   "name": "dao@sni-basic-rollFR1",
+   "stats": {
+    "channels": 93,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/dao_sni-basic-rollFR1_d82641c0.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-basic-rollL1_e40526cd.glb",
+   "id": "dao_sni-basic-rollL1_e40526cd",
+   "name": "dao@sni-basic-rollL1",
+   "stats": {
+    "channels": 93,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/dao_sni-basic-rollL1_e40526cd.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-basic-rollR1_bd20949e.glb",
+   "id": "dao_sni-basic-rollR1_bd20949e",
+   "name": "dao@sni-basic-rollR1",
+   "stats": {
+    "channels": 93,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/dao_sni-basic-rollR1_bd20949e.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-basic-runB_a238afb2.glb",
+   "id": "dao_sni-basic-runB_a238afb2",
+   "name": "dao@sni-basic-runB",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sni-basic-runB_a238afb2.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-basic-runBL_ab545456.glb",
+   "id": "dao_sni-basic-runBL_ab545456",
+   "name": "dao@sni-basic-runBL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sni-basic-runBL_ab545456.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-basic-runBR_2c5d3a67.glb",
+   "id": "dao_sni-basic-runBR_2c5d3a67",
+   "name": "dao@sni-basic-runBR",
+   "stats": {
+    "channels": 96,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sni-basic-runBR_2c5d3a67.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-basic-runF_3e185975.glb",
+   "id": "dao_sni-basic-runF_3e185975",
+   "name": "dao@sni-basic-runF",
+   "stats": {
+    "channels": 96,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sni-basic-runF_3e185975.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-basic-runFL_6d39a930.glb",
+   "id": "dao_sni-basic-runFL_6d39a930",
+   "name": "dao@sni-basic-runFL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sni-basic-runFL_6d39a930.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-basic-runFR_0774c116.glb",
+   "id": "dao_sni-basic-runFR_0774c116",
+   "name": "dao@sni-basic-runFR",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sni-basic-runFR_0774c116.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-basic-runL_889d376a.glb",
+   "id": "dao_sni-basic-runL_889d376a",
+   "name": "dao@sni-basic-runL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sni-basic-runL_889d376a.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-basic-runR_c02d7434.glb",
+   "id": "dao_sni-basic-runR_c02d7434",
+   "name": "dao@sni-basic-runR",
+   "stats": {
+    "channels": 96,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sni-basic-runR_c02d7434.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-basic-stand_17947327.glb",
+   "id": "dao_sni-basic-stand_17947327",
+   "name": "dao@sni-basic-stand",
+   "stats": {
+    "channels": 93,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/dao_sni-basic-stand_17947327.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-cover-aimL_4fc9d846.glb",
+   "id": "dao_sni-cover-aimL_4fc9d846",
+   "name": "dao@sni-cover-aimL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/dao_sni-cover-aimL_4fc9d846.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-cover-aimR_58ef9d91.glb",
+   "id": "dao_sni-cover-aimR_58ef9d91",
+   "name": "dao@sni-cover-aimR",
+   "stats": {
+    "channels": 93,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/dao_sni-cover-aimR_58ef9d91.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-cover-changeWeapon_6346356b.glb",
+   "id": "dao_sni-cover-changeWeapon_6346356b",
+   "name": "dao@sni-cover-changeWeapon",
+   "stats": {
+    "channels": 93,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/dao_sni-cover-changeWeapon_6346356b.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-cover-changeWeaponL_427d5c1e.glb",
+   "id": "dao_sni-cover-changeWeaponL_427d5c1e",
+   "name": "dao@sni-cover-changeWeaponL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/dao_sni-cover-changeWeaponL_427d5c1e.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-cover-changeWeaponR_cd0be18a.glb",
+   "id": "dao_sni-cover-changeWeaponR_cd0be18a",
+   "name": "dao@sni-cover-changeWeaponR",
+   "stats": {
+    "channels": 93,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/dao_sni-cover-changeWeaponR_cd0be18a.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-cover-changeWeaponT_f8fed710.glb",
+   "id": "dao_sni-cover-changeWeaponT_f8fed710",
+   "name": "dao@sni-cover-changeWeaponT",
+   "stats": {
+    "channels": 93,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/dao_sni-cover-changeWeaponT_f8fed710.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-cover-fireL_14e38c81.glb",
+   "id": "dao_sni-cover-fireL_14e38c81",
+   "name": "dao@sni-cover-fireL",
+   "stats": {
+    "channels": 93,
+    "duration": 1.433
+   },
+   "thumb": "040_anim/dao_sni-cover-fireL_14e38c81.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-cover-fireR_da1b0d27.glb",
+   "id": "dao_sni-cover-fireR_da1b0d27",
+   "name": "dao@sni-cover-fireR",
+   "stats": {
+    "channels": 93,
+    "duration": 1.433
+   },
+   "thumb": "040_anim/dao_sni-cover-fireR_da1b0d27.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-cover-fireT_218bd64e.glb",
+   "id": "dao_sni-cover-fireT_218bd64e",
+   "name": "dao@sni-cover-fireT",
+   "stats": {
+    "channels": 93,
+    "duration": 1.433
+   },
+   "thumb": "040_anim/dao_sni-cover-fireT_218bd64e.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-cover-moveL_1b15e3b8.glb",
+   "id": "dao_sni-cover-moveL_1b15e3b8",
+   "name": "dao@sni-cover-moveL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.3
+   },
+   "thumb": "040_anim/dao_sni-cover-moveL_1b15e3b8.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-cover-moveR_9f3f53ab.glb",
+   "id": "dao_sni-cover-moveR_9f3f53ab",
+   "name": "dao@sni-cover-moveR",
+   "stats": {
+    "channels": 93,
+    "duration": 0.3
+   },
+   "thumb": "040_anim/dao_sni-cover-moveR_9f3f53ab.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-cover-outT2_111b9873.glb",
+   "id": "dao_sni-cover-outT2_111b9873",
+   "name": "dao@sni-cover-outT2",
+   "stats": {
+    "channels": 78,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/dao_sni-cover-outT2_111b9873.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-cover-outT_f7405a15.glb",
+   "id": "dao_sni-cover-outT_f7405a15",
+   "name": "dao@sni-cover-outT",
+   "stats": {
+    "channels": 93,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/dao_sni-cover-outT_f7405a15.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-cover-outWall_eb3e3c21.glb",
+   "id": "dao_sni-cover-outWall_eb3e3c21",
+   "name": "dao@sni-cover-outWall",
+   "stats": {
+    "channels": 96,
+    "duration": 0.433
+   },
+   "thumb": "040_anim/dao_sni-cover-outWall_eb3e3c21.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-cover-popL_a521a64e.glb",
+   "id": "dao_sni-cover-popL_a521a64e",
+   "name": "dao@sni-cover-popL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/dao_sni-cover-popL_a521a64e.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-cover-popR_2ab0f253.glb",
+   "id": "dao_sni-cover-popR_2ab0f253",
+   "name": "dao@sni-cover-popR",
+   "stats": {
+    "channels": 93,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/dao_sni-cover-popR_2ab0f253.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-cover-popT_842e4fc3.glb",
+   "id": "dao_sni-cover-popT_842e4fc3",
+   "name": "dao@sni-cover-popT",
+   "stats": {
+    "channels": 93,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/dao_sni-cover-popT_842e4fc3.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-cover-returnL_d005dd1d.glb",
+   "id": "dao_sni-cover-returnL_d005dd1d",
+   "name": "dao@sni-cover-returnL",
+   "stats": {
+    "channels": 93,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/dao_sni-cover-returnL_d005dd1d.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-cover-returnR_aacce7a6.glb",
+   "id": "dao_sni-cover-returnR_aacce7a6",
+   "name": "dao@sni-cover-returnR",
+   "stats": {
+    "channels": 93,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/dao_sni-cover-returnR_aacce7a6.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-cover-returnT_d5e8ef58.glb",
+   "id": "dao_sni-cover-returnT_d5e8ef58",
+   "name": "dao@sni-cover-returnT",
+   "stats": {
+    "channels": 93,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/dao_sni-cover-returnT_d5e8ef58.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-cover-stand_c04b0224.glb",
+   "id": "dao_sni-cover-stand_c04b0224",
+   "name": "dao@sni-cover-stand",
+   "stats": {
+    "channels": 96,
+    "duration": 1.033
+   },
+   "thumb": "040_anim/dao_sni-cover-stand_c04b0224.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-cover-toWall_43b990cd.glb",
+   "id": "dao_sni-cover-toWall_43b990cd",
+   "name": "dao@sni-cover-toWall",
+   "stats": {
+    "channels": 96,
+    "duration": 0.433
+   },
+   "thumb": "040_anim/dao_sni-cover-toWall_43b990cd.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-reload-cover_72600f0b.glb",
+   "id": "dao_sni-reload-cover_72600f0b",
+   "name": "dao@sni-reload-cover",
+   "stats": {
+    "channels": 96,
+    "duration": 3.1
+   },
+   "thumb": "040_anim/dao_sni-reload-cover_72600f0b.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-reload-end_80939075.glb",
+   "id": "dao_sni-reload-end_80939075",
+   "name": "dao@sni-reload-end",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sni-reload-end_80939075.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-reload-popL_d6715c2d.glb",
+   "id": "dao_sni-reload-popL_d6715c2d",
+   "name": "dao@sni-reload-popL",
+   "stats": {
+    "channels": 78,
+    "duration": 3.367
+   },
+   "thumb": "040_anim/dao_sni-reload-popL_d6715c2d.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-reload-popR_fdc4c179.glb",
+   "id": "dao_sni-reload-popR_fdc4c179",
+   "name": "dao@sni-reload-popR",
+   "stats": {
+    "channels": 78,
+    "duration": 3.367
+   },
+   "thumb": "040_anim/dao_sni-reload-popR_fdc4c179.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-reload-popT_bafb146e.glb",
+   "id": "dao_sni-reload-popT_bafb146e",
+   "name": "dao@sni-reload-popT",
+   "stats": {
+    "channels": 78,
+    "duration": 3.367
+   },
+   "thumb": "040_anim/dao_sni-reload-popT_bafb146e.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-reload-reload_7bd19483.glb",
+   "id": "dao_sni-reload-reload_7bd19483",
+   "name": "dao@sni-reload-reload",
+   "stats": {
+    "channels": 93,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/dao_sni-reload-reload_7bd19483.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-reload-runB_f3da4041.glb",
+   "id": "dao_sni-reload-runB_f3da4041",
+   "name": "dao@sni-reload-runB",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sni-reload-runB_f3da4041.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-reload-runBL_b690ae74.glb",
+   "id": "dao_sni-reload-runBL_b690ae74",
+   "name": "dao@sni-reload-runBL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sni-reload-runBL_b690ae74.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-reload-runBR_1a0311fe.glb",
+   "id": "dao_sni-reload-runBR_1a0311fe",
+   "name": "dao@sni-reload-runBR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sni-reload-runBR_1a0311fe.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-reload-runF_a7d098e9.glb",
+   "id": "dao_sni-reload-runF_a7d098e9",
+   "name": "dao@sni-reload-runF",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sni-reload-runF_a7d098e9.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-reload-runFL_f8338ee9.glb",
+   "id": "dao_sni-reload-runFL_f8338ee9",
+   "name": "dao@sni-reload-runFL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sni-reload-runFL_f8338ee9.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-reload-runFR_087a91ad.glb",
+   "id": "dao_sni-reload-runFR_087a91ad",
+   "name": "dao@sni-reload-runFR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sni-reload-runFR_087a91ad.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-reload-runL_159d4693.glb",
+   "id": "dao_sni-reload-runL_159d4693",
+   "name": "dao@sni-reload-runL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sni-reload-runL_159d4693.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-reload-runR_431dc140.glb",
+   "id": "dao_sni-reload-runR_431dc140",
+   "name": "dao@sni-reload-runR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sni-reload-runR_431dc140.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-reload-start_7e3d452f.glb",
+   "id": "dao_sni-reload-start_7e3d452f",
+   "name": "dao@sni-reload-start",
+   "stats": {
+    "channels": 93,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/dao_sni-reload-start_7e3d452f.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-shoot-aim_1be491fd.glb",
+   "id": "dao_sni-shoot-aim_1be491fd",
+   "name": "dao@sni-shoot-aim",
+   "stats": {
+    "channels": 93,
+    "duration": 1.433
+   },
+   "thumb": "040_anim/dao_sni-shoot-aim_1be491fd.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-shoot-fire_0824f77a.glb",
+   "id": "dao_sni-shoot-fire_0824f77a",
+   "name": "dao@sni-shoot-fire",
+   "stats": {
+    "channels": 96,
+    "duration": 1.433
+   },
+   "thumb": "040_anim/dao_sni-shoot-fire_0824f77a.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-stand-aim_7b1635b5.glb",
+   "id": "dao_sni-stand-aim_7b1635b5",
+   "name": "dao@sni-stand-aim",
+   "stats": {
+    "channels": 96,
+    "duration": 1.433
+   },
+   "thumb": "040_anim/dao_sni-stand-aim_7b1635b5.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-stand-fire_9068aa75.glb",
+   "id": "dao_sni-stand-fire_9068aa75",
+   "name": "dao@sni-stand-fire",
+   "stats": {
+    "channels": 99,
+    "duration": 1.433
+   },
+   "thumb": "040_anim/dao_sni-stand-fire_9068aa75.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-zoom-aim_612895c9.glb",
+   "id": "dao_sni-zoom-aim_612895c9",
+   "name": "dao@sni-zoom-aim",
+   "stats": {
+    "channels": 99,
+    "duration": 1.433
+   },
+   "thumb": "040_anim/dao_sni-zoom-aim_612895c9.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-zoom-fire_b7832b98.glb",
+   "id": "dao_sni-zoom-fire_b7832b98",
+   "name": "dao@sni-zoom-fire",
+   "stats": {
+    "channels": 99,
+    "duration": 1.433
+   },
+   "thumb": "040_anim/dao_sni-zoom-fire_b7832b98.webp"
+  },
+  {
+   "assembly": {
+    "base": "dao_angel",
+    "type": "anim"
+   },
+   "file": "040_anim/dao_sni-zoom-stand_ae1f48ff.glb",
+   "id": "dao_sni-zoom-stand_ae1f48ff",
+   "name": "dao@sni-zoom-stand",
+   "stats": {
+    "channels": 99,
+    "duration": 1.433
+   },
+   "thumb": "040_anim/dao_sni-zoom-stand_ae1f48ff.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-basic-changeWeapon_f426d6bd.glb",
+   "id": "npc_pis-basic-changeWeapon_f426d6bd",
+   "name": "npc@pis-basic-changeWeapon",
+   "stats": {
+    "channels": 78,
+    "duration": 0.433
+   },
+   "thumb": "040_anim/npc_pis-basic-changeWeapon_f426d6bd.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-basic-dash_60908e74.glb",
+   "id": "npc_pis-basic-dash_60908e74",
+   "name": "npc@pis-basic-dash",
+   "stats": {
+    "channels": 78,
+    "duration": 0.433
+   },
+   "thumb": "040_anim/npc_pis-basic-dash_60908e74.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-basic-jump_7e8e3b73.glb",
+   "id": "npc_pis-basic-jump_7e8e3b73",
+   "name": "npc@pis-basic-jump",
+   "stats": {
+    "channels": 78,
+    "duration": 1.2
+   },
+   "thumb": "040_anim/npc_pis-basic-jump_7e8e3b73.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-basic-respawn_d6c68baa.glb",
+   "id": "npc_pis-basic-respawn_d6c68baa",
+   "name": "npc@pis-basic-respawn",
+   "stats": {
+    "channels": 78,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/npc_pis-basic-respawn_d6c68baa.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-basic-rollB1_3e530576.glb",
+   "id": "npc_pis-basic-rollB1_3e530576",
+   "name": "npc@pis-basic-rollB1",
+   "stats": {
+    "channels": 78,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/npc_pis-basic-rollB1_3e530576.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-basic-rollBL1_e16c1f47.glb",
+   "id": "npc_pis-basic-rollBL1_e16c1f47",
+   "name": "npc@pis-basic-rollBL1",
+   "stats": {
+    "channels": 78,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/npc_pis-basic-rollBL1_e16c1f47.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-basic-rollBR1_4c773437.glb",
+   "id": "npc_pis-basic-rollBR1_4c773437",
+   "name": "npc@pis-basic-rollBR1",
+   "stats": {
+    "channels": 78,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/npc_pis-basic-rollBR1_4c773437.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-basic-rollF1_a56c781f.glb",
+   "id": "npc_pis-basic-rollF1_a56c781f",
+   "name": "npc@pis-basic-rollF1",
+   "stats": {
+    "channels": 78,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/npc_pis-basic-rollF1_a56c781f.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-basic-rollFL1_cbfa33ce.glb",
+   "id": "npc_pis-basic-rollFL1_cbfa33ce",
+   "name": "npc@pis-basic-rollFL1",
+   "stats": {
+    "channels": 78,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/npc_pis-basic-rollFL1_cbfa33ce.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-basic-rollFR1_726b061a.glb",
+   "id": "npc_pis-basic-rollFR1_726b061a",
+   "name": "npc@pis-basic-rollFR1",
+   "stats": {
+    "channels": 78,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/npc_pis-basic-rollFR1_726b061a.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-basic-rollL1_998cc3e8.glb",
+   "id": "npc_pis-basic-rollL1_998cc3e8",
+   "name": "npc@pis-basic-rollL1",
+   "stats": {
+    "channels": 78,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/npc_pis-basic-rollL1_998cc3e8.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-basic-rollR1_10a98c26.glb",
+   "id": "npc_pis-basic-rollR1_10a98c26",
+   "name": "npc@pis-basic-rollR1",
+   "stats": {
+    "channels": 78,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/npc_pis-basic-rollR1_10a98c26.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-basic-runB_8596b780.glb",
+   "id": "npc_pis-basic-runB_8596b780",
+   "name": "npc@pis-basic-runB",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_pis-basic-runB_8596b780.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-basic-runBL_45f2287f.glb",
+   "id": "npc_pis-basic-runBL_45f2287f",
+   "name": "npc@pis-basic-runBL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_pis-basic-runBL_45f2287f.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-basic-runBR_d97e4f2e.glb",
+   "id": "npc_pis-basic-runBR_d97e4f2e",
+   "name": "npc@pis-basic-runBR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_pis-basic-runBR_d97e4f2e.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-basic-runF_ed03f3c3.glb",
+   "id": "npc_pis-basic-runF_ed03f3c3",
+   "name": "npc@pis-basic-runF",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_pis-basic-runF_ed03f3c3.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-basic-runFL_7fad38d0.glb",
+   "id": "npc_pis-basic-runFL_7fad38d0",
+   "name": "npc@pis-basic-runFL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_pis-basic-runFL_7fad38d0.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-basic-runFR_3a69176f.glb",
+   "id": "npc_pis-basic-runFR_3a69176f",
+   "name": "npc@pis-basic-runFR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_pis-basic-runFR_3a69176f.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-basic-runL_73c67e1b.glb",
+   "id": "npc_pis-basic-runL_73c67e1b",
+   "name": "npc@pis-basic-runL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_pis-basic-runL_73c67e1b.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-basic-runR_f803258a.glb",
+   "id": "npc_pis-basic-runR_f803258a",
+   "name": "npc@pis-basic-runR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_pis-basic-runR_f803258a.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-basic-stand_97feaf0a.glb",
+   "id": "npc_pis-basic-stand_97feaf0a",
+   "name": "npc@pis-basic-stand",
+   "stats": {
+    "channels": 78,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/npc_pis-basic-stand_97feaf0a.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-bind-doSmash_9922a6ed.glb",
+   "id": "npc_pis-bind-doSmash_9922a6ed",
+   "name": "npc@pis-bind-doSmash",
+   "stats": {
+    "channels": 78,
+    "duration": 0.733
+   },
+   "thumb": "040_anim/npc_pis-bind-doSmash_9922a6ed.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-bind-readySmash_71ad5610.glb",
+   "id": "npc_pis-bind-readySmash_71ad5610",
+   "name": "npc@pis-bind-readySmash",
+   "stats": {
+    "channels": 78,
+    "duration": 0.733
+   },
+   "thumb": "040_anim/npc_pis-bind-readySmash_71ad5610.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-bound-die_e9227e46.glb",
+   "id": "npc_pis-bound-die_e9227e46",
+   "name": "npc@pis-bound-die",
+   "stats": {
+    "channels": 78,
+    "duration": 2.033
+   },
+   "thumb": "040_anim/npc_pis-bound-die_e9227e46.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-bound-escape_60294534.glb",
+   "id": "npc_pis-bound-escape_60294534",
+   "name": "npc@pis-bound-escape",
+   "stats": {
+    "channels": 78,
+    "duration": 2.367
+   },
+   "thumb": "040_anim/npc_pis-bound-escape_60294534.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-bound-HP0_8effddfa.glb",
+   "id": "npc_pis-bound-HP0_8effddfa",
+   "name": "npc@pis-bound-HP0",
+   "stats": {
+    "channels": 78,
+    "duration": 2.367
+   },
+   "thumb": "040_anim/npc_pis-bound-HP0_8effddfa.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-bound-idle_0c12423c.glb",
+   "id": "npc_pis-bound-idle_0c12423c",
+   "name": "npc@pis-bound-idle",
+   "stats": {
+    "channels": 78,
+    "duration": 2.367
+   },
+   "thumb": "040_anim/npc_pis-bound-idle_0c12423c.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-bound-into_f100ef88.glb",
+   "id": "npc_pis-bound-into_f100ef88",
+   "name": "npc@pis-bound-into",
+   "stats": {
+    "channels": 78,
+    "duration": 3.367
+   },
+   "thumb": "040_anim/npc_pis-bound-into_f100ef88.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-bound-kicked_eea2f881.glb",
+   "id": "npc_pis-bound-kicked_eea2f881",
+   "name": "npc@pis-bound-kicked",
+   "stats": {
+    "channels": 78,
+    "duration": 2.367
+   },
+   "thumb": "040_anim/npc_pis-bound-kicked_eea2f881.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-bound-kickedDelay_efc5bc23.glb",
+   "id": "npc_pis-bound-kickedDelay_efc5bc23",
+   "name": "npc@pis-bound-kickedDelay",
+   "stats": {
+    "channels": 78,
+    "duration": 2.367
+   },
+   "thumb": "040_anim/npc_pis-bound-kickedDelay_efc5bc23.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-bound-runB_42141a7e.glb",
+   "id": "npc_pis-bound-runB_42141a7e",
+   "name": "npc@pis-bound-runB",
+   "stats": {
+    "channels": 78,
+    "duration": 0.633
+   },
+   "thumb": "040_anim/npc_pis-bound-runB_42141a7e.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-bound-runBL_e1b7ac60.glb",
+   "id": "npc_pis-bound-runBL_e1b7ac60",
+   "name": "npc@pis-bound-runBL",
+   "stats": {
+    "channels": 78,
+    "duration": 1.9
+   },
+   "thumb": "040_anim/npc_pis-bound-runBL_e1b7ac60.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-bound-runBR_8e4c86b2.glb",
+   "id": "npc_pis-bound-runBR_8e4c86b2",
+   "name": "npc@pis-bound-runBR",
+   "stats": {
+    "channels": 78,
+    "duration": 1.9
+   },
+   "thumb": "040_anim/npc_pis-bound-runBR_8e4c86b2.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-bound-runF_baa6d917.glb",
+   "id": "npc_pis-bound-runF_baa6d917",
+   "name": "npc@pis-bound-runF",
+   "stats": {
+    "channels": 78,
+    "duration": 0.633
+   },
+   "thumb": "040_anim/npc_pis-bound-runF_baa6d917.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-bound-runFL_f6764a16.glb",
+   "id": "npc_pis-bound-runFL_f6764a16",
+   "name": "npc@pis-bound-runFL",
+   "stats": {
+    "channels": 78,
+    "duration": 1.9
+   },
+   "thumb": "040_anim/npc_pis-bound-runFL_f6764a16.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-bound-runFR_04f81eee.glb",
+   "id": "npc_pis-bound-runFR_04f81eee",
+   "name": "npc@pis-bound-runFR",
+   "stats": {
+    "channels": 78,
+    "duration": 1.9
+   },
+   "thumb": "040_anim/npc_pis-bound-runFR_04f81eee.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-bound-runL_6a3141af.glb",
+   "id": "npc_pis-bound-runL_6a3141af",
+   "name": "npc@pis-bound-runL",
+   "stats": {
+    "channels": 78,
+    "duration": 1.9
+   },
+   "thumb": "040_anim/npc_pis-bound-runL_6a3141af.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-bound-runR_054032df.glb",
+   "id": "npc_pis-bound-runR_054032df",
+   "name": "npc@pis-bound-runR",
+   "stats": {
+    "channels": 78,
+    "duration": 1.9
+   },
+   "thumb": "040_anim/npc_pis-bound-runR_054032df.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-cover-aimL_806b847f.glb",
+   "id": "npc_pis-cover-aimL_806b847f",
+   "name": "npc@pis-cover-aimL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/npc_pis-cover-aimL_806b847f.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-cover-aimR_f4b65c6d.glb",
+   "id": "npc_pis-cover-aimR_f4b65c6d",
+   "name": "npc@pis-cover-aimR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/npc_pis-cover-aimR_f4b65c6d.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-cover-aimT_f5a93fee.glb",
+   "id": "npc_pis-cover-aimT_f5a93fee",
+   "name": "npc@pis-cover-aimT",
+   "stats": {
+    "channels": 78,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/npc_pis-cover-aimT_f5a93fee.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-cover-changeWeapon_ea10db1f.glb",
+   "id": "npc_pis-cover-changeWeapon_ea10db1f",
+   "name": "npc@pis-cover-changeWeapon",
+   "stats": {
+    "channels": 78,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/npc_pis-cover-changeWeapon_ea10db1f.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-cover-changeWeaponL_a6a7b764.glb",
+   "id": "npc_pis-cover-changeWeaponL_a6a7b764",
+   "name": "npc@pis-cover-changeWeaponL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/npc_pis-cover-changeWeaponL_a6a7b764.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-cover-changeWeaponR_4dd88cb2.glb",
+   "id": "npc_pis-cover-changeWeaponR_4dd88cb2",
+   "name": "npc@pis-cover-changeWeaponR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/npc_pis-cover-changeWeaponR_4dd88cb2.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-cover-changeWeaponT_920aa7ff.glb",
+   "id": "npc_pis-cover-changeWeaponT_920aa7ff",
+   "name": "npc@pis-cover-changeWeaponT",
+   "stats": {
+    "channels": 78,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/npc_pis-cover-changeWeaponT_920aa7ff.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-cover-fireL_a026a729.glb",
+   "id": "npc_pis-cover-fireL_a026a729",
+   "name": "npc@pis-cover-fireL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.167
+   },
+   "thumb": "040_anim/npc_pis-cover-fireL_a026a729.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-cover-fireR_02e17075.glb",
+   "id": "npc_pis-cover-fireR_02e17075",
+   "name": "npc@pis-cover-fireR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.167
+   },
+   "thumb": "040_anim/npc_pis-cover-fireR_02e17075.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-cover-fireT_494f9041.glb",
+   "id": "npc_pis-cover-fireT_494f9041",
+   "name": "npc@pis-cover-fireT",
+   "stats": {
+    "channels": 78,
+    "duration": 0.167
+   },
+   "thumb": "040_anim/npc_pis-cover-fireT_494f9041.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-cover-moveL_40897e9b.glb",
+   "id": "npc_pis-cover-moveL_40897e9b",
+   "name": "npc@pis-cover-moveL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.3
+   },
+   "thumb": "040_anim/npc_pis-cover-moveL_40897e9b.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-cover-moveR_4d5473b8.glb",
+   "id": "npc_pis-cover-moveR_4d5473b8",
+   "name": "npc@pis-cover-moveR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.3
+   },
+   "thumb": "040_anim/npc_pis-cover-moveR_4d5473b8.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-cover-outT2_fbb2b53d.glb",
+   "id": "npc_pis-cover-outT2_fbb2b53d",
+   "name": "npc@pis-cover-outT2",
+   "stats": {
+    "channels": 78,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/npc_pis-cover-outT2_fbb2b53d.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-cover-outT_771f517b.glb",
+   "id": "npc_pis-cover-outT_771f517b",
+   "name": "npc@pis-cover-outT",
+   "stats": {
+    "channels": 78,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/npc_pis-cover-outT_771f517b.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-cover-outWall_5e982b87.glb",
+   "id": "npc_pis-cover-outWall_5e982b87",
+   "name": "npc@pis-cover-outWall",
+   "stats": {
+    "channels": 78,
+    "duration": 0.433
+   },
+   "thumb": "040_anim/npc_pis-cover-outWall_5e982b87.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-cover-popL_37914805.glb",
+   "id": "npc_pis-cover-popL_37914805",
+   "name": "npc@pis-cover-popL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/npc_pis-cover-popL_37914805.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-cover-popMoveL_6bce01a2.glb",
+   "id": "npc_pis-cover-popMoveL_6bce01a2",
+   "name": "npc@pis-cover-popMoveL",
+   "stats": {
+    "channels": 81,
+    "duration": 0.533
+   },
+   "thumb": "040_anim/npc_pis-cover-popMoveL_6bce01a2.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-cover-popMoveR_7a683d5d.glb",
+   "id": "npc_pis-cover-popMoveR_7a683d5d",
+   "name": "npc@pis-cover-popMoveR",
+   "stats": {
+    "channels": 81,
+    "duration": 0.533
+   },
+   "thumb": "040_anim/npc_pis-cover-popMoveR_7a683d5d.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-cover-popR_8e4133f3.glb",
+   "id": "npc_pis-cover-popR_8e4133f3",
+   "name": "npc@pis-cover-popR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/npc_pis-cover-popR_8e4133f3.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-cover-popT_d51b8ca0.glb",
+   "id": "npc_pis-cover-popT_d51b8ca0",
+   "name": "npc@pis-cover-popT",
+   "stats": {
+    "channels": 78,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/npc_pis-cover-popT_d51b8ca0.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-cover-returnL_ec284c6e.glb",
+   "id": "npc_pis-cover-returnL_ec284c6e",
+   "name": "npc@pis-cover-returnL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.533
+   },
+   "thumb": "040_anim/npc_pis-cover-returnL_ec284c6e.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-cover-returnR_31d9d136.glb",
+   "id": "npc_pis-cover-returnR_31d9d136",
+   "name": "npc@pis-cover-returnR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/npc_pis-cover-returnR_31d9d136.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-cover-returnT_b01e2b94.glb",
+   "id": "npc_pis-cover-returnT_b01e2b94",
+   "name": "npc@pis-cover-returnT",
+   "stats": {
+    "channels": 78,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/npc_pis-cover-returnT_b01e2b94.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-cover-stand_7283d17a.glb",
+   "id": "npc_pis-cover-stand_7283d17a",
+   "name": "npc@pis-cover-stand",
+   "stats": {
+    "channels": 78,
+    "duration": 1.033
+   },
+   "thumb": "040_anim/npc_pis-cover-stand_7283d17a.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-cover-toWall_a87a9ca4.glb",
+   "id": "npc_pis-cover-toWall_a87a9ca4",
+   "name": "npc@pis-cover-toWall",
+   "stats": {
+    "channels": 78,
+    "duration": 0.433
+   },
+   "thumb": "040_anim/npc_pis-cover-toWall_a87a9ca4.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-knocked-small_d33dc527.glb",
+   "id": "npc_pis-knocked-small_d33dc527",
+   "name": "npc@pis-knocked-small",
+   "stats": {
+    "channels": 78,
+    "duration": 0.167
+   },
+   "thumb": "040_anim/npc_pis-knocked-small_d33dc527.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-knocked-stun_93e2e71c.glb",
+   "id": "npc_pis-knocked-stun_93e2e71c",
+   "name": "npc@pis-knocked-stun",
+   "stats": {
+    "channels": 78,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/npc_pis-knocked-stun_93e2e71c.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-reload-cover_e2c3e355.glb",
+   "id": "npc_pis-reload-cover_e2c3e355",
+   "name": "npc@pis-reload-cover",
+   "stats": {
+    "channels": 78,
+    "duration": 3.533
+   },
+   "thumb": "040_anim/npc_pis-reload-cover_e2c3e355.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-reload-end_db4a9a06.glb",
+   "id": "npc_pis-reload-end_db4a9a06",
+   "name": "npc@pis-reload-end",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_pis-reload-end_db4a9a06.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-reload-popL_a0634c72.glb",
+   "id": "npc_pis-reload-popL_a0634c72",
+   "name": "npc@pis-reload-popL",
+   "stats": {
+    "channels": 78,
+    "duration": 3.533
+   },
+   "thumb": "040_anim/npc_pis-reload-popL_a0634c72.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-reload-popR_b1ba021a.glb",
+   "id": "npc_pis-reload-popR_b1ba021a",
+   "name": "npc@pis-reload-popR",
+   "stats": {
+    "channels": 78,
+    "duration": 3.767
+   },
+   "thumb": "040_anim/npc_pis-reload-popR_b1ba021a.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-reload-popT_f59d27d4.glb",
+   "id": "npc_pis-reload-popT_f59d27d4",
+   "name": "npc@pis-reload-popT",
+   "stats": {
+    "channels": 78,
+    "duration": 3.533
+   },
+   "thumb": "040_anim/npc_pis-reload-popT_f59d27d4.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-reload-reload_7dc00ce2.glb",
+   "id": "npc_pis-reload-reload_7dc00ce2",
+   "name": "npc@pis-reload-reload",
+   "stats": {
+    "channels": 78,
+    "duration": 3.533
+   },
+   "thumb": "040_anim/npc_pis-reload-reload_7dc00ce2.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-reload-runB_00911c4d.glb",
+   "id": "npc_pis-reload-runB_00911c4d",
+   "name": "npc@pis-reload-runB",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_pis-reload-runB_00911c4d.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-reload-runBL_78cc8c55.glb",
+   "id": "npc_pis-reload-runBL_78cc8c55",
+   "name": "npc@pis-reload-runBL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_pis-reload-runBL_78cc8c55.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-reload-runBR_cde0018b.glb",
+   "id": "npc_pis-reload-runBR_cde0018b",
+   "name": "npc@pis-reload-runBR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_pis-reload-runBR_cde0018b.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-reload-runF_86249daa.glb",
+   "id": "npc_pis-reload-runF_86249daa",
+   "name": "npc@pis-reload-runF",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_pis-reload-runF_86249daa.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-reload-runFL_580664f1.glb",
+   "id": "npc_pis-reload-runFL_580664f1",
+   "name": "npc@pis-reload-runFL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_pis-reload-runFL_580664f1.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-reload-runFR_2c6ccf89.glb",
+   "id": "npc_pis-reload-runFR_2c6ccf89",
+   "name": "npc@pis-reload-runFR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_pis-reload-runFR_2c6ccf89.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-reload-runL_d9f1b1fa.glb",
+   "id": "npc_pis-reload-runL_d9f1b1fa",
+   "name": "npc@pis-reload-runL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_pis-reload-runL_d9f1b1fa.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-reload-runR_a223b129.glb",
+   "id": "npc_pis-reload-runR_a223b129",
+   "name": "npc@pis-reload-runR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_pis-reload-runR_a223b129.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-reload-stand_bd65125e.glb",
+   "id": "npc_pis-reload-stand_bd65125e",
+   "name": "npc@pis-reload-stand",
+   "stats": {
+    "channels": 78,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/npc_pis-reload-stand_bd65125e.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-reload-start_8edf3fd1.glb",
+   "id": "npc_pis-reload-start_8edf3fd1",
+   "name": "npc@pis-reload-start",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_pis-reload-start_8edf3fd1.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-result-draw1_7998536c.glb",
+   "id": "npc_pis-result-draw1_7998536c",
+   "name": "npc@pis-result-draw1",
+   "stats": {
+    "channels": 78,
+    "duration": 0.733
+   },
+   "thumb": "040_anim/npc_pis-result-draw1_7998536c.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-result-lose1_0bb93393.glb",
+   "id": "npc_pis-result-lose1_0bb93393",
+   "name": "npc@pis-result-lose1",
+   "stats": {
+    "channels": 78,
+    "duration": 4.5
+   },
+   "thumb": "040_anim/npc_pis-result-lose1_0bb93393.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-result-win1_9088889f.glb",
+   "id": "npc_pis-result-win1_9088889f",
+   "name": "npc@pis-result-win1",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_pis-result-win1_9088889f.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-shoot-aim_717f851c.glb",
+   "id": "npc_pis-shoot-aim_717f851c",
+   "name": "npc@pis-shoot-aim",
+   "stats": {
+    "channels": 81,
+    "duration": 0.167
+   },
+   "thumb": "040_anim/npc_pis-shoot-aim_717f851c.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_pis-shoot-fire_522556ef.glb",
+   "id": "npc_pis-shoot-fire_522556ef",
+   "name": "npc@pis-shoot-fire",
+   "stats": {
+    "channels": 81,
+    "duration": 0.167
+   },
+   "thumb": "040_anim/npc_pis-shoot-fire_522556ef.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-basic-runB_8d253477.glb",
+   "id": "npc_ri-basic-runB_8d253477",
+   "name": "npc@ri-basic-runB",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_ri-basic-runB_8d253477.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-basic-runBL_8e445a16.glb",
+   "id": "npc_ri-basic-runBL_8e445a16",
+   "name": "npc@ri-basic-runBL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_ri-basic-runBL_8e445a16.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-basic-runBR_2cf76c08.glb",
+   "id": "npc_ri-basic-runBR_2cf76c08",
+   "name": "npc@ri-basic-runBR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_ri-basic-runBR_2cf76c08.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-basic-runF_e6de0ad6.glb",
+   "id": "npc_ri-basic-runF_e6de0ad6",
+   "name": "npc@ri-basic-runF",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_ri-basic-runF_e6de0ad6.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-basic-runFL_f2491f29.glb",
+   "id": "npc_ri-basic-runFL_f2491f29",
+   "name": "npc@ri-basic-runFL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_ri-basic-runFL_f2491f29.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-basic-runFR_7ef22dda.glb",
+   "id": "npc_ri-basic-runFR_7ef22dda",
+   "name": "npc@ri-basic-runFR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_ri-basic-runFR_7ef22dda.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-basic-runL_5d5b28ae.glb",
+   "id": "npc_ri-basic-runL_5d5b28ae",
+   "name": "npc@ri-basic-runL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_ri-basic-runL_5d5b28ae.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-basic-runR_6f69ac64.glb",
+   "id": "npc_ri-basic-runR_6f69ac64",
+   "name": "npc@ri-basic-runR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_ri-basic-runR_6f69ac64.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-cover-aimR02_b2379687.glb",
+   "id": "npc_ri-cover-aimR02_b2379687",
+   "name": "npc@ri-cover-aimR02",
+   "stats": {
+    "channels": 75,
+    "duration": 0.5
+   },
+   "thumb": "040_anim/npc_ri-cover-aimR02_b2379687.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-cover-changeWeapon_275bbd4b.glb",
+   "id": "npc_ri-cover-changeWeapon_275bbd4b",
+   "name": "npc@ri-cover-changeWeapon",
+   "stats": {
+    "channels": 78,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/npc_ri-cover-changeWeapon_275bbd4b.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-cover-changeWeaponL_26a3a4d9.glb",
+   "id": "npc_ri-cover-changeWeaponL_26a3a4d9",
+   "name": "npc@ri-cover-changeWeaponL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/npc_ri-cover-changeWeaponL_26a3a4d9.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-cover-changeWeaponR_d47d4882.glb",
+   "id": "npc_ri-cover-changeWeaponR_d47d4882",
+   "name": "npc@ri-cover-changeWeaponR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.6
+   },
+   "thumb": "040_anim/npc_ri-cover-changeWeaponR_d47d4882.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-cover-changeWeaponT_baed0e48.glb",
+   "id": "npc_ri-cover-changeWeaponT_baed0e48",
+   "name": "npc@ri-cover-changeWeaponT",
+   "stats": {
+    "channels": 78,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/npc_ri-cover-changeWeaponT_baed0e48.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-reload-cover_4902e2b2.glb",
+   "id": "npc_ri-reload-cover_4902e2b2",
+   "name": "npc@ri-reload-cover",
+   "stats": {
+    "channels": 78,
+    "duration": 3.533
+   },
+   "thumb": "040_anim/npc_ri-reload-cover_4902e2b2.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-reload-end_53150bbe.glb",
+   "id": "npc_ri-reload-end_53150bbe",
+   "name": "npc@ri-reload-end",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_ri-reload-end_53150bbe.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-reload-popL_9ae9f915.glb",
+   "id": "npc_ri-reload-popL_9ae9f915",
+   "name": "npc@ri-reload-popL",
+   "stats": {
+    "channels": 78,
+    "duration": 3.533
+   },
+   "thumb": "040_anim/npc_ri-reload-popL_9ae9f915.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-reload-popR_63e4ee63.glb",
+   "id": "npc_ri-reload-popR_63e4ee63",
+   "name": "npc@ri-reload-popR",
+   "stats": {
+    "channels": 78,
+    "duration": 3.533
+   },
+   "thumb": "040_anim/npc_ri-reload-popR_63e4ee63.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-reload-popT_5d5f8901.glb",
+   "id": "npc_ri-reload-popT_5d5f8901",
+   "name": "npc@ri-reload-popT",
+   "stats": {
+    "channels": 78,
+    "duration": 3.533
+   },
+   "thumb": "040_anim/npc_ri-reload-popT_5d5f8901.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-reload-reload_27a09a2d.glb",
+   "id": "npc_ri-reload-reload_27a09a2d",
+   "name": "npc@ri-reload-reload",
+   "stats": {
+    "channels": 78,
+    "duration": 3.533
+   },
+   "thumb": "040_anim/npc_ri-reload-reload_27a09a2d.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-reload-runB_c1e65395.glb",
+   "id": "npc_ri-reload-runB_c1e65395",
+   "name": "npc@ri-reload-runB",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_ri-reload-runB_c1e65395.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-reload-runBL_4620fb9b.glb",
+   "id": "npc_ri-reload-runBL_4620fb9b",
+   "name": "npc@ri-reload-runBL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_ri-reload-runBL_4620fb9b.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-reload-runBR_755a5052.glb",
+   "id": "npc_ri-reload-runBR_755a5052",
+   "name": "npc@ri-reload-runBR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_ri-reload-runBR_755a5052.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-reload-runF_ec1298bd.glb",
+   "id": "npc_ri-reload-runF_ec1298bd",
+   "name": "npc@ri-reload-runF",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_ri-reload-runF_ec1298bd.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-reload-runFL_b90a848b.glb",
+   "id": "npc_ri-reload-runFL_b90a848b",
+   "name": "npc@ri-reload-runFL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_ri-reload-runFL_b90a848b.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-reload-runFR_d26dca37.glb",
+   "id": "npc_ri-reload-runFR_d26dca37",
+   "name": "npc@ri-reload-runFR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_ri-reload-runFR_d26dca37.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-reload-runL_5687d2b5.glb",
+   "id": "npc_ri-reload-runL_5687d2b5",
+   "name": "npc@ri-reload-runL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_ri-reload-runL_5687d2b5.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-reload-runR_6f59e5fd.glb",
+   "id": "npc_ri-reload-runR_6f59e5fd",
+   "name": "npc@ri-reload-runR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_ri-reload-runR_6f59e5fd.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-reload-start_19ead6af.glb",
+   "id": "npc_ri-reload-start_19ead6af",
+   "name": "npc@ri-reload-start",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_ri-reload-start_19ead6af.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-shoot-aim_d4c96961.glb",
+   "id": "npc_ri-shoot-aim_d4c96961",
+   "name": "npc@ri-shoot-aim",
+   "stats": {
+    "channels": 78,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/npc_ri-shoot-aim_d4c96961.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_ri-shoot-fire_9bcbffc5.glb",
+   "id": "npc_ri-shoot-fire_9bcbffc5",
+   "name": "npc@ri-shoot-fire",
+   "stats": {
+    "channels": 75,
+    "duration": 0.233
+   },
+   "thumb": "040_anim/npc_ri-shoot-fire_9bcbffc5.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-basic-changeWeapon_269e4e1e.glb",
+   "id": "npc_sg-basic-changeWeapon_269e4e1e",
+   "name": "npc@sg-basic-changeWeapon",
+   "stats": {
+    "channels": 78,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/npc_sg-basic-changeWeapon_269e4e1e.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-basic-dash_fd81b209.glb",
+   "id": "npc_sg-basic-dash_fd81b209",
+   "name": "npc@sg-basic-dash",
+   "stats": {
+    "channels": 78,
+    "duration": 0.433
+   },
+   "thumb": "040_anim/npc_sg-basic-dash_fd81b209.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-basic-jump_045f52cb.glb",
+   "id": "npc_sg-basic-jump_045f52cb",
+   "name": "npc@sg-basic-jump",
+   "stats": {
+    "channels": 78,
+    "duration": 0.667
+   },
+   "thumb": "040_anim/npc_sg-basic-jump_045f52cb.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-basic-rollB1_2038ebb8.glb",
+   "id": "npc_sg-basic-rollB1_2038ebb8",
+   "name": "npc@sg-basic-rollB1",
+   "stats": {
+    "channels": 78,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/npc_sg-basic-rollB1_2038ebb8.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-basic-rollBL1_5e4e1cfd.glb",
+   "id": "npc_sg-basic-rollBL1_5e4e1cfd",
+   "name": "npc@sg-basic-rollBL1",
+   "stats": {
+    "channels": 78,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/npc_sg-basic-rollBL1_5e4e1cfd.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-basic-rollBLR1_094cb18f.glb",
+   "id": "npc_sg-basic-rollBLR1_094cb18f",
+   "name": "npc@sg-basic-rollBLR1",
+   "stats": {
+    "channels": 78,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/npc_sg-basic-rollBLR1_094cb18f.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-basic-rollF1_88d2ac17.glb",
+   "id": "npc_sg-basic-rollF1_88d2ac17",
+   "name": "npc@sg-basic-rollF1",
+   "stats": {
+    "channels": 78,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/npc_sg-basic-rollF1_88d2ac17.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-basic-rollFL1_571f7c5a.glb",
+   "id": "npc_sg-basic-rollFL1_571f7c5a",
+   "name": "npc@sg-basic-rollFL1",
+   "stats": {
+    "channels": 78,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/npc_sg-basic-rollFL1_571f7c5a.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-basic-rollFR1_16e49621.glb",
+   "id": "npc_sg-basic-rollFR1_16e49621",
+   "name": "npc@sg-basic-rollFR1",
+   "stats": {
+    "channels": 78,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/npc_sg-basic-rollFR1_16e49621.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-basic-rollL1_f3cc8afc.glb",
+   "id": "npc_sg-basic-rollL1_f3cc8afc",
+   "name": "npc@sg-basic-rollL1",
+   "stats": {
+    "channels": 78,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/npc_sg-basic-rollL1_f3cc8afc.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-basic-rollR1_cd813019.glb",
+   "id": "npc_sg-basic-rollR1_cd813019",
+   "name": "npc@sg-basic-rollR1",
+   "stats": {
+    "channels": 78,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/npc_sg-basic-rollR1_cd813019.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-basic-runB_c314b2f4.glb",
+   "id": "npc_sg-basic-runB_c314b2f4",
+   "name": "npc@sg-basic-runB",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sg-basic-runB_c314b2f4.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-basic-runBL_af01a185.glb",
+   "id": "npc_sg-basic-runBL_af01a185",
+   "name": "npc@sg-basic-runBL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sg-basic-runBL_af01a185.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-basic-runBR_26f8e0a0.glb",
+   "id": "npc_sg-basic-runBR_26f8e0a0",
+   "name": "npc@sg-basic-runBR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sg-basic-runBR_26f8e0a0.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-basic-runF_485acf67.glb",
+   "id": "npc_sg-basic-runF_485acf67",
+   "name": "npc@sg-basic-runF",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sg-basic-runF_485acf67.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-basic-runFL_cc65b624.glb",
+   "id": "npc_sg-basic-runFL_cc65b624",
+   "name": "npc@sg-basic-runFL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sg-basic-runFL_cc65b624.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-basic-runFR_c7a34557.glb",
+   "id": "npc_sg-basic-runFR_c7a34557",
+   "name": "npc@sg-basic-runFR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sg-basic-runFR_c7a34557.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-basic-runL_5e1ce7d0.glb",
+   "id": "npc_sg-basic-runL_5e1ce7d0",
+   "name": "npc@sg-basic-runL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sg-basic-runL_5e1ce7d0.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-basic-runR_5fa71727.glb",
+   "id": "npc_sg-basic-runR_5fa71727",
+   "name": "npc@sg-basic-runR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sg-basic-runR_5fa71727.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-basic-stand_ab7c0e48.glb",
+   "id": "npc_sg-basic-stand_ab7c0e48",
+   "name": "npc@sg-basic-stand",
+   "stats": {
+    "channels": 78,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/npc_sg-basic-stand_ab7c0e48.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-cover-aimL_8588a0cd.glb",
+   "id": "npc_sg-cover-aimL_8588a0cd",
+   "name": "npc@sg-cover-aimL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/npc_sg-cover-aimL_8588a0cd.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-cover-aimR_9eac73c3.glb",
+   "id": "npc_sg-cover-aimR_9eac73c3",
+   "name": "npc@sg-cover-aimR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.5
+   },
+   "thumb": "040_anim/npc_sg-cover-aimR_9eac73c3.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-cover-aimT_c6088dc7.glb",
+   "id": "npc_sg-cover-aimT_c6088dc7",
+   "name": "npc@sg-cover-aimT",
+   "stats": {
+    "channels": 78,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/npc_sg-cover-aimT_c6088dc7.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-cover-changeWeapon_b6fc3514.glb",
+   "id": "npc_sg-cover-changeWeapon_b6fc3514",
+   "name": "npc@sg-cover-changeWeapon",
+   "stats": {
+    "channels": 78,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/npc_sg-cover-changeWeapon_b6fc3514.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-cover-changeWeaponL_07cb5a46.glb",
+   "id": "npc_sg-cover-changeWeaponL_07cb5a46",
+   "name": "npc@sg-cover-changeWeaponL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/npc_sg-cover-changeWeaponL_07cb5a46.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-cover-changeWeaponR_2aafc0c4.glb",
+   "id": "npc_sg-cover-changeWeaponR_2aafc0c4",
+   "name": "npc@sg-cover-changeWeaponR",
+   "stats": {
+    "channels": 75,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/npc_sg-cover-changeWeaponR_2aafc0c4.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-cover-changeWeaponT_e9560dac.glb",
+   "id": "npc_sg-cover-changeWeaponT_e9560dac",
+   "name": "npc@sg-cover-changeWeaponT",
+   "stats": {
+    "channels": 78,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/npc_sg-cover-changeWeaponT_e9560dac.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-cover-fireL_6ef2595f.glb",
+   "id": "npc_sg-cover-fireL_6ef2595f",
+   "name": "npc@sg-cover-fireL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.767
+   },
+   "thumb": "040_anim/npc_sg-cover-fireL_6ef2595f.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-cover-fireR_449d0041.glb",
+   "id": "npc_sg-cover-fireR_449d0041",
+   "name": "npc@sg-cover-fireR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.767
+   },
+   "thumb": "040_anim/npc_sg-cover-fireR_449d0041.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-cover-fireT_fe232ded.glb",
+   "id": "npc_sg-cover-fireT_fe232ded",
+   "name": "npc@sg-cover-fireT",
+   "stats": {
+    "channels": 6,
+    "duration": 0.767
+   },
+   "thumb": "040_anim/npc_sg-cover-fireT_fe232ded.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-cover-moveL_e929064d.glb",
+   "id": "npc_sg-cover-moveL_e929064d",
+   "name": "npc@sg-cover-moveL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.3
+   },
+   "thumb": "040_anim/npc_sg-cover-moveL_e929064d.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-cover-moveR_f9b55d61.glb",
+   "id": "npc_sg-cover-moveR_f9b55d61",
+   "name": "npc@sg-cover-moveR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.3
+   },
+   "thumb": "040_anim/npc_sg-cover-moveR_f9b55d61.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-cover-outT2_70babed4.glb",
+   "id": "npc_sg-cover-outT2_70babed4",
+   "name": "npc@sg-cover-outT2",
+   "stats": {
+    "channels": 78,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/npc_sg-cover-outT2_70babed4.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-cover-outT_2ddde0f3.glb",
+   "id": "npc_sg-cover-outT_2ddde0f3",
+   "name": "npc@sg-cover-outT",
+   "stats": {
+    "channels": 78,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/npc_sg-cover-outT_2ddde0f3.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-cover-outWall_6392f9f6.glb",
+   "id": "npc_sg-cover-outWall_6392f9f6",
+   "name": "npc@sg-cover-outWall",
+   "stats": {
+    "channels": 78,
+    "duration": 0.467
+   },
+   "thumb": "040_anim/npc_sg-cover-outWall_6392f9f6.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-cover-popL_0234f237.glb",
+   "id": "npc_sg-cover-popL_0234f237",
+   "name": "npc@sg-cover-popL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/npc_sg-cover-popL_0234f237.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-cover-popR_c261b6ca.glb",
+   "id": "npc_sg-cover-popR_c261b6ca",
+   "name": "npc@sg-cover-popR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/npc_sg-cover-popR_c261b6ca.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-cover-popT_67a666de.glb",
+   "id": "npc_sg-cover-popT_67a666de",
+   "name": "npc@sg-cover-popT",
+   "stats": {
+    "channels": 78,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/npc_sg-cover-popT_67a666de.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-cover-returnL_26cbb993.glb",
+   "id": "npc_sg-cover-returnL_26cbb993",
+   "name": "npc@sg-cover-returnL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/npc_sg-cover-returnL_26cbb993.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-cover-returnR_411bb5cf.glb",
+   "id": "npc_sg-cover-returnR_411bb5cf",
+   "name": "npc@sg-cover-returnR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.5
+   },
+   "thumb": "040_anim/npc_sg-cover-returnR_411bb5cf.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-cover-returnT_83dfbc3f.glb",
+   "id": "npc_sg-cover-returnT_83dfbc3f",
+   "name": "npc@sg-cover-returnT",
+   "stats": {
+    "channels": 78,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/npc_sg-cover-returnT_83dfbc3f.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-cover-stand_db86171a.glb",
+   "id": "npc_sg-cover-stand_db86171a",
+   "name": "npc@sg-cover-stand",
+   "stats": {
+    "channels": 78,
+    "duration": 1.033
+   },
+   "thumb": "040_anim/npc_sg-cover-stand_db86171a.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-cover-toWall_098db623.glb",
+   "id": "npc_sg-cover-toWall_098db623",
+   "name": "npc@sg-cover-toWall",
+   "stats": {
+    "channels": 78,
+    "duration": 0.433
+   },
+   "thumb": "040_anim/npc_sg-cover-toWall_098db623.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-reload-cover_136e0372.glb",
+   "id": "npc_sg-reload-cover_136e0372",
+   "name": "npc@sg-reload-cover",
+   "stats": {
+    "channels": 78,
+    "duration": 3.533
+   },
+   "thumb": "040_anim/npc_sg-reload-cover_136e0372.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-reload-end_47614767.glb",
+   "id": "npc_sg-reload-end_47614767",
+   "name": "npc@sg-reload-end",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sg-reload-end_47614767.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-reload-popL_4628e0fc.glb",
+   "id": "npc_sg-reload-popL_4628e0fc",
+   "name": "npc@sg-reload-popL",
+   "stats": {
+    "channels": 78,
+    "duration": 3.533
+   },
+   "thumb": "040_anim/npc_sg-reload-popL_4628e0fc.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-reload-popR_5f36649a.glb",
+   "id": "npc_sg-reload-popR_5f36649a",
+   "name": "npc@sg-reload-popR",
+   "stats": {
+    "channels": 78,
+    "duration": 3.767
+   },
+   "thumb": "040_anim/npc_sg-reload-popR_5f36649a.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-reload-popT_ba5f8056.glb",
+   "id": "npc_sg-reload-popT_ba5f8056",
+   "name": "npc@sg-reload-popT",
+   "stats": {
+    "channels": 78,
+    "duration": 3.533
+   },
+   "thumb": "040_anim/npc_sg-reload-popT_ba5f8056.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-reload-reload_5cb8a8f2.glb",
+   "id": "npc_sg-reload-reload_5cb8a8f2",
+   "name": "npc@sg-reload-reload",
+   "stats": {
+    "channels": 78,
+    "duration": 3.533
+   },
+   "thumb": "040_anim/npc_sg-reload-reload_5cb8a8f2.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-reload-start_829c6f86.glb",
+   "id": "npc_sg-reload-start_829c6f86",
+   "name": "npc@sg-reload-start",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sg-reload-start_829c6f86.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-shoot-aim_750cd0c6.glb",
+   "id": "npc_sg-shoot-aim_750cd0c6",
+   "name": "npc@sg-shoot-aim",
+   "stats": {
+    "channels": 78,
+    "duration": 0.233
+   },
+   "thumb": "040_anim/npc_sg-shoot-aim_750cd0c6.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sg-shoot-fire_0b2b66a2.glb",
+   "id": "npc_sg-shoot-fire_0b2b66a2",
+   "name": "npc@sg-shoot-fire",
+   "stats": {
+    "channels": 78,
+    "duration": 0.767
+   },
+   "thumb": "040_anim/npc_sg-shoot-fire_0b2b66a2.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-basic-changeWeapon_649a0ca0.glb",
+   "id": "npc_sni-basic-changeWeapon_649a0ca0",
+   "name": "npc@sni-basic-changeWeapon",
+   "stats": {
+    "channels": 78,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/npc_sni-basic-changeWeapon_649a0ca0.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-basic-dash_009e2690.glb",
+   "id": "npc_sni-basic-dash_009e2690",
+   "name": "npc@sni-basic-dash",
+   "stats": {
+    "channels": 78,
+    "duration": 0.433
+   },
+   "thumb": "040_anim/npc_sni-basic-dash_009e2690.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-basic-jump_247b66fd.glb",
+   "id": "npc_sni-basic-jump_247b66fd",
+   "name": "npc@sni-basic-jump",
+   "stats": {
+    "channels": 78,
+    "duration": 1.2
+   },
+   "thumb": "040_anim/npc_sni-basic-jump_247b66fd.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-basic-rollB1_6f5e670b.glb",
+   "id": "npc_sni-basic-rollB1_6f5e670b",
+   "name": "npc@sni-basic-rollB1",
+   "stats": {
+    "channels": 78,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/npc_sni-basic-rollB1_6f5e670b.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-basic-rollBL1_13894f6c.glb",
+   "id": "npc_sni-basic-rollBL1_13894f6c",
+   "name": "npc@sni-basic-rollBL1",
+   "stats": {
+    "channels": 78,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/npc_sni-basic-rollBL1_13894f6c.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-basic-rollBLR1_ae0ecf8d.glb",
+   "id": "npc_sni-basic-rollBLR1_ae0ecf8d",
+   "name": "npc@sni-basic-rollBLR1",
+   "stats": {
+    "channels": 78,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/npc_sni-basic-rollBLR1_ae0ecf8d.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-basic-rollF1_ef2d9487.glb",
+   "id": "npc_sni-basic-rollF1_ef2d9487",
+   "name": "npc@sni-basic-rollF1",
+   "stats": {
+    "channels": 78,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/npc_sni-basic-rollF1_ef2d9487.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-basic-rollFL1_d275525f.glb",
+   "id": "npc_sni-basic-rollFL1_d275525f",
+   "name": "npc@sni-basic-rollFL1",
+   "stats": {
+    "channels": 78,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/npc_sni-basic-rollFL1_d275525f.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-basic-rollFR1_291fcb4b.glb",
+   "id": "npc_sni-basic-rollFR1_291fcb4b",
+   "name": "npc@sni-basic-rollFR1",
+   "stats": {
+    "channels": 78,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/npc_sni-basic-rollFR1_291fcb4b.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-basic-rollL1_d172448b.glb",
+   "id": "npc_sni-basic-rollL1_d172448b",
+   "name": "npc@sni-basic-rollL1",
+   "stats": {
+    "channels": 78,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/npc_sni-basic-rollL1_d172448b.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-basic-rollR1_6e66216f.glb",
+   "id": "npc_sni-basic-rollR1_6e66216f",
+   "name": "npc@sni-basic-rollR1",
+   "stats": {
+    "channels": 78,
+    "duration": 0.867
+   },
+   "thumb": "040_anim/npc_sni-basic-rollR1_6e66216f.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-basic-runB_4a7812fd.glb",
+   "id": "npc_sni-basic-runB_4a7812fd",
+   "name": "npc@sni-basic-runB",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sni-basic-runB_4a7812fd.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-basic-runBL_559c7e61.glb",
+   "id": "npc_sni-basic-runBL_559c7e61",
+   "name": "npc@sni-basic-runBL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sni-basic-runBL_559c7e61.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-basic-runBR_268ee84f.glb",
+   "id": "npc_sni-basic-runBR_268ee84f",
+   "name": "npc@sni-basic-runBR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sni-basic-runBR_268ee84f.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-basic-runF_d2b9bebd.glb",
+   "id": "npc_sni-basic-runF_d2b9bebd",
+   "name": "npc@sni-basic-runF",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sni-basic-runF_d2b9bebd.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-basic-runFL_2b75e005.glb",
+   "id": "npc_sni-basic-runFL_2b75e005",
+   "name": "npc@sni-basic-runFL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sni-basic-runFL_2b75e005.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-basic-runFR_049db931.glb",
+   "id": "npc_sni-basic-runFR_049db931",
+   "name": "npc@sni-basic-runFR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sni-basic-runFR_049db931.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-basic-runL_8f2c0d9c.glb",
+   "id": "npc_sni-basic-runL_8f2c0d9c",
+   "name": "npc@sni-basic-runL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sni-basic-runL_8f2c0d9c.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-basic-runR_7d00c064.glb",
+   "id": "npc_sni-basic-runR_7d00c064",
+   "name": "npc@sni-basic-runR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sni-basic-runR_7d00c064.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-basic-stand_8d190e26.glb",
+   "id": "npc_sni-basic-stand_8d190e26",
+   "name": "npc@sni-basic-stand",
+   "stats": {
+    "channels": 78,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/npc_sni-basic-stand_8d190e26.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-cover-aimL_99ae7deb.glb",
+   "id": "npc_sni-cover-aimL_99ae7deb",
+   "name": "npc@sni-cover-aimL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/npc_sni-cover-aimL_99ae7deb.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-cover-aimR_4f5cf6e4.glb",
+   "id": "npc_sni-cover-aimR_4f5cf6e4",
+   "name": "npc@sni-cover-aimR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/npc_sni-cover-aimR_4f5cf6e4.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-cover-changeWeapon_85327528.glb",
+   "id": "npc_sni-cover-changeWeapon_85327528",
+   "name": "npc@sni-cover-changeWeapon",
+   "stats": {
+    "channels": 78,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/npc_sni-cover-changeWeapon_85327528.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-cover-changeWeaponL_383d1961.glb",
+   "id": "npc_sni-cover-changeWeaponL_383d1961",
+   "name": "npc@sni-cover-changeWeaponL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/npc_sni-cover-changeWeaponL_383d1961.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-cover-changeWeaponR_4381b2e2.glb",
+   "id": "npc_sni-cover-changeWeaponR_4381b2e2",
+   "name": "npc@sni-cover-changeWeaponR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/npc_sni-cover-changeWeaponR_4381b2e2.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-cover-changeWeaponT_88189efd.glb",
+   "id": "npc_sni-cover-changeWeaponT_88189efd",
+   "name": "npc@sni-cover-changeWeaponT",
+   "stats": {
+    "channels": 78,
+    "duration": 0.367
+   },
+   "thumb": "040_anim/npc_sni-cover-changeWeaponT_88189efd.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-cover-fireL_1e383fd5.glb",
+   "id": "npc_sni-cover-fireL_1e383fd5",
+   "name": "npc@sni-cover-fireL",
+   "stats": {
+    "channels": 78,
+    "duration": 1.433
+   },
+   "thumb": "040_anim/npc_sni-cover-fireL_1e383fd5.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-cover-fireR_d4cb4e4f.glb",
+   "id": "npc_sni-cover-fireR_d4cb4e4f",
+   "name": "npc@sni-cover-fireR",
+   "stats": {
+    "channels": 78,
+    "duration": 1.433
+   },
+   "thumb": "040_anim/npc_sni-cover-fireR_d4cb4e4f.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-cover-fireT_e91ad13e.glb",
+   "id": "npc_sni-cover-fireT_e91ad13e",
+   "name": "npc@sni-cover-fireT",
+   "stats": {
+    "channels": 78,
+    "duration": 1.433
+   },
+   "thumb": "040_anim/npc_sni-cover-fireT_e91ad13e.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-cover-moveL_694b234e.glb",
+   "id": "npc_sni-cover-moveL_694b234e",
+   "name": "npc@sni-cover-moveL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.3
+   },
+   "thumb": "040_anim/npc_sni-cover-moveL_694b234e.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-cover-moveR_e323dcaa.glb",
+   "id": "npc_sni-cover-moveR_e323dcaa",
+   "name": "npc@sni-cover-moveR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.3
+   },
+   "thumb": "040_anim/npc_sni-cover-moveR_e323dcaa.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-cover-outT2_ef86a0a6.glb",
+   "id": "npc_sni-cover-outT2_ef86a0a6",
+   "name": "npc@sni-cover-outT2",
+   "stats": {
+    "channels": 78,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/npc_sni-cover-outT2_ef86a0a6.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-cover-outT_1197b505.glb",
+   "id": "npc_sni-cover-outT_1197b505",
+   "name": "npc@sni-cover-outT",
+   "stats": {
+    "channels": 78,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/npc_sni-cover-outT_1197b505.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-cover-outWall_bb61dfd1.glb",
+   "id": "npc_sni-cover-outWall_bb61dfd1",
+   "name": "npc@sni-cover-outWall",
+   "stats": {
+    "channels": 78,
+    "duration": 0.433
+   },
+   "thumb": "040_anim/npc_sni-cover-outWall_bb61dfd1.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-cover-popL_28eab72b.glb",
+   "id": "npc_sni-cover-popL_28eab72b",
+   "name": "npc@sni-cover-popL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/npc_sni-cover-popL_28eab72b.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-cover-popR_0316b83a.glb",
+   "id": "npc_sni-cover-popR_0316b83a",
+   "name": "npc@sni-cover-popR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/npc_sni-cover-popR_0316b83a.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-cover-popT_1b0f4ce9.glb",
+   "id": "npc_sni-cover-popT_1b0f4ce9",
+   "name": "npc@sni-cover-popT",
+   "stats": {
+    "channels": 78,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/npc_sni-cover-popT_1b0f4ce9.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-cover-returnL_149e2c1c.glb",
+   "id": "npc_sni-cover-returnL_149e2c1c",
+   "name": "npc@sni-cover-returnL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/npc_sni-cover-returnL_149e2c1c.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-cover-returnR_0a7c7e09.glb",
+   "id": "npc_sni-cover-returnR_0a7c7e09",
+   "name": "npc@sni-cover-returnR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/npc_sni-cover-returnR_0a7c7e09.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-cover-returnT_91ac4af3.glb",
+   "id": "npc_sni-cover-returnT_91ac4af3",
+   "name": "npc@sni-cover-returnT",
+   "stats": {
+    "channels": 78,
+    "duration": 0.267
+   },
+   "thumb": "040_anim/npc_sni-cover-returnT_91ac4af3.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-cover-stand_7c8604df.glb",
+   "id": "npc_sni-cover-stand_7c8604df",
+   "name": "npc@sni-cover-stand",
+   "stats": {
+    "channels": 78,
+    "duration": 1.033
+   },
+   "thumb": "040_anim/npc_sni-cover-stand_7c8604df.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-cover-toWall_0d1679c7.glb",
+   "id": "npc_sni-cover-toWall_0d1679c7",
+   "name": "npc@sni-cover-toWall",
+   "stats": {
+    "channels": 78,
+    "duration": 0.433
+   },
+   "thumb": "040_anim/npc_sni-cover-toWall_0d1679c7.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-reload-cover_84e9b3d3.glb",
+   "id": "npc_sni-reload-cover_84e9b3d3",
+   "name": "npc@sni-reload-cover",
+   "stats": {
+    "channels": 78,
+    "duration": 3.1
+   },
+   "thumb": "040_anim/npc_sni-reload-cover_84e9b3d3.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-reload-end_0360df11.glb",
+   "id": "npc_sni-reload-end_0360df11",
+   "name": "npc@sni-reload-end",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sni-reload-end_0360df11.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-reload-popL_5a4177a8.glb",
+   "id": "npc_sni-reload-popL_5a4177a8",
+   "name": "npc@sni-reload-popL",
+   "stats": {
+    "channels": 78,
+    "duration": 3.367
+   },
+   "thumb": "040_anim/npc_sni-reload-popL_5a4177a8.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-reload-popR_6df60f6e.glb",
+   "id": "npc_sni-reload-popR_6df60f6e",
+   "name": "npc@sni-reload-popR",
+   "stats": {
+    "channels": 78,
+    "duration": 3.367
+   },
+   "thumb": "040_anim/npc_sni-reload-popR_6df60f6e.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-reload-popT_7354b5f2.glb",
+   "id": "npc_sni-reload-popT_7354b5f2",
+   "name": "npc@sni-reload-popT",
+   "stats": {
+    "channels": 78,
+    "duration": 3.367
+   },
+   "thumb": "040_anim/npc_sni-reload-popT_7354b5f2.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-reload-reload_7319c111.glb",
+   "id": "npc_sni-reload-reload_7319c111",
+   "name": "npc@sni-reload-reload",
+   "stats": {
+    "channels": 78,
+    "duration": 3.033
+   },
+   "thumb": "040_anim/npc_sni-reload-reload_7319c111.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-reload-runB_482ef289.glb",
+   "id": "npc_sni-reload-runB_482ef289",
+   "name": "npc@sni-reload-runB",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sni-reload-runB_482ef289.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-reload-runBL_44ba6ddf.glb",
+   "id": "npc_sni-reload-runBL_44ba6ddf",
+   "name": "npc@sni-reload-runBL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sni-reload-runBL_44ba6ddf.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-reload-runBR_dedc5966.glb",
+   "id": "npc_sni-reload-runBR_dedc5966",
+   "name": "npc@sni-reload-runBR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sni-reload-runBR_dedc5966.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-reload-runF_428fa5a0.glb",
+   "id": "npc_sni-reload-runF_428fa5a0",
+   "name": "npc@sni-reload-runF",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sni-reload-runF_428fa5a0.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-reload-runFL_0d695506.glb",
+   "id": "npc_sni-reload-runFL_0d695506",
+   "name": "npc@sni-reload-runFL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sni-reload-runFL_0d695506.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-reload-runFR_ee039685.glb",
+   "id": "npc_sni-reload-runFR_ee039685",
+   "name": "npc@sni-reload-runFR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sni-reload-runFR_ee039685.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-reload-runL_a896dc47.glb",
+   "id": "npc_sni-reload-runL_a896dc47",
+   "name": "npc@sni-reload-runL",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sni-reload-runL_a896dc47.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-reload-runR_533e0399.glb",
+   "id": "npc_sni-reload-runR_533e0399",
+   "name": "npc@sni-reload-runR",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sni-reload-runR_533e0399.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-reload-start_d97ea9ae.glb",
+   "id": "npc_sni-reload-start_d97ea9ae",
+   "name": "npc@sni-reload-start",
+   "stats": {
+    "channels": 78,
+    "duration": 0.567
+   },
+   "thumb": "040_anim/npc_sni-reload-start_d97ea9ae.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-shoot-aim_b3aff88b.glb",
+   "id": "npc_sni-shoot-aim_b3aff88b",
+   "name": "npc@sni-shoot-aim",
+   "stats": {
+    "channels": 78,
+    "duration": 1.433
+   },
+   "thumb": "040_anim/npc_sni-shoot-aim_b3aff88b.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-shoot-fire_231d0d12.glb",
+   "id": "npc_sni-shoot-fire_231d0d12",
+   "name": "npc@sni-shoot-fire",
+   "stats": {
+    "channels": 81,
+    "duration": 1.433
+   },
+   "thumb": "040_anim/npc_sni-shoot-fire_231d0d12.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-zoom-aim_e71c8592.glb",
+   "id": "npc_sni-zoom-aim_e71c8592",
+   "name": "npc@sni-zoom-aim",
+   "stats": {
+    "channels": 81,
+    "duration": 1.433
+   },
+   "thumb": "040_anim/npc_sni-zoom-aim_e71c8592.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-zoom-fire_0de61446.glb",
+   "id": "npc_sni-zoom-fire_0de61446",
+   "name": "npc@sni-zoom-fire",
+   "stats": {
+    "channels": 81,
+    "duration": 1.433
+   },
+   "thumb": "040_anim/npc_sni-zoom-fire_0de61446.webp"
+  },
+  {
+   "assembly": {
+    "base": "racoon_bazzi",
+    "type": "anim"
+   },
+   "file": "040_anim/npc_sni-zoom-stand_21c28bb6.glb",
+   "id": "npc_sni-zoom-stand_21c28bb6",
+   "name": "npc@sni-zoom-stand",
+   "stats": {
+    "channels": 81,
+    "duration": 1.433
+   },
+   "thumb": "040_anim/npc_sni-zoom-stand_21c28bb6.webp"
+  }
+ ],
+ "schema": "boomhill-open-assets/model-list/v1",
+ "title": "애니메이션"
+}

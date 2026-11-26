@@ -1,0 +1,1079 @@
+{
+ "assets": [
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_active_eye",
+   "name": "Textures/FX/bazzi_active_eye",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_attack_feverGround_circle",
+   "name": "Textures/FX/bazzi_attack_feverGround_circle",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_attack_feverGround_downCircle",
+   "name": "Textures/FX/bazzi_attack_feverGround_downCircle",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_attack_feverGround_line",
+   "name": "Textures/FX/bazzi_attack_feverGround_line",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_attack_feverGroundAir_line",
+   "name": "Textures/FX/bazzi_attack_feverGroundAir_line",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_attack_normalDamage_impact",
+   "name": "Textures/FX/bazzi_attack_normalDamage_impact",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_attack_normalDamage_nailMark",
+   "name": "Textures/FX/bazzi_attack_normalDamage_nailMark",
+   "sheet": {
+    "h": 32,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_attack_normalDamage_nailMark02",
+   "name": "Textures/FX/bazzi_attack_normalDamage_nailMark02",
+   "sheet": {
+    "h": 32,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_damage_larva_poison",
+   "name": "Textures/FX/bazzi_damage_larva_poison",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_fever_end_circle",
+   "name": "Textures/FX/bazzi_fever_end_circle",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_fever_end_smoke",
+   "name": "Textures/FX/bazzi_fever_end_smoke",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_fever_use_aura",
+   "name": "Textures/FX/bazzi_fever_use_aura",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_fever_use_circle",
+   "name": "Textures/FX/bazzi_fever_use_circle",
+   "sheet": {
+    "h": 32,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_fever_use_hand",
+   "name": "Textures/FX/bazzi_fever_use_hand",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_fever_use_haze",
+   "name": "Textures/FX/bazzi_fever_use_haze",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_gameEnd_fighterWin_bubble",
+   "name": "Textures/FX/bazzi_gameEnd_fighterWin_bubble",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_gameEnd_fighterWin_downCircle",
+   "name": "Textures/FX/bazzi_gameEnd_fighterWin_downCircle",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_gameEnd_fighterWin_smoke",
+   "name": "Textures/FX/bazzi_gameEnd_fighterWin_smoke",
+   "sheet": {
+    "h": 32,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_gameEnd_fighterWin_spark",
+   "name": "Textures/FX/bazzi_gameEnd_fighterWin_spark",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_host_active_aura",
+   "name": "Textures/FX/bazzi_host_active_aura",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_item_aura",
+   "name": "Textures/FX/bazzi_item_aura",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_item_lighting",
+   "name": "Textures/FX/bazzi_item_lighting",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_item_lighting02",
+   "name": "Textures/FX/bazzi_item_lighting02",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_item_respwan_aura",
+   "name": "Textures/FX/bazzi_item_respwan_aura",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_item_respwan_smoke",
+   "name": "Textures/FX/bazzi_item_respwan_smoke",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_item_respwan_spark",
+   "name": "Textures/FX/bazzi_item_respwan_spark",
+   "sheet": {
+    "h": 32,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_item_respwan_sparkRong",
+   "name": "Textures/FX/bazzi_item_respwan_sparkRong",
+   "sheet": {
+    "h": 32,
+    "w": 8
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_larva_active_fly",
+   "name": "Textures/FX/bazzi_larva_active_fly",
+   "sheet": {
+    "h": 8,
+    "w": 8
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_larva_active_fly03",
+   "name": "Textures/FX/bazzi_larva_active_fly03",
+   "sheet": {
+    "h": 32,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_larva_transform_circle",
+   "name": "Textures/FX/bazzi_larva_transform_circle",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_larva_transform_smog",
+   "name": "Textures/FX/bazzi_larva_transform_smog",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_larva_transformEnd_smoke",
+   "name": "Textures/FX/bazzi_larva_transformEnd_smoke",
+   "sheet": {
+    "h": 32,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bazzi_up_land_smoke",
+   "name": "Textures/FX/bazzi_up_land_smoke",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bb2",
+   "name": "Textures/FX/bb2",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bubble_bound_hitWall_circle",
+   "name": "Textures/FX/bubble_bound_hitWall_circle",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bubble_bound_hitWall_mark",
+   "name": "Textures/FX/bubble_bound_hitWall_mark",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bubble_bound_in02_bubble",
+   "name": "Textures/FX/bubble_bound_in02_bubble",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bubble_help_item_circle",
+   "name": "Textures/FX/bubble_help_item_circle",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bubble_help_item_lighten",
+   "name": "Textures/FX/bubble_help_item_lighten",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bubble_Pistol-Rifle__weapon_bubble_Pistol_waterdrop01",
+   "name": "Textures/FX/bubble_Pistol-Rifle/weapon_bubble_Pistol_waterdrop01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bubble_Shotgun__weapon_bubble_Shotgun_waterdrop04",
+   "name": "Textures/FX/bubble_Shotgun/weapon_bubble_Shotgun_waterdrop04",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bubble_SniperRifle__SniperRifle",
+   "name": "Textures/FX/bubble_SniperRifle/SniperRifle",
+   "sheet": {
+    "h": 16,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bubble_SniperRifle__tailRing",
+   "name": "Textures/FX/bubble_SniperRifle/tailRing",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__bubble_SniperRifle__tailRing2",
+   "name": "Textures/FX/bubble_SniperRifle/tailRing2",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__cross_green",
+   "name": "Textures/FX/cross_green",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__cross_red",
+   "name": "Textures/FX/cross_red",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__damage_damage_lockedIn_bubble002",
+   "name": "Textures/FX/damage_damage_lockedIn_bubble002",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__event_model_lucciBigLimit_lightCricle",
+   "name": "Textures/FX/event_model_lucciBigLimit_lightCricle",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__gunpoint_Pistol-Shotgun-Rifle__gunpoint_Pistol_bubble003",
+   "name": "Textures/FX/gunpoint_Pistol-Shotgun-Rifle/gunpoint_Pistol_bubble003",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__gunpoint_Pistol-Shotgun-Rifle__gunpoint_Pistol_bubble101",
+   "name": "Textures/FX/gunpoint_Pistol-Shotgun-Rifle/gunpoint_Pistol_bubble101",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__gunpoint_Pistol-Shotgun-Rifle__gunpoint_Pistol_bubble101_Copy_6c3e1d0a",
+   "name": "Textures/FX/gunpoint_Pistol-Shotgun-Rifle/gunpoint_Pistol_bubble101 Copy",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__gunpoint_Pistol-Shotgun-Rifle__gunpoint_Pistol_bubble_pang007",
+   "name": "Textures/FX/gunpoint_Pistol-Shotgun-Rifle/gunpoint_Pistol_bubble_pang007",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__gunpoint_Pistol-Shotgun-Rifle__gunpoint_Pistol_bubble_pang007_02",
+   "name": "Textures/FX/gunpoint_Pistol-Shotgun-Rifle/gunpoint_Pistol_bubble_pang007_02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__gunpoint_Pistol-Shotgun-Rifle__gunpoint_Pistol_bubble_pang008",
+   "name": "Textures/FX/gunpoint_Pistol-Shotgun-Rifle/gunpoint_Pistol_bubble_pang008",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__gunpoint_Pistol-Shotgun-Rifle__gunpoint_Pistol_bubble_pang009",
+   "name": "Textures/FX/gunpoint_Pistol-Shotgun-Rifle/gunpoint_Pistol_bubble_pang009",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__gunpoint_Pistol-Shotgun-Rifle__gunpoint_Pistol_FireCone02",
+   "name": "Textures/FX/gunpoint_Pistol-Shotgun-Rifle/gunpoint_Pistol_FireCone02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__gunpoint_Pistol-Shotgun-Rifle__gunpoint_Pistol_firecone4",
+   "name": "Textures/FX/gunpoint_Pistol-Shotgun-Rifle/gunpoint_Pistol_firecone4",
+   "sheet": {
+    "h": 128,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__gunpoint_Pistol-Shotgun-Rifle__smoke001",
+   "name": "Textures/FX/gunpoint_Pistol-Shotgun-Rifle/smoke001",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__gunpoint_SniperRifle__gunpoint_SniperRifle_bubble003",
+   "name": "Textures/FX/gunpoint_SniperRifle/gunpoint_SniperRifle_bubble003",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__gunpoint_SniperRifle__gunpoint_SniperRifle_bubble_shi0001",
+   "name": "Textures/FX/gunpoint_SniperRifle/gunpoint_SniperRifle_bubble_shi0001",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__gunpoint_SniperRifle__gunpoint_SniperRifle_bubble_sni",
+   "name": "Textures/FX/gunpoint_SniperRifle/gunpoint_SniperRifle_bubble_sni",
+   "sheet": {
+    "h": 128,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__gunpoint_SniperRifle__gunpoint_SniperRifle_bubble_sni03",
+   "name": "Textures/FX/gunpoint_SniperRifle/gunpoint_SniperRifle_bubble_sni03",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__gunpoint_SniperRifle__gunpoint_SniperRifle_FIreCone_sni1",
+   "name": "Textures/FX/gunpoint_SniperRifle/gunpoint_SniperRifle_FIreCone_sni1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__message_critical",
+   "name": "Textures/FX/message_critical",
+   "sheet": {
+    "h": 35,
+    "w": 168
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__message_help_Indicator",
+   "name": "Textures/FX/message_help_Indicator",
+   "sheet": {
+    "h": 142,
+    "w": 143
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__message_hit",
+   "name": "Textures/FX/message_hit",
+   "sheet": {
+    "h": 35,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__Pirate_road03",
+   "name": "Textures/FX/Pirate_road03",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__Pirate_road05",
+   "name": "Textures/FX/Pirate_road05",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__poison_Circle",
+   "name": "Textures/FX/poison_Circle",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__poison_Circle02",
+   "name": "Textures/FX/poison_Circle02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__poison_smoke",
+   "name": "Textures/FX/poison_smoke",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__shield__shield00",
+   "name": "Textures/FX/shield/shield00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__shield__Shield_effect_active_circle",
+   "name": "Textures/FX/shield/Shield_effect_active_circle",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__shield__Shield_effect_active_light",
+   "name": "Textures/FX/shield/Shield_effect_active_light",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__spawn__state_spawn_char_bubble01",
+   "name": "Textures/FX/spawn/state_spawn_char_bubble01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__spawn__state_spawn_char_bubble01_02",
+   "name": "Textures/FX/spawn/state_spawn_char_bubble01_02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__spawn__state_spawn_char_bubble02",
+   "name": "Textures/FX/spawn/state_spawn_char_bubble02",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__spawn__state_spawn_char_bubble03",
+   "name": "Textures/FX/spawn/state_spawn_char_bubble03",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__spawn__state_spawn_char_bubble04",
+   "name": "Textures/FX/spawn/state_spawn_char_bubble04",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__spawn__state_spawn_char_circle",
+   "name": "Textures/FX/spawn/state_spawn_char_circle",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__spawn__state_spawn_shield",
+   "name": "Textures/FX/spawn/state_spawn_shield",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__state_roll_again01_paticle",
+   "name": "Textures/FX/state_roll_again01_paticle",
+   "sheet": {
+    "h": 16,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__state_roll_again01_spark",
+   "name": "Textures/FX/state_roll_again01_spark",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__state_roll_again02_cloud",
+   "name": "Textures/FX/state_roll_again02_cloud",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__state_roll_again02_spark",
+   "name": "Textures/FX/state_roll_again02_spark",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__stun_star",
+   "name": "Textures/FX/stun_star",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__up_land_parts",
+   "name": "Textures/FX/up_land_parts",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_bubble_grenade301_model",
+   "name": "Textures/FX/weapon_bubble_grenade301_model",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_bubble_grenade301_spark",
+   "name": "Textures/FX/weapon_bubble_grenade301_spark",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_bubble_Grenade3_aura02",
+   "name": "Textures/FX/weapon_bubble_Grenade3_aura02",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_bubble_landMine02_sensingDown01",
+   "name": "Textures/FX/weapon_bubble_landMine02_sensingDown01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_bubble_landMine02_sensingDown03",
+   "name": "Textures/FX/weapon_bubble_landMine02_sensingDown03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_bubble_Pang02_star02",
+   "name": "Textures/FX/weapon_bubble_Pang02_star02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_bubble_Pang_circle",
+   "name": "Textures/FX/weapon_bubble_Pang_circle",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_bubble_pang_pang",
+   "name": "Textures/FX/weapon_bubble_pang_pang",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_bubble_Pang_water",
+   "name": "Textures/FX/weapon_bubble_Pang_water",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_bubble_Pang_zoom",
+   "name": "Textures/FX/weapon_bubble_Pang_zoom",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_bubble_poisonGrenade_water02",
+   "name": "Textures/FX/weapon_bubble_poisonGrenade_water02",
+   "sheet": {
+    "h": 32,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_bubble_water02",
+   "name": "Textures/FX/weapon_bubble_water02",
+   "sheet": {
+    "h": 32,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_hitground_Pistol-Shotgun-Rifle-SniperRifle__weapon_hitground_Rifle_boom03",
+   "name": "Textures/FX/weapon_hitground_Pistol-Shotgun-Rifle-SniperRifle/weapon_hitground_Rifle_boom03",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_hitground_Pistol-Shotgun-Rifle-SniperRifle__weapon_hitground_Rifle_ring001",
+   "name": "Textures/FX/weapon_hitground_Pistol-Shotgun-Rifle-SniperRifle/weapon_hitground_Rifle_ring001",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_hitground_Pistol-Shotgun-Rifle-SniperRifle__weapon_hitground_Rifle_ring002",
+   "name": "Textures/FX/weapon_hitground_Pistol-Shotgun-Rifle-SniperRifle/weapon_hitground_Rifle_ring002",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_hitground_Pistol-Shotgun-Rifle-SniperRifle__weapon_hitground_SniperRifle_ring003",
+   "name": "Textures/FX/weapon_hitground_Pistol-Shotgun-Rifle-SniperRifle/weapon_hitground_SniperRifle_ring003",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_hitground_poisonGrenade_boom02",
+   "name": "Textures/FX/weapon_hitground_poisonGrenade_boom02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_hitground_poisonGrenade_ring",
+   "name": "Textures/FX/weapon_hitground_poisonGrenade_ring",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_hitground_poisonGrenade_water01",
+   "name": "Textures/FX/weapon_hitground_poisonGrenade_water01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_hitground_poisonGrenade_water02",
+   "name": "Textures/FX/weapon_hitground_poisonGrenade_water02",
+   "sheet": {
+    "h": 32,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_hitground_poisonGrenade_wetGround",
+   "name": "Textures/FX/weapon_hitground_poisonGrenade_wetGround",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_hitground_waterGrenade3_ring",
+   "name": "Textures/FX/weapon_hitground_waterGrenade3_ring",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_hitground_waterGrenade3_ring03",
+   "name": "Textures/FX/weapon_hitground_waterGrenade3_ring03",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_hitground_waterGrenade3_water01",
+   "name": "Textures/FX/weapon_hitground_waterGrenade3_water01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_hitground_waterGrenade3_water02",
+   "name": "Textures/FX/weapon_hitground_waterGrenade3_water02",
+   "sheet": {
+    "h": 32,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_hitground_waterGrenade3_wetGround",
+   "name": "Textures/FX/weapon_hitground_waterGrenade3_wetGround",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_hitground_waterGrenade_dom01",
+   "name": "Textures/FX/weapon_hitground_waterGrenade_dom01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_hitground_waterGrenade_dom01_seson01",
+   "name": "Textures/FX/weapon_hitground_waterGrenade_dom01_seson01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_hitground_waterGrenade_dom02",
+   "name": "Textures/FX/weapon_hitground_waterGrenade_dom02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_hitground_waterGrenade_ring003",
+   "name": "Textures/FX/weapon_hitground_waterGrenade_ring003",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__weapon_hitground_waterGrenade_ring004",
+   "name": "Textures/FX/weapon_hitground_waterGrenade_ring004",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__FX__zombie_eye_glow",
+   "name": "Textures/FX/zombie_eye_glow",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  }
+ ],
+ "game": "bubblefighter-adventure",
+ "group": "040_fx",
+ "schema": "boomhill-open-assets/index/v1",
+ "title": "효과 텍스처"
+}

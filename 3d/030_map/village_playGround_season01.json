@@ -1,0 +1,133 @@
+{
+ "materials": [
+  {
+   "alpha": true,
+   "tex": "_shared/textures/v_playground_autumn_3922d3.png"
+  },
+  {
+   "tex": "_shared/textures/v_bottomGreen01_524847.png"
+  },
+  {
+   "tex": "_shared/textures/v_stonroad_red00_957e5e.png"
+  },
+  {
+   "tex": "_shared/textures/v_playground_autumn_3922d3.png"
+  },
+  {
+   "tex": "_shared/textures/v_stoneroad_blue00_autumn_ec41ac.png"
+  },
+  {
+   "tex": "_shared/textures/v_grass00_autumn_04a7b5.png"
+  },
+  {
+   "tex": "_shared/textures/v_play_bottomTile_red_e60a4d.png"
+  },
+  {
+   "tex": "_shared/textures/v_play_bottomTile_blue_7f8106.png"
+  },
+  {
+   "tex": "_shared/textures/v_sand00_f7ed4f.png"
+  },
+  {
+   "tex": "_shared/textures/v_sand01_e11830.png"
+  },
+  {
+   "tex": "_shared/textures/v_play_bottomTile_blue02_c4e6a6.png"
+  }
+ ],
+ "parts": [
+  {
+   "collision": true,
+   "glb": "_shared/parts/gltf__Models__map__Village__playGround__playGround_mergedCollision.glb",
+   "pos": [
+    -0.0,
+    -0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    2.54,
+    2.54,
+    2.54
+   ]
+  },
+  {
+   "glb": "_shared/parts/gltf__Models__map__Village__playGround__playGround_mergedAlpha_oneMesh.glb",
+   "mats": [
+    0
+   ],
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    2.54,
+    2.54,
+    2.54
+   ]
+  },
+  {
+   "glb": "_shared/parts/gltf__Models__map__Village__playGround__playGround_mergedScene_oneMesh.glb",
+   "mats": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    2.54,
+    2.54,
+    2.54
+   ]
+  },
+  {
+   "collision": true,
+   "glb": "_shared/parts/gltf__Models__map__Village__playGround__playGround_mergedCollision_wall.glb",
+   "pos": [
+    -0.0,
+    -0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    2.54,
+    2.54,
+    2.54
+   ]
+  }
+ ]
+}

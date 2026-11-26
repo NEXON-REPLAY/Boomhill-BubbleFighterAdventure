@@ -1,0 +1,737 @@
+{
+ "assets": [
+  {
+   "frames": 1,
+   "id": "Textures__Characters__char_all",
+   "name": "Textures/Characters/char_all",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Characters__npc_all",
+   "name": "Textures/Characters/npc_all",
+   "sheet": {
+    "h": 1024,
+    "w": 1024
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Common__skybox_back",
+   "name": "Textures/Map/Common/skybox_back",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Common__skybox_down",
+   "name": "Textures/Map/Common/skybox_down",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Common__skybox_front",
+   "name": "Textures/Map/Common/skybox_front",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Common__skybox_left",
+   "name": "Textures/Map/Common/skybox_left",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Common__skybox_one",
+   "name": "Textures/Map/Common/skybox_one",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Common__skybox_right",
+   "name": "Textures/Map/Common/skybox_right",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Common__skybox_up",
+   "name": "Textures/Map/Common/skybox_up",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Common__water00",
+   "name": "Textures/Map/Common/water00",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Common__water01",
+   "name": "Textures/Map/Common/water01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Common__water_fall00",
+   "name": "Textures/Map/Common/water_fall00",
+   "sheet": {
+    "h": 64,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__desert__defence_gasTank",
+   "name": "Textures/Map/desert/defence_gasTank",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__desert__desert_d",
+   "name": "Textures/Map/desert/desert_d",
+   "sheet": {
+    "h": 1024,
+    "w": 1024
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__desert__desert_skydome00",
+   "name": "Textures/Map/desert/desert_skydome00",
+   "sheet": {
+    "h": 128,
+    "w": 1024
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__desert__desert_tile00",
+   "name": "Textures/Map/desert/desert_tile00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__desert__desert_tile01",
+   "name": "Textures/Map/desert/desert_tile01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__desert__desert_tile02",
+   "name": "Textures/Map/desert/desert_tile02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__desert__desert_tile03",
+   "name": "Textures/Map/desert/desert_tile03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__desert__desert_tile04",
+   "name": "Textures/Map/desert/desert_tile04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__desert__desert_tile05",
+   "name": "Textures/Map/desert/desert_tile05",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__desert__desert_tile06",
+   "name": "Textures/Map/desert/desert_tile06",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__desert__desert_tile07",
+   "name": "Textures/Map/desert/desert_tile07",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__desert__desert_tile08",
+   "name": "Textures/Map/desert/desert_tile08",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__desert__desert_tile09",
+   "name": "Textures/Map/desert/desert_tile09",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Forest__F_caveroad00_grass00",
+   "name": "Textures/Map/Forest/F_caveroad00_grass00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Forest__F_forest",
+   "name": "Textures/Map/Forest/F_forest",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Forest__F_grass00",
+   "name": "Textures/Map/Forest/F_grass00",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Forest__F_grass00_00",
+   "name": "Textures/Map/Forest/F_grass00_00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Forest__F_grass00_01",
+   "name": "Textures/Map/Forest/F_grass00_01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Forest__F_lake_02",
+   "name": "Textures/Map/Forest/F_lake_02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Forest__F_road02_d",
+   "name": "Textures/Map/Forest/F_road02_d",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Forest__F_skydome02",
+   "name": "Textures/Map/Forest/F_skydome02",
+   "sheet": {
+    "h": 64,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Forest__F_waterfall_water",
+   "name": "Textures/Map/Forest/F_waterfall_water",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__ice__ice",
+   "name": "Textures/Map/ice/ice",
+   "sheet": {
+    "h": 1024,
+    "w": 1024
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__ice__ice_tile00",
+   "name": "Textures/Map/ice/ice_tile00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__ice__ice_tile01",
+   "name": "Textures/Map/ice/ice_tile01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__skydome_village01",
+   "name": "Textures/Map/Village/skydome_village01",
+   "sheet": {
+    "h": 64,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__v_bottomGreen01",
+   "name": "Textures/Map/Village/v_bottomGreen01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__v_byway",
+   "name": "Textures/Map/Village/v_byway",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__v_centerbottom01",
+   "name": "Textures/Map/Village/v_centerbottom01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__v_centerbottom02",
+   "name": "Textures/Map/Village/v_centerbottom02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__v_circlePark",
+   "name": "Textures/Map/Village/v_circlePark",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__v_cityHall",
+   "name": "Textures/Map/Village/v_cityHall",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__v_daohouse",
+   "name": "Textures/Map/Village/v_daohouse",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__v_easy",
+   "name": "Textures/Map/Village/v_easy",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__v_floor",
+   "name": "Textures/Map/Village/v_floor",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__v_grass00",
+   "name": "Textures/Map/Village/v_grass00",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__v_play_bottomTile03",
+   "name": "Textures/Map/Village/v_play_bottomTile03",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__v_play_bottomTile_blue",
+   "name": "Textures/Map/Village/v_play_bottomTile_blue",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__v_play_bottomTile_blue02",
+   "name": "Textures/Map/Village/v_play_bottomTile_blue02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__v_play_bottomTile_green",
+   "name": "Textures/Map/Village/v_play_bottomTile_green",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__v_play_bottomTile_red",
+   "name": "Textures/Map/Village/v_play_bottomTile_red",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__v_playground",
+   "name": "Textures/Map/Village/v_playground",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__v_road00",
+   "name": "Textures/Map/Village/v_road00",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__v_road01",
+   "name": "Textures/Map/Village/v_road01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__v_sand00",
+   "name": "Textures/Map/Village/v_sand00",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__v_sand01",
+   "name": "Textures/Map/Village/v_sand01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__V_startup",
+   "name": "Textures/Map/Village/V_startup",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__v_station",
+   "name": "Textures/Map/Village/v_station",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__v_station_bottomTile01",
+   "name": "Textures/Map/Village/v_station_bottomTile01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__v_station_bottomTile02",
+   "name": "Textures/Map/Village/v_station_bottomTile02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__v_stoneroad_blue00",
+   "name": "Textures/Map/Village/v_stoneroad_blue00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__v_stonroad",
+   "name": "Textures/Map/Village/v_stonroad",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__v_stonroad_red00",
+   "name": "Textures/Map/Village/v_stonroad_red00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Map__Village__v_waterPark",
+   "name": "Textures/Map/Village/v_waterPark",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__season01__F_forest_autumn",
+   "name": "Textures/season01/F_forest_autumn",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__season01__F_grass00_autumn",
+   "name": "Textures/season01/F_grass00_autumn",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__season01__F_grass01_autumn",
+   "name": "Textures/season01/F_grass01_autumn",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__season01__V_byway_season01",
+   "name": "Textures/season01/V_byway_season01",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__season01__V_circlepark_season01",
+   "name": "Textures/season01/V_circlepark_season01",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__season01__v_cityHall_autumn",
+   "name": "Textures/season01/v_cityHall_autumn",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__season01__v_grass00_autumn",
+   "name": "Textures/season01/v_grass00_autumn",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__season01__v_playground_autumn",
+   "name": "Textures/season01/v_playground_autumn",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__season01__v_stoneroad_blue00_autumn",
+   "name": "Textures/season01/v_stoneroad_blue00_autumn",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__season01__v_stonroad_autumn",
+   "name": "Textures/season01/v_stonroad_autumn",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__season01__v_waterPark_season01",
+   "name": "Textures/season01/v_waterPark_season01",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__toon_ramp_126a085a",
+   "name": "Textures/toon ramp",
+   "sheet": {
+    "h": 2,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__toon_ramp_blue_a5291fe0",
+   "name": "Textures/toon ramp_blue",
+   "sheet": {
+    "h": 2,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__toon_ramp_white_4ef67e5e",
+   "name": "Textures/toon ramp_white",
+   "sheet": {
+    "h": 2,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Textures__Weapon__w_weaponAll",
+   "name": "Textures/Weapon/w_weaponAll",
+   "sheet": {
+    "h": 1024,
+    "w": 1024
+   }
+  }
+ ],
+ "game": "bubblefighter-adventure",
+ "group": "050_texture",
+ "schema": "boomhill-open-assets/index/v1",
+ "title": "텍스처(캐릭터, 맵, 무기)"
+}

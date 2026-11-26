@@ -1,0 +1,63 @@
+{
+ "materials": [],
+ "parts": [
+  {
+   "glb": "_shared/parts/gltf__Models__map__Village__cityHall__tuto_cityHall_bottom.glb",
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "glb": "_shared/parts/gltf__Models__map__Village__cityHall__tuto_cityHall_buildBox.glb",
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "collision": true,
+   "glb": "_shared/parts/gltf__Models__map__Village__cityHall__tuto_cityHall_collision.glb",
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  }
+ ]
+}

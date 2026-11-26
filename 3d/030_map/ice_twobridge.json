@@ -1,0 +1,130 @@
+{
+ "materials": [
+  {
+   "tex": "_shared/textures/ice_eec7a4.png"
+  },
+  {
+   "tex": "_shared/textures/ice_tile02_230a57.png"
+  },
+  {
+   "tex": "_shared/textures/ice_tile00_79453c.png"
+  },
+  {
+   "alpha": true,
+   "tex": "_shared/textures/ice_eec7a4.png"
+  }
+ ],
+ "parts": [
+  {
+   "collision": true,
+   "glb": "_shared/parts/gltf__Models__map__Ice__twobridge__ice_twobridge.glb",
+   "pos": [
+    0.0,
+    -30.59099,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    0.0254,
+    0.0254,
+    0.0254
+   ],
+   "sub": "collision_wall"
+  },
+  {
+   "collision": true,
+   "glb": "_shared/parts/gltf__Models__map__Ice__twobridge__ice_twobridge.glb",
+   "pos": [
+    0.0,
+    -30.59099,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    0.0254,
+    0.0254,
+    0.0254
+   ],
+   "sub": "collision_ground01"
+  },
+  {
+   "collision": true,
+   "glb": "_shared/parts/gltf__Models__map__Ice__twobridge__ice_twobridge.glb",
+   "pos": [
+    0.0,
+    -30.59099,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    0.0254,
+    0.0254,
+    0.0254
+   ],
+   "sub": "collision_ground00"
+  },
+  {
+   "glb": "_shared/parts/gltf__Models__map__Ice__twobridge__ice_twobridge.glb",
+   "mats": [
+    0,
+    1,
+    2
+   ],
+   "pos": [
+    0.0,
+    -30.59099,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    0.0254,
+    0.0254,
+    0.0254
+   ],
+   "sub": "twobridge_normalMesh"
+  },
+  {
+   "glb": "_shared/parts/gltf__Models__map__Ice__twobridge__ice_twobridge.glb",
+   "mats": [
+    3
+   ],
+   "pos": [
+    0.0,
+    -30.59099,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    0.0254,
+    0.0254,
+    0.0254
+   ],
+   "sub": "twobridge_alphaMesh"
+  }
+ ]
+}

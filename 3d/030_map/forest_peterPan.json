@@ -1,0 +1,132 @@
+{
+ "materials": [
+  {
+   "tex": "_shared/textures/F_forest_8aae31.png"
+  },
+  {
+   "tex": "_shared/textures/F_grass00_01_e8eee3.png"
+  },
+  {
+   "tex": "_shared/textures/F_grass00_00_e5513b.png"
+  },
+  {
+   "alpha": true,
+   "tex": "_shared/textures/F_forest_8aae31.png"
+  },
+  {
+   "alpha": true,
+   "tex": "_shared/textures/F_forest_8aae31.png"
+  }
+ ],
+ "parts": [
+  {
+   "glb": "_shared/parts/gltf__Models__map__Forest__peterPan__peterPan_mergedScene.glb",
+   "mats": [
+    0,
+    1,
+    2
+   ],
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    2.54,
+    2.54,
+    2.54
+   ]
+  },
+  {
+   "glb": "_shared/parts/gltf__Models__map__Forest__peterPan__peterPan_mergedAlpha00.glb",
+   "mats": [
+    3
+   ],
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    2.54,
+    2.54,
+    2.54
+   ]
+  },
+  {
+   "glb": "_shared/parts/gltf__Models__map__Forest__peterPan__peterPan_mergedAlpha01.glb",
+   "mats": [
+    4,
+    1
+   ],
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    2.54,
+    2.54,
+    2.54
+   ]
+  },
+  {
+   "collision": true,
+   "glb": "_shared/parts/gltf__Models__map__Forest__peterPan__peterPan_mergedCollision.glb",
+   "pos": [
+    -1e-05,
+    0.0,
+    -0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    2.54,
+    2.54,
+    2.54
+   ]
+  },
+  {
+   "collision": true,
+   "glb": "_shared/parts/gltf__Models__map__Forest__peterPan__peterPan_mergedCollision_wall.glb",
+   "pos": [
+    -1e-05,
+    0.0,
+    -0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    2.54,
+    2.54,
+    2.54
+   ]
+  }
+ ]
+}

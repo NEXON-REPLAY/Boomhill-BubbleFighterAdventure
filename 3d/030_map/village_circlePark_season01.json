@@ -1,0 +1,143 @@
+{
+ "materials": [
+  {
+   "tex": "_shared/textures/V_circlepark_season01_f0a64c.png"
+  },
+  {
+   "tex": "_shared/textures/v_grass00_autumn_04a7b5.png"
+  },
+  {
+   "tex": "_shared/textures/v_centerbottom01_073560.png"
+  },
+  {
+   "tex": "_shared/textures/v_road01_f75135.png"
+  },
+  {
+   "tex": "_shared/textures/v_road00_2c3c87.png"
+  },
+  {
+   "alpha": true,
+   "tex": "_shared/textures/water_fall00_b8c504.png"
+  },
+  {
+   "alpha": true,
+   "tex": "_shared/textures/water00_0fb097.png"
+  },
+  {
+   "alpha": true,
+   "tex": "_shared/textures/V_circlepark_season01_f0a64c.png"
+  }
+ ],
+ "parts": [
+  {
+   "glb": "_shared/parts/gltf__Models__map__Village__circlePark__circlePark_mergedScene_oneMesh.glb",
+   "mats": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "collision": true,
+   "glb": "_shared/parts/gltf__Models__map__Village__circlePark__circlePark_mergedCollision.glb",
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "glb": "_shared/parts/gltf__Models__map__Village__circlePark__circlePark_mergedAlpah_oneMesh.glb",
+   "mats": [
+    7
+   ],
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "collision": true,
+   "glb": "_shared/parts/gltf__Models__map__Village__circlePark__circlePark_floorCollision.glb",
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "collision": true,
+   "glb": "_shared/parts/gltf__Models__map__Village__circlePark__circlePark_mergedCollision_wall.glb",
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2816 @@
+{
+ "assets": [
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__bar_reward",
+   "name": "Atlases/action/battle/bar_reward",
+   "sheet": {
+    "h": 34,
+    "w": 2
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__bg_blue_gaugebar",
+   "name": "Atlases/action/battle/bg_blue_gaugebar",
+   "sheet": {
+    "h": 11,
+    "w": 11
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__bg_count",
+   "name": "Atlases/action/battle/bg_count",
+   "sheet": {
+    "h": 39,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__bg_damage_eventbox",
+   "name": "Atlases/action/battle/bg_damage_eventbox",
+   "sheet": {
+    "h": 60,
+    "w": 168
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__bg_enemy_gauge",
+   "name": "Atlases/action/battle/bg_enemy_gauge",
+   "sheet": {
+    "h": 11,
+    "w": 11
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__bg_enemy_gaugebar",
+   "name": "Atlases/action/battle/bg_enemy_gaugebar",
+   "sheet": {
+    "h": 11,
+    "w": 11
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__bg_hp",
+   "name": "Atlases/action/battle/bg_hp",
+   "sheet": {
+    "h": 28,
+    "w": 234
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__bg_mission",
+   "name": "Atlases/action/battle/bg_mission",
+   "sheet": {
+    "h": 31,
+    "w": 102
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__bg_score_l",
+   "name": "Atlases/action/battle/bg_score_l",
+   "sheet": {
+    "h": 61,
+    "w": 88
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__bg_score_l_event",
+   "name": "Atlases/action/battle/bg_score_l_event",
+   "sheet": {
+    "h": 60,
+    "w": 87
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__bg_score_r",
+   "name": "Atlases/action/battle/bg_score_r",
+   "sheet": {
+    "h": 61,
+    "w": 88
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__bg_score_r_event",
+   "name": "Atlases/action/battle/bg_score_r_event",
+   "sheet": {
+    "h": 60,
+    "w": 87
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__bg_time",
+   "name": "Atlases/action/battle/bg_time",
+   "sheet": {
+    "h": 56,
+    "w": 152
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__bg_time_event",
+   "name": "Atlases/action/battle/bg_time_event",
+   "sheet": {
+    "h": 60,
+    "w": 126
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__bg_time_eventbox",
+   "name": "Atlases/action/battle/bg_time_eventbox",
+   "sheet": {
+    "h": 60,
+    "w": 162
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__box_gauge",
+   "name": "Atlases/action/battle/box_gauge",
+   "sheet": {
+    "h": 17,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__btn_gun",
+   "name": "Atlases/action/battle/btn_gun",
+   "sheet": {
+    "h": 71,
+    "w": 113
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__btn_item",
+   "name": "Atlases/action/battle/btn_item",
+   "sheet": {
+    "h": 73,
+    "w": 93
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__btn_joystick",
+   "name": "Atlases/action/battle/btn_joystick",
+   "sheet": {
+    "h": 70,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__btn_joystick_pad",
+   "name": "Atlases/action/battle/btn_joystick_pad",
+   "sheet": {
+    "h": 161,
+    "w": 161
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__btn_pause",
+   "name": "Atlases/action/battle/btn_pause",
+   "sheet": {
+    "h": 52,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__control_action",
+   "name": "Atlases/action/battle/control_action",
+   "sheet": {
+    "h": 113,
+    "w": 113
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__control_direction",
+   "name": "Atlases/action/battle/control_direction",
+   "sheet": {
+    "h": 160,
+    "w": 160
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__control_jump",
+   "name": "Atlases/action/battle/control_jump",
+   "sheet": {
+    "h": 85,
+    "w": 85
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__control_zoom",
+   "name": "Atlases/action/battle/control_zoom",
+   "sheet": {
+    "h": 85,
+    "w": 85
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__count_text1",
+   "name": "Atlases/action/battle/count_text1",
+   "sheet": {
+    "h": 100,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__count_text2",
+   "name": "Atlases/action/battle/count_text2",
+   "sheet": {
+    "h": 100,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__count_text3",
+   "name": "Atlases/action/battle/count_text3",
+   "sheet": {
+    "h": 100,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__eff_powerup1",
+   "name": "Atlases/action/battle/eff_powerup1",
+   "sheet": {
+    "h": 99,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__eff_powerup2",
+   "name": "Atlases/action/battle/eff_powerup2",
+   "sheet": {
+    "h": 99,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_mission__mission_0",
+   "name": "Atlases/action/battle/font_mission/mission_0",
+   "sheet": {
+    "h": 20,
+    "w": 15
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_mission__mission_1",
+   "name": "Atlases/action/battle/font_mission/mission_1",
+   "sheet": {
+    "h": 20,
+    "w": 10
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_mission__mission_2",
+   "name": "Atlases/action/battle/font_mission/mission_2",
+   "sheet": {
+    "h": 20,
+    "w": 17
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_mission__mission_3",
+   "name": "Atlases/action/battle/font_mission/mission_3",
+   "sheet": {
+    "h": 20,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_mission__mission_4",
+   "name": "Atlases/action/battle/font_mission/mission_4",
+   "sheet": {
+    "h": 20,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_mission__mission_5",
+   "name": "Atlases/action/battle/font_mission/mission_5",
+   "sheet": {
+    "h": 20,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_mission__mission_6",
+   "name": "Atlases/action/battle/font_mission/mission_6",
+   "sheet": {
+    "h": 20,
+    "w": 15
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_mission__mission_7",
+   "name": "Atlases/action/battle/font_mission/mission_7",
+   "sheet": {
+    "h": 20,
+    "w": 14
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_mission__mission_8",
+   "name": "Atlases/action/battle/font_mission/mission_8",
+   "sheet": {
+    "h": 20,
+    "w": 15
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_mission__mission_9",
+   "name": "Atlases/action/battle/font_mission/mission_9",
+   "sheet": {
+    "h": 20,
+    "w": 15
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_mission__mission_slash",
+   "name": "Atlases/action/battle/font_mission/mission_slash",
+   "sheet": {
+    "h": 20,
+    "w": 12
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_score__score_0",
+   "name": "Atlases/action/battle/font_score/score_0",
+   "sheet": {
+    "h": 42,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_score__score_1",
+   "name": "Atlases/action/battle/font_score/score_1",
+   "sheet": {
+    "h": 42,
+    "w": 18
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_score__score_2",
+   "name": "Atlases/action/battle/font_score/score_2",
+   "sheet": {
+    "h": 42,
+    "w": 31
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_score__score_3",
+   "name": "Atlases/action/battle/font_score/score_3",
+   "sheet": {
+    "h": 42,
+    "w": 31
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_score__score_4",
+   "name": "Atlases/action/battle/font_score/score_4",
+   "sheet": {
+    "h": 42,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_score__score_5",
+   "name": "Atlases/action/battle/font_score/score_5",
+   "sheet": {
+    "h": 42,
+    "w": 30
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_score__score_6",
+   "name": "Atlases/action/battle/font_score/score_6",
+   "sheet": {
+    "h": 42,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_score__score_7",
+   "name": "Atlases/action/battle/font_score/score_7",
+   "sheet": {
+    "h": 42,
+    "w": 27
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_score__score_8",
+   "name": "Atlases/action/battle/font_score/score_8",
+   "sheet": {
+    "h": 42,
+    "w": 30
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_score__score_9",
+   "name": "Atlases/action/battle/font_score/score_9",
+   "sheet": {
+    "h": 42,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_time__time_0",
+   "name": "Atlases/action/battle/font_time/time_0",
+   "sheet": {
+    "h": 31,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_time__time_1",
+   "name": "Atlases/action/battle/font_time/time_1",
+   "sheet": {
+    "h": 31,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_time__time_2",
+   "name": "Atlases/action/battle/font_time/time_2",
+   "sheet": {
+    "h": 31,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_time__time_3",
+   "name": "Atlases/action/battle/font_time/time_3",
+   "sheet": {
+    "h": 31,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_time__time_4",
+   "name": "Atlases/action/battle/font_time/time_4",
+   "sheet": {
+    "h": 31,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_time__time_5",
+   "name": "Atlases/action/battle/font_time/time_5",
+   "sheet": {
+    "h": 31,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_time__time_6",
+   "name": "Atlases/action/battle/font_time/time_6",
+   "sheet": {
+    "h": 31,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_time__time_7",
+   "name": "Atlases/action/battle/font_time/time_7",
+   "sheet": {
+    "h": 31,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_time__time_8",
+   "name": "Atlases/action/battle/font_time/time_8",
+   "sheet": {
+    "h": 31,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__font_time__time_9",
+   "name": "Atlases/action/battle/font_time/time_9",
+   "sheet": {
+    "h": 31,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__hp_gauge",
+   "name": "Atlases/action/battle/hp_gauge",
+   "sheet": {
+    "h": 15,
+    "w": 136
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__img_heart",
+   "name": "Atlases/action/battle/img_heart",
+   "sheet": {
+    "h": 14,
+    "w": 18
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__img_hunting",
+   "name": "Atlases/action/battle/img_hunting",
+   "sheet": {
+    "h": 26,
+    "w": 28
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__img_pang",
+   "name": "Atlases/action/battle/img_pang",
+   "sheet": {
+    "h": 26,
+    "w": 26
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__img_zombie",
+   "name": "Atlases/action/battle/img_zombie",
+   "sheet": {
+    "h": 26,
+    "w": 27
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__img_zoom",
+   "name": "Atlases/action/battle/img_zoom",
+   "sheet": {
+    "h": 20,
+    "w": 39
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__target_enemyLock",
+   "name": "Atlases/action/battle/target_enemyLock",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__target_pistolNormal",
+   "name": "Atlases/action/battle/target_pistolNormal",
+   "sheet": {
+    "h": 172,
+    "w": 172
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__target_pistolReload",
+   "name": "Atlases/action/battle/target_pistolReload",
+   "sheet": {
+    "h": 172,
+    "w": 172
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__target_pistolTarget",
+   "name": "Atlases/action/battle/target_pistolTarget",
+   "sheet": {
+    "h": 172,
+    "w": 172
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__target_rifleNormal",
+   "name": "Atlases/action/battle/target_rifleNormal",
+   "sheet": {
+    "h": 191,
+    "w": 191
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__target_rifleShoot",
+   "name": "Atlases/action/battle/target_rifleShoot",
+   "sheet": {
+    "h": 111,
+    "w": 110
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__target_rifleTarget",
+   "name": "Atlases/action/battle/target_rifleTarget",
+   "sheet": {
+    "h": 191,
+    "w": 191
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__target_shotgunNormal",
+   "name": "Atlases/action/battle/target_shotgunNormal",
+   "sheet": {
+    "h": 186,
+    "w": 186
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__target_shotgunTarget",
+   "name": "Atlases/action/battle/target_shotgunTarget",
+   "sheet": {
+    "h": 186,
+    "w": 186
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__target_sniperOut_01",
+   "name": "Atlases/action/battle/target_sniperOut_01",
+   "sheet": {
+    "h": 120,
+    "w": 200
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__target_sniperPoint",
+   "name": "Atlases/action/battle/target_sniperPoint",
+   "sheet": {
+    "h": 20,
+    "w": 20
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__action__battle__target_sniperZoom",
+   "name": "Atlases/action/battle/target_sniperZoom",
+   "sheet": {
+    "h": 450,
+    "w": 450
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__actionMsg__Message__message_burst_pang",
+   "name": "Atlases/actionMsg/Message/message_burst_pang",
+   "sheet": {
+    "h": 68,
+    "w": 167
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__actionMsg__Message__message_fight_again",
+   "name": "Atlases/actionMsg/Message/message_fight_again",
+   "sheet": {
+    "h": 68,
+    "w": 178
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__actionMsg__Message__message_nice_boom",
+   "name": "Atlases/actionMsg/Message/message_nice_boom",
+   "sheet": {
+    "h": 47,
+    "w": 206
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__actionMsg__Message__message_nice_help",
+   "name": "Atlases/actionMsg/Message/message_nice_help",
+   "sheet": {
+    "h": 35,
+    "w": 202
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__actionMsg__Message__message_nice_pang",
+   "name": "Atlases/actionMsg/Message/message_nice_pang",
+   "sheet": {
+    "h": 46,
+    "w": 192
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__actionMsg__Message__message_nice_shot",
+   "name": "Atlases/actionMsg/Message/message_nice_shot",
+   "sheet": {
+    "h": 45,
+    "w": 186
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__actionMsg__Message__message_oops",
+   "name": "Atlases/actionMsg/Message/message_oops",
+   "sheet": {
+    "h": 43,
+    "w": 148
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__actionMsg__Message__message_super_pang",
+   "name": "Atlases/actionMsg/Message/message_super_pang",
+   "sheet": {
+    "h": 67,
+    "w": 166
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__actionMsg__Message__target_realod_Text",
+   "name": "Atlases/actionMsg/Message/target_realod_Text",
+   "sheet": {
+    "h": 35,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__actionMsg__Message__text_fail",
+   "name": "Atlases/actionMsg/Message/text_fail",
+   "sheet": {
+    "h": 58,
+    "w": 209
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__actionMsg__Message__text_mission",
+   "name": "Atlases/actionMsg/Message/text_mission",
+   "sheet": {
+    "h": 35,
+    "w": 148
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__actionMsg__Message__text_success",
+   "name": "Atlases/actionMsg/Message/text_success",
+   "sheet": {
+    "h": 58,
+    "w": 259
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__actionMsg__Message__UI_battle_waveCount1",
+   "name": "Atlases/actionMsg/Message/UI_battle_waveCount1",
+   "sheet": {
+    "h": 52,
+    "w": 220
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__actionMsg__Message__UI_battle_waveCount2",
+   "name": "Atlases/actionMsg/Message/UI_battle_waveCount2",
+   "sheet": {
+    "h": 52,
+    "w": 226
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__actionMsg__Message__UI_battle_waveCount3",
+   "name": "Atlases/actionMsg/Message/UI_battle_waveCount3",
+   "sheet": {
+    "h": 52,
+    "w": 225
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__actionMsg__Message__UI_battle_waveCount_final",
+   "name": "Atlases/actionMsg/Message/UI_battle_waveCount_final",
+   "sheet": {
+    "h": 51,
+    "w": 371
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__actionMsg__Message__ui_text_fight",
+   "name": "Atlases/actionMsg/Message/ui_text_fight",
+   "sheet": {
+    "h": 144,
+    "w": 401
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__actionMsg__Message__ui_text_gameover",
+   "name": "Atlases/actionMsg/Message/ui_text_gameover",
+   "sheet": {
+    "h": 50,
+    "w": 312
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__actionMsg__Message__ui_text_ready",
+   "name": "Atlases/actionMsg/Message/ui_text_ready",
+   "sheet": {
+    "h": 122,
+    "w": 331
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__actionMsg__Message__ui_text_timeover",
+   "name": "Atlases/actionMsg/Message/ui_text_timeover",
+   "sheet": {
+    "h": 97,
+    "w": 337
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__battleDesc__img_box",
+   "name": "Atlases/battleDesc/img_box",
+   "sheet": {
+    "h": 199,
+    "w": 397
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__battleDesc__img_destroy",
+   "name": "Atlases/battleDesc/img_destroy",
+   "sheet": {
+    "h": 175,
+    "w": 399
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__battleDesc__img_hammer",
+   "name": "Atlases/battleDesc/img_hammer",
+   "sheet": {
+    "h": 173,
+    "w": 345
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__battleDesc__img_hunting",
+   "name": "Atlases/battleDesc/img_hunting",
+   "sheet": {
+    "h": 175,
+    "w": 399
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__battleDesc__img_team",
+   "name": "Atlases/battleDesc/img_team",
+   "sheet": {
+    "h": 175,
+    "w": 348
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__battleDesc__img_zombie",
+   "name": "Atlases/battleDesc/img_zombie",
+   "sheet": {
+    "h": 175,
+    "w": 399
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__billing__icon_coin1",
+   "name": "Atlases/dialog/billing/icon_coin1",
+   "sheet": {
+    "h": 56,
+    "w": 56
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__billing__icon_coin2",
+   "name": "Atlases/dialog/billing/icon_coin2",
+   "sheet": {
+    "h": 56,
+    "w": 56
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__billing__icon_coin3",
+   "name": "Atlases/dialog/billing/icon_coin3",
+   "sheet": {
+    "h": 56,
+    "w": 56
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__billing__icon_coin4",
+   "name": "Atlases/dialog/billing/icon_coin4",
+   "sheet": {
+    "h": 56,
+    "w": 56
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__billing__icon_lucci1",
+   "name": "Atlases/dialog/billing/icon_lucci1",
+   "sheet": {
+    "h": 56,
+    "w": 56
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__billing__icon_lucci2",
+   "name": "Atlases/dialog/billing/icon_lucci2",
+   "sheet": {
+    "h": 56,
+    "w": 56
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__billing__icon_lucci3",
+   "name": "Atlases/dialog/billing/icon_lucci3",
+   "sheet": {
+    "h": 56,
+    "w": 56
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__billing__icon_lucci4",
+   "name": "Atlases/dialog/billing/icon_lucci4",
+   "sheet": {
+    "h": 56,
+    "w": 56
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__billing__img_best",
+   "name": "Atlases/dialog/billing/img_best",
+   "sheet": {
+    "h": 46,
+    "w": 46
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__billing__tab_blue",
+   "name": "Atlases/dialog/billing/tab_blue",
+   "sheet": {
+    "h": 40,
+    "w": 12
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__billing__tab_blue_inert",
+   "name": "Atlases/dialog/billing/tab_blue_inert",
+   "sheet": {
+    "h": 40,
+    "w": 12
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_accept",
+   "name": "Atlases/dialog/btn/btn_accept",
+   "sheet": {
+    "h": 58,
+    "w": 58
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_add",
+   "name": "Atlases/dialog/btn/btn_add",
+   "sheet": {
+    "h": 58,
+    "w": 58
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_add_l",
+   "name": "Atlases/dialog/btn/btn_add_l",
+   "sheet": {
+    "h": 86,
+    "w": 91
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_add_r",
+   "name": "Atlases/dialog/btn/btn_add_r",
+   "sheet": {
+    "h": 86,
+    "w": 91
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_bookmark_a",
+   "name": "Atlases/dialog/btn/btn_bookmark_a",
+   "sheet": {
+    "h": 58,
+    "w": 58
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_bookmark_n",
+   "name": "Atlases/dialog/btn/btn_bookmark_n",
+   "sheet": {
+    "h": 58,
+    "w": 58
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_buy",
+   "name": "Atlases/dialog/btn/btn_buy",
+   "sheet": {
+    "h": 58,
+    "w": 58
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_delete",
+   "name": "Atlases/dialog/btn/btn_delete",
+   "sheet": {
+    "h": 58,
+    "w": 58
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_enter",
+   "name": "Atlases/dialog/btn/btn_enter",
+   "sheet": {
+    "h": 58,
+    "w": 58
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_find",
+   "name": "Atlases/dialog/btn/btn_find",
+   "sheet": {
+    "h": 72,
+    "w": 182
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_friend",
+   "name": "Atlases/dialog/btn/btn_friend",
+   "sheet": {
+    "h": 72,
+    "w": 182
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_help",
+   "name": "Atlases/dialog/btn/btn_help",
+   "sheet": {
+    "h": 72,
+    "w": 182
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_info",
+   "name": "Atlases/dialog/btn/btn_info",
+   "sheet": {
+    "h": 58,
+    "w": 60
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_intact",
+   "name": "Atlases/dialog/btn/btn_intact",
+   "sheet": {
+    "h": 30,
+    "w": 105
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_make",
+   "name": "Atlases/dialog/btn/btn_make",
+   "sheet": {
+    "h": 72,
+    "w": 182
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_medium",
+   "name": "Atlases/dialog/btn/btn_medium",
+   "sheet": {
+    "h": 48,
+    "w": 22
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_medium_neg",
+   "name": "Atlases/dialog/btn/btn_medium_neg",
+   "sheet": {
+    "h": 48,
+    "w": 22
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_next",
+   "name": "Atlases/dialog/btn/btn_next",
+   "sheet": {
+    "h": 48,
+    "w": 63
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_pre",
+   "name": "Atlases/dialog/btn/btn_pre",
+   "sheet": {
+    "h": 48,
+    "w": 63
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_reject",
+   "name": "Atlases/dialog/btn/btn_reject",
+   "sheet": {
+    "h": 58,
+    "w": 58
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_search",
+   "name": "Atlases/dialog/btn/btn_search",
+   "sheet": {
+    "h": 58,
+    "w": 60
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_select_a",
+   "name": "Atlases/dialog/btn/btn_select_a",
+   "sheet": {
+    "h": 73,
+    "w": 122
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_select_n",
+   "name": "Atlases/dialog/btn/btn_select_n",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_small",
+   "name": "Atlases/dialog/btn/btn_small",
+   "sheet": {
+    "h": 40,
+    "w": 20
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_start",
+   "name": "Atlases/dialog/btn/btn_start",
+   "sheet": {
+    "h": 72,
+    "w": 182
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_subtract",
+   "name": "Atlases/dialog/btn/btn_subtract",
+   "sheet": {
+    "h": 81,
+    "w": 87
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_team_blue",
+   "name": "Atlases/dialog/btn/btn_team_blue",
+   "sheet": {
+    "h": 72,
+    "w": 182
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_team_red",
+   "name": "Atlases/dialog/btn/btn_team_red",
+   "sheet": {
+    "h": 72,
+    "w": 182
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__btn_x",
+   "name": "Atlases/dialog/btn/btn_x",
+   "sheet": {
+    "h": 58,
+    "w": 58
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__img_check",
+   "name": "Atlases/dialog/btn/img_check",
+   "sheet": {
+    "h": 33,
+    "w": 31
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__img_checkbox",
+   "name": "Atlases/dialog/btn/img_checkbox",
+   "sheet": {
+    "h": 24,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__town_coin",
+   "name": "Atlases/dialog/btn/town_coin",
+   "sheet": {
+    "h": 52,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__town_lucci",
+   "name": "Atlases/dialog/btn/town_lucci",
+   "sheet": {
+    "h": 52,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__town_news",
+   "name": "Atlases/dialog/btn/town_news",
+   "sheet": {
+    "h": 52,
+    "w": 79
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__btn__town_setting",
+   "name": "Atlases/dialog/btn/town_setting",
+   "sheet": {
+    "h": 52,
+    "w": 77
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__bar_complete",
+   "name": "Atlases/dialog/common/bar_complete",
+   "sheet": {
+    "h": 28,
+    "w": 28
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__bar_destroy",
+   "name": "Atlases/dialog/common/bar_destroy",
+   "sheet": {
+    "h": 34,
+    "w": 34
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__bar_event",
+   "name": "Atlases/dialog/common/bar_event",
+   "sheet": {
+    "h": 34,
+    "w": 34
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__bar_exp",
+   "name": "Atlases/dialog/common/bar_exp",
+   "sheet": {
+    "h": 22,
+    "w": 106
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__bar_gauge",
+   "name": "Atlases/dialog/common/bar_gauge",
+   "sheet": {
+    "h": 28,
+    "w": 28
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__bar_lock",
+   "name": "Atlases/dialog/common/bar_lock",
+   "sheet": {
+    "h": 34,
+    "w": 34
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__bar_normal",
+   "name": "Atlases/dialog/common/bar_normal",
+   "sheet": {
+    "h": 34,
+    "w": 34
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__bar_stm",
+   "name": "Atlases/dialog/common/bar_stm",
+   "sheet": {
+    "h": 22,
+    "w": 79
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__bar_team",
+   "name": "Atlases/dialog/common/bar_team",
+   "sheet": {
+    "h": 34,
+    "w": 34
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__bar_title",
+   "name": "Atlases/dialog/common/bar_title",
+   "sheet": {
+    "h": 34,
+    "w": 34
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__bar_tutorial",
+   "name": "Atlases/dialog/common/bar_tutorial",
+   "sheet": {
+    "h": 34,
+    "w": 34
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__bg",
+   "name": "Atlases/dialog/common/bg",
+   "sheet": {
+    "h": 30,
+    "w": 30
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__bg_black",
+   "name": "Atlases/dialog/common/bg_black",
+   "sheet": {
+    "h": 4,
+    "w": 4
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__bg_character",
+   "name": "Atlases/dialog/common/bg_character",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__bg_coral",
+   "name": "Atlases/dialog/common/bg_coral",
+   "sheet": {
+    "h": 23,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__bg_desc",
+   "name": "Atlases/dialog/common/bg_desc",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__bg_frame",
+   "name": "Atlases/dialog/common/bg_frame",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__bg_gauge",
+   "name": "Atlases/dialog/common/bg_gauge",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__bg_list",
+   "name": "Atlases/dialog/common/bg_list",
+   "sheet": {
+    "h": 30,
+    "w": 30
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__bg_subtitle",
+   "name": "Atlases/dialog/common/bg_subtitle",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__bg_unit",
+   "name": "Atlases/dialog/common/bg_unit",
+   "sheet": {
+    "h": 30,
+    "w": 30
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__bg_violet",
+   "name": "Atlases/dialog/common/bg_violet",
+   "sheet": {
+    "h": 23,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__bg_white",
+   "name": "Atlases/dialog/common/bg_white",
+   "sheet": {
+    "h": 4,
+    "w": 4
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__btn_close",
+   "name": "Atlases/dialog/common/btn_close",
+   "sheet": {
+    "h": 19,
+    "w": 19
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__icon_coin",
+   "name": "Atlases/dialog/common/icon_coin",
+   "sheet": {
+    "h": 25,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__icon_coin_a",
+   "name": "Atlases/dialog/common/icon_coin_a",
+   "sheet": {
+    "h": 29,
+    "w": 94
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__icon_coin_d",
+   "name": "Atlases/dialog/common/icon_coin_d",
+   "sheet": {
+    "h": 29,
+    "w": 94
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__icon_exp",
+   "name": "Atlases/dialog/common/icon_exp",
+   "sheet": {
+    "h": 35,
+    "w": 34
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__icon_inven_a",
+   "name": "Atlases/dialog/common/icon_inven_a",
+   "sheet": {
+    "h": 27,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__icon_inven_d",
+   "name": "Atlases/dialog/common/icon_inven_d",
+   "sheet": {
+    "h": 27,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__icon_lock",
+   "name": "Atlases/dialog/common/icon_lock",
+   "sheet": {
+    "h": 30,
+    "w": 25
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__icon_lucci",
+   "name": "Atlases/dialog/common/icon_lucci",
+   "sheet": {
+    "h": 14,
+    "w": 45
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__icon_shop_a",
+   "name": "Atlases/dialog/common/icon_shop_a",
+   "sheet": {
+    "h": 32,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__icon_shop_d",
+   "name": "Atlases/dialog/common/icon_shop_d",
+   "sheet": {
+    "h": 32,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__icon_stm",
+   "name": "Atlases/dialog/common/icon_stm",
+   "sheet": {
+    "h": 31,
+    "w": 23
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__img_date",
+   "name": "Atlases/dialog/common/img_date",
+   "sheet": {
+    "h": 29,
+    "w": 31
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__img_tip",
+   "name": "Atlases/dialog/common/img_tip",
+   "sheet": {
+    "h": 45,
+    "w": 73
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__img_title",
+   "name": "Atlases/dialog/common/img_title",
+   "sheet": {
+    "h": 5,
+    "w": 13
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__mode_bg_destroy",
+   "name": "Atlases/dialog/common/mode_bg_destroy",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__mode_bg_normal",
+   "name": "Atlases/dialog/common/mode_bg_normal",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__mode_bg_team",
+   "name": "Atlases/dialog/common/mode_bg_team",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__mode_complete",
+   "name": "Atlases/dialog/common/mode_complete",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__mode_tutorial",
+   "name": "Atlases/dialog/common/mode_tutorial",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__select",
+   "name": "Atlases/dialog/common/select",
+   "sheet": {
+    "h": 30,
+    "w": 30
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__slot_exp",
+   "name": "Atlases/dialog/common/slot_exp",
+   "sheet": {
+    "h": 28,
+    "w": 112
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__slot_expand",
+   "name": "Atlases/dialog/common/slot_expand",
+   "sheet": {
+    "h": 62,
+    "w": 62
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__slot_item",
+   "name": "Atlases/dialog/common/slot_item",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__slot_mine",
+   "name": "Atlases/dialog/common/slot_mine",
+   "sheet": {
+    "h": 62,
+    "w": 62
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__slot_stm",
+   "name": "Atlases/dialog/common/slot_stm",
+   "sheet": {
+    "h": 28,
+    "w": 85
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__tab_activity",
+   "name": "Atlases/dialog/common/tab_activity",
+   "sheet": {
+    "h": 38,
+    "w": 20
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__tab_body",
+   "name": "Atlases/dialog/common/tab_body",
+   "sheet": {
+    "h": 5,
+    "w": 5
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__tab_filter",
+   "name": "Atlases/dialog/common/tab_filter",
+   "sheet": {
+    "h": 42,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__tab_filterbar",
+   "name": "Atlases/dialog/common/tab_filterbar",
+   "sheet": {
+    "h": 16,
+    "w": 2
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__common__tab_inert",
+   "name": "Atlases/dialog/common/tab_inert",
+   "sheet": {
+    "h": 37,
+    "w": 20
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__friend__bg_photo",
+   "name": "Atlases/dialog/friend/bg_photo",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__friend__font_page__font_page_0",
+   "name": "Atlases/dialog/friend/font_page/font_page_0",
+   "sheet": {
+    "h": 24,
+    "w": 17
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__friend__font_page__font_page_1",
+   "name": "Atlases/dialog/friend/font_page/font_page_1",
+   "sheet": {
+    "h": 24,
+    "w": 17
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__friend__font_page__font_page_2",
+   "name": "Atlases/dialog/friend/font_page/font_page_2",
+   "sheet": {
+    "h": 24,
+    "w": 17
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__friend__font_page__font_page_3",
+   "name": "Atlases/dialog/friend/font_page/font_page_3",
+   "sheet": {
+    "h": 24,
+    "w": 17
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__friend__font_page__font_page_4",
+   "name": "Atlases/dialog/friend/font_page/font_page_4",
+   "sheet": {
+    "h": 24,
+    "w": 17
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__friend__font_page__font_page_5",
+   "name": "Atlases/dialog/friend/font_page/font_page_5",
+   "sheet": {
+    "h": 24,
+    "w": 17
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__friend__font_page__font_page_6",
+   "name": "Atlases/dialog/friend/font_page/font_page_6",
+   "sheet": {
+    "h": 24,
+    "w": 17
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__friend__font_page__font_page_7",
+   "name": "Atlases/dialog/friend/font_page/font_page_7",
+   "sheet": {
+    "h": 24,
+    "w": 17
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__friend__font_page__font_page_8",
+   "name": "Atlases/dialog/friend/font_page/font_page_8",
+   "sheet": {
+    "h": 24,
+    "w": 17
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__friend__font_page__font_page_9",
+   "name": "Atlases/dialog/friend/font_page/font_page_9",
+   "sheet": {
+    "h": 24,
+    "w": 17
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__friend__font_page__font_page_slash",
+   "name": "Atlases/dialog/friend/font_page/font_page_slash",
+   "sheet": {
+    "h": 24,
+    "w": 17
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__info__img_number__img_number_01",
+   "name": "Atlases/dialog/info/img_number/img_number_01",
+   "sheet": {
+    "h": 24,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__info__img_number__img_number_02",
+   "name": "Atlases/dialog/info/img_number/img_number_02",
+   "sheet": {
+    "h": 24,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__info__img_number__img_number_03",
+   "name": "Atlases/dialog/info/img_number/img_number_03",
+   "sheet": {
+    "h": 24,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__info__img_number__img_number_04",
+   "name": "Atlases/dialog/info/img_number/img_number_04",
+   "sheet": {
+    "h": 24,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__info__img_number__img_number_05",
+   "name": "Atlases/dialog/info/img_number/img_number_05",
+   "sheet": {
+    "h": 24,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__info__img_number__img_number_06",
+   "name": "Atlases/dialog/info/img_number/img_number_06",
+   "sheet": {
+    "h": 24,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__info__img_number__img_number_07",
+   "name": "Atlases/dialog/info/img_number/img_number_07",
+   "sheet": {
+    "h": 24,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__info__img_number__img_number_08",
+   "name": "Atlases/dialog/info/img_number/img_number_08",
+   "sheet": {
+    "h": 24,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__info__img_number__img_number_09",
+   "name": "Atlases/dialog/info/img_number/img_number_09",
+   "sheet": {
+    "h": 24,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__info__img_number__img_number_10",
+   "name": "Atlases/dialog/info/img_number/img_number_10",
+   "sheet": {
+    "h": 24,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__loading__loading_1",
+   "name": "Atlases/dialog/loading/loading_1",
+   "sheet": {
+    "h": 121,
+    "w": 78
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__loading__loading_10",
+   "name": "Atlases/dialog/loading/loading_10",
+   "sheet": {
+    "h": 121,
+    "w": 78
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__loading__loading_2",
+   "name": "Atlases/dialog/loading/loading_2",
+   "sheet": {
+    "h": 121,
+    "w": 78
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__loading__loading_3",
+   "name": "Atlases/dialog/loading/loading_3",
+   "sheet": {
+    "h": 121,
+    "w": 78
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__loading__loading_4",
+   "name": "Atlases/dialog/loading/loading_4",
+   "sheet": {
+    "h": 121,
+    "w": 78
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__loading__loading_5",
+   "name": "Atlases/dialog/loading/loading_5",
+   "sheet": {
+    "h": 121,
+    "w": 78
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__loading__loading_6",
+   "name": "Atlases/dialog/loading/loading_6",
+   "sheet": {
+    "h": 121,
+    "w": 78
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__loading__loading_7",
+   "name": "Atlases/dialog/loading/loading_7",
+   "sheet": {
+    "h": 121,
+    "w": 78
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__loading__loading_8",
+   "name": "Atlases/dialog/loading/loading_8",
+   "sheet": {
+    "h": 121,
+    "w": 78
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__loading__loading_9",
+   "name": "Atlases/dialog/loading/loading_9",
+   "sheet": {
+    "h": 121,
+    "w": 78
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__multiplay__bg_red",
+   "name": "Atlases/dialog/multiplay/bg_red",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__multiplay__img_ethi",
+   "name": "Atlases/dialog/multiplay/img_ethi",
+   "sheet": {
+    "h": 84,
+    "w": 133
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__multiplay__mark",
+   "name": "Atlases/dialog/multiplay/mark",
+   "sheet": {
+    "h": 38,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__multiplay__message__message1",
+   "name": "Atlases/dialog/multiplay/message/message1",
+   "sheet": {
+    "h": 52,
+    "w": 300
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__multiplay__message__message2",
+   "name": "Atlases/dialog/multiplay/message/message2",
+   "sheet": {
+    "h": 52,
+    "w": 300
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__multiplay__message__message3",
+   "name": "Atlases/dialog/multiplay/message/message3",
+   "sheet": {
+    "h": 52,
+    "w": 300
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__multiplay__message__message4",
+   "name": "Atlases/dialog/multiplay/message/message4",
+   "sheet": {
+    "h": 52,
+    "w": 300
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__multiplay__tab_red",
+   "name": "Atlases/dialog/multiplay/tab_red",
+   "sheet": {
+    "h": 40,
+    "w": 12
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__news__icon_new",
+   "name": "Atlases/dialog/news/icon_new",
+   "sheet": {
+    "h": 31,
+    "w": 39
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__news__icon_normal",
+   "name": "Atlases/dialog/news/icon_normal",
+   "sheet": {
+    "h": 26,
+    "w": 30
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__news__scroll",
+   "name": "Atlases/dialog/news/scroll",
+   "sheet": {
+    "h": 6,
+    "w": 4
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__popup__bg_popup",
+   "name": "Atlases/dialog/popup/bg_popup",
+   "sheet": {
+    "h": 58,
+    "w": 58
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__popup__bg_popup_big",
+   "name": "Atlases/dialog/popup/bg_popup_big",
+   "sheet": {
+    "h": 134,
+    "w": 60
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__popup__bg_rank",
+   "name": "Atlases/dialog/popup/bg_rank",
+   "sheet": {
+    "h": 153,
+    "w": 102
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__popup__bg_rank_blue",
+   "name": "Atlases/dialog/popup/bg_rank_blue",
+   "sheet": {
+    "h": 127,
+    "w": 102
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__popup__bg_rank_red",
+   "name": "Atlases/dialog/popup/bg_rank_red",
+   "sheet": {
+    "h": 127,
+    "w": 102
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__popup__bg_result",
+   "name": "Atlases/dialog/popup/bg_result",
+   "sheet": {
+    "h": 58,
+    "w": 58
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__popup__bg_reward",
+   "name": "Atlases/dialog/popup/bg_reward",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__popup__img_blue",
+   "name": "Atlases/dialog/popup/img_blue",
+   "sheet": {
+    "h": 41,
+    "w": 93
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__popup__img_desc",
+   "name": "Atlases/dialog/popup/img_desc",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__popup__img_red",
+   "name": "Atlases/dialog/popup/img_red",
+   "sheet": {
+    "h": 41,
+    "w": 93
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__popup__img_result",
+   "name": "Atlases/dialog/popup/img_result",
+   "sheet": {
+    "h": 123,
+    "w": 132
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__popup__img_time",
+   "name": "Atlases/dialog/popup/img_time",
+   "sheet": {
+    "h": 41,
+    "w": 93
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__popup__img_timeover",
+   "name": "Atlases/dialog/popup/img_timeover",
+   "sheet": {
+    "h": 41,
+    "w": 230
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__popup__text_draw",
+   "name": "Atlases/dialog/popup/text_draw",
+   "sheet": {
+    "h": 59,
+    "w": 228
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__popup__text_lose",
+   "name": "Atlases/dialog/popup/text_lose",
+   "sheet": {
+    "h": 60,
+    "w": 200
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__popup__text_win",
+   "name": "Atlases/dialog/popup/text_win",
+   "sheet": {
+    "h": 60,
+    "w": 158
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__quest__img_lod_01",
+   "name": "Atlases/dialog/quest/img_lod_01",
+   "sheet": {
+    "h": 15,
+    "w": 17
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__quest__img_lod_02",
+   "name": "Atlases/dialog/quest/img_lod_02",
+   "sheet": {
+    "h": 15,
+    "w": 17
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__setting__bar_frame",
+   "name": "Atlases/dialog/setting/bar_frame",
+   "sheet": {
+    "h": 45,
+    "w": 42
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__setting__bar_sound",
+   "name": "Atlases/dialog/setting/bar_sound",
+   "sheet": {
+    "h": 31,
+    "w": 4
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__setting__img_slider",
+   "name": "Atlases/dialog/setting/img_slider",
+   "sheet": {
+    "h": 42,
+    "w": 37
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__setting__text_bgm",
+   "name": "Atlases/dialog/setting/text_bgm",
+   "sheet": {
+    "h": 20,
+    "w": 75
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__setting__text_effect",
+   "name": "Atlases/dialog/setting/text_effect",
+   "sheet": {
+    "h": 20,
+    "w": 57
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__setting__text_touch",
+   "name": "Atlases/dialog/setting/text_touch",
+   "sheet": {
+    "h": 20,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__setting__text_vibration",
+   "name": "Atlases/dialog/setting/text_vibration",
+   "sheet": {
+    "h": 19,
+    "w": 75
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__shop__bar_info_gauge",
+   "name": "Atlases/dialog/shop/bar_info_gauge",
+   "sheet": {
+    "h": 12,
+    "w": 12
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__shop__bar_info_gauge_add",
+   "name": "Atlases/dialog/shop/bar_info_gauge_add",
+   "sheet": {
+    "h": 12,
+    "w": 12
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__shop__bar_info_gauge_fall",
+   "name": "Atlases/dialog/shop/bar_info_gauge_fall",
+   "sheet": {
+    "h": 12,
+    "w": 12
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__shop__bg_coin",
+   "name": "Atlases/dialog/shop/bg_coin",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__shop__bg_equiped",
+   "name": "Atlases/dialog/shop/bg_equiped",
+   "sheet": {
+    "h": 31,
+    "w": 51
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__shop__bg_info_gauge",
+   "name": "Atlases/dialog/shop/bg_info_gauge",
+   "sheet": {
+    "h": 14,
+    "w": 14
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__shop__bg_lucci",
+   "name": "Atlases/dialog/shop/bg_lucci",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__shop__img_lockslot",
+   "name": "Atlases/dialog/shop/img_lockslot",
+   "sheet": {
+    "h": 55,
+    "w": 42
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__shop__text_character",
+   "name": "Atlases/dialog/shop/text_character",
+   "sheet": {
+    "h": 19,
+    "w": 42
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__shop__text_item",
+   "name": "Atlases/dialog/shop/text_item",
+   "sheet": {
+    "h": 19,
+    "w": 42
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__shop__text_main",
+   "name": "Atlases/dialog/shop/text_main",
+   "sheet": {
+    "h": 19,
+    "w": 43
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__shop__text_sub",
+   "name": "Atlases/dialog/shop/text_sub",
+   "sheet": {
+    "h": 19,
+    "w": 56
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__star__btn_agree",
+   "name": "Atlases/dialog/star/btn_agree",
+   "sheet": {
+    "h": 70,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__star__btn_refuse",
+   "name": "Atlases/dialog/star/btn_refuse",
+   "sheet": {
+    "h": 38,
+    "w": 20
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__star__img_star",
+   "name": "Atlases/dialog/star/img_star",
+   "sheet": {
+    "h": 221,
+    "w": 200
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__town__bar_quest",
+   "name": "Atlases/dialog/town/bar_quest",
+   "sheet": {
+    "h": 44,
+    "w": 38
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__town__bar_town",
+   "name": "Atlases/dialog/town/bar_town",
+   "sheet": {
+    "h": 62,
+    "w": 34
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__town__bg_num_news",
+   "name": "Atlases/dialog/town/bg_num_news",
+   "sheet": {
+    "h": 43,
+    "w": 42
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__town__bg_num_zombie",
+   "name": "Atlases/dialog/town/bg_num_zombie",
+   "sheet": {
+    "h": 46,
+    "w": 55
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__town__bg_talk",
+   "name": "Atlases/dialog/town/bg_talk",
+   "sheet": {
+    "h": 101,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__town__btn_arrow",
+   "name": "Atlases/dialog/town/btn_arrow",
+   "sheet": {
+    "h": 36,
+    "w": 28
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__town__icon_battle",
+   "name": "Atlases/dialog/town/icon_battle",
+   "sheet": {
+    "h": 102,
+    "w": 102
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__town__icon_box",
+   "name": "Atlases/dialog/town/icon_box",
+   "sheet": {
+    "h": 62,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__town__icon_event",
+   "name": "Atlases/dialog/town/icon_event",
+   "sheet": {
+    "h": 102,
+    "w": 102
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__town__icon_friend",
+   "name": "Atlases/dialog/town/icon_friend",
+   "sheet": {
+    "h": 102,
+    "w": 102
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__town__icon_giftbox",
+   "name": "Atlases/dialog/town/icon_giftbox",
+   "sheet": {
+    "h": 102,
+    "w": 102
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__town__icon_hammer",
+   "name": "Atlases/dialog/town/icon_hammer",
+   "sheet": {
+    "h": 62,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__town__icon_helpdesk",
+   "name": "Atlases/dialog/town/icon_helpdesk",
+   "sheet": {
+    "h": 44,
+    "w": 75
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__town__icon_info",
+   "name": "Atlases/dialog/town/icon_info",
+   "sheet": {
+    "h": 44,
+    "w": 62
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__town__icon_inven",
+   "name": "Atlases/dialog/town/icon_inven",
+   "sheet": {
+    "h": 102,
+    "w": 102
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__town__icon_multi",
+   "name": "Atlases/dialog/town/icon_multi",
+   "sheet": {
+    "h": 102,
+    "w": 102
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__town__icon_quest",
+   "name": "Atlases/dialog/town/icon_quest",
+   "sheet": {
+    "h": 44,
+    "w": 55
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__town__icon_zombie",
+   "name": "Atlases/dialog/town/icon_zombie",
+   "sheet": {
+    "h": 102,
+    "w": 102
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__town__icon_zombie2",
+   "name": "Atlases/dialog/town/icon_zombie2",
+   "sheet": {
+    "h": 62,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__town__img_celebration",
+   "name": "Atlases/dialog/town/img_celebration",
+   "sheet": {
+    "h": 89,
+    "w": 270
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__town__img_name",
+   "name": "Atlases/dialog/town/img_name",
+   "sheet": {
+    "h": 43,
+    "w": 27
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__town__img_plus",
+   "name": "Atlases/dialog/town/img_plus",
+   "sheet": {
+    "h": 18,
+    "w": 18
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__town__text_username",
+   "name": "Atlases/dialog/town/text_username",
+   "sheet": {
+    "h": 20,
+    "w": 104
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Atlases__dialog__zombie__bar_zombie",
+   "name": "Atlases/dialog/zombie/bar_zombie",
+   "sheet": {
+    "h": 34,
+    "w": 34
+   }
+  }
+ ],
+ "game": "bubblefighter-adventure",
+ "group": "010_ui",
+ "schema": "boomhill-open-assets/index/v1",
+ "title": "UI"
+}

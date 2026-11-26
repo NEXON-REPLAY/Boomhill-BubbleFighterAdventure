@@ -1,0 +1,2033 @@
+{
+ "category": "3d_weapon",
+ "game": "bubblefighter-adventure",
+ "items": [
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__item__item_aqua_e01.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       10.0,
+       10.0,
+       10.0
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__item__item_aqua_e01.glb",
+   "id": "grenade_Prototype_68105086",
+   "name": "grenade (Prototype)",
+   "thumb": "020_weapon/grenade_Prototype_68105086.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__item__item_aqua_e01.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       10.0,
+       10.0,
+       10.0
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__item__item_aqua_e01.glb",
+   "id": "item_aqua1",
+   "name": "item_aqua1",
+   "thumb": "020_weapon/item_aqua1.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_hammer_00.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       0.51778,
+       0.51778,
+       0.51778
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_hammer_00.glb",
+   "id": "w_hammer_00",
+   "name": "w_hammer_00",
+   "thumb": "020_weapon/w_hammer_00.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_hammer_01.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       1.0,
+       1.0,
+       1.0
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_hammer_01.glb",
+   "id": "w_hammer_01",
+   "name": "w_hammer_01",
+   "thumb": "020_weapon/w_hammer_01.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_hammer_02.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       0.51778,
+       0.51778,
+       0.51778
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_hammer_02.glb",
+   "id": "w_hammer_02",
+   "name": "w_hammer_02",
+   "thumb": "020_weapon/w_hammer_02.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_hammer_03.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       0.51778,
+       0.51778,
+       0.51778
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_hammer_03.glb",
+   "id": "w_hammer_03",
+   "name": "w_hammer_03",
+   "thumb": "020_weapon/w_hammer_03.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_hammer_04.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       0.51778,
+       0.51778,
+       0.51778
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_hammer_04.glb",
+   "id": "w_hammer_04",
+   "name": "w_hammer_04",
+   "thumb": "020_weapon/w_hammer_04.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Weapon__w_pistol_busterLV1.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       7.0,
+       7.0,
+       7.0
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Weapon__w_pistol_busterLV1.glb",
+   "id": "w_pistol_burstLV1",
+   "name": "w_pistol_burstLV1",
+   "thumb": "020_weapon/w_pistol_burstLV1.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Weapon__w_pistol_busterLV2.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       1.0,
+       1.0,
+       1.0
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Weapon__w_pistol_busterLV2.glb",
+   "id": "w_pistol_burstLV2",
+   "name": "w_pistol_burstLV2",
+   "thumb": "020_weapon/w_pistol_burstLV2.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_pistol_busterLV3.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       0.51778,
+       0.51778,
+       0.51778
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_pistol_busterLV3.glb",
+   "id": "w_pistol_burstLV3",
+   "name": "w_pistol_burstLV3",
+   "thumb": "020_weapon/w_pistol_burstLV3.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Weapon__w_pistol_cottonLV1.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       0.51778,
+       0.51778,
+       0.51778
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Weapon__w_pistol_cottonLV1.glb",
+   "id": "w_pistol_cottonLV1",
+   "name": "w_pistol_cottonLV1",
+   "thumb": "020_weapon/w_pistol_cottonLV1.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Weapon__w_pistol_cottonLV2.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       0.51778,
+       0.51778,
+       0.51778
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Weapon__w_pistol_cottonLV2.glb",
+   "id": "w_pistol_cottonLV2",
+   "name": "w_pistol_cottonLV2",
+   "thumb": "020_weapon/w_pistol_cottonLV2.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_pistol_cottonLV3.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       0.51778,
+       0.51778,
+       0.51778
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_pistol_cottonLV3.glb",
+   "id": "w_pistol_cottonLV3",
+   "name": "w_pistol_cottonLV3",
+   "thumb": "020_weapon/w_pistol_cottonLV3.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_pistol_practice.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       1.0,
+       1.0,
+       1.0
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_pistol_practice.glb",
+   "id": "w_pistol_practice",
+   "name": "w_pistol_practice",
+   "thumb": "020_weapon/w_pistol_practice.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Weapon__w_pistol_saverLV1.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       0.51778,
+       0.51778,
+       0.51778
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Weapon__w_pistol_saverLV1.glb",
+   "id": "w_pistol_saverLV1",
+   "name": "w_pistol_saverLV1",
+   "thumb": "020_weapon/w_pistol_saverLV1.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Weapon__w_pistol_saverLV2.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       0.51779,
+       0.51778,
+       0.51777
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Weapon__w_pistol_saverLV2.glb",
+   "id": "w_pistol_saverLV2",
+   "name": "w_pistol_saverLV2",
+   "thumb": "020_weapon/w_pistol_saverLV2.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_pistol_saverLV3.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       0.51779,
+       0.51778,
+       0.51777
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_pistol_saverLV3.glb",
+   "id": "w_pistol_saverLV3",
+   "name": "w_pistol_saverLV3",
+   "thumb": "020_weapon/w_pistol_saverLV3.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_rifle_burstLV1.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       0.38089,
+       0.38089,
+       0.38089
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_rifle_burstLV1.glb",
+   "id": "w_rifle_burstLV1",
+   "name": "w_rifle_burstLV1",
+   "thumb": "020_weapon/w_rifle_burstLV1.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_rifle_burstLV2.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       0.38089,
+       0.38089,
+       0.3809
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_rifle_burstLV2.glb",
+   "id": "w_rifle_burstLV2",
+   "name": "w_rifle_burstLV2",
+   "thumb": "020_weapon/w_rifle_burstLV2.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_rifle_burstLV3.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       0.38089,
+       0.38089,
+       0.3809
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_rifle_burstLV3.glb",
+   "id": "w_rifle_burstLV3",
+   "name": "w_rifle_burstLV3",
+   "thumb": "020_weapon/w_rifle_burstLV3.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_rifle_cottonLV1.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       1.0,
+       1.0,
+       1.0
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_rifle_cottonLV1.glb",
+   "id": "w_rifle_cottonLV1",
+   "name": "w_rifle_cottonLV1",
+   "thumb": "020_weapon/w_rifle_cottonLV1.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_rifle_cottonLV2.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       1.0,
+       1.0,
+       1.0
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_rifle_cottonLV2.glb",
+   "id": "w_rifle_cottonLV2",
+   "name": "w_rifle_cottonLV2",
+   "thumb": "020_weapon/w_rifle_cottonLV2.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_rifle_cottonLV3.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       0.38089,
+       0.38089,
+       0.38089
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_rifle_cottonLV3.glb",
+   "id": "w_rifle_cottonLV3",
+   "name": "w_rifle_cottonLV3",
+   "thumb": "020_weapon/w_rifle_cottonLV3.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_rifle_kt.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       1.0,
+       1.0,
+       1.0
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_rifle_kt.glb",
+   "id": "w_rifle_kt",
+   "name": "w_rifle_kt",
+   "thumb": "020_weapon/w_rifle_kt.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_rifle_practice.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       1.0,
+       1.0,
+       1.0
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_rifle_practice.glb",
+   "id": "w_rifle_practice",
+   "name": "w_rifle_practice",
+   "thumb": "020_weapon/w_rifle_practice.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Weapon__w_rifle_saverLV1.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       1.0,
+       1.0,
+       1.0
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Weapon__w_rifle_saverLV1.glb",
+   "id": "w_rifle_saverLV1",
+   "name": "w_rifle_saverLV1",
+   "thumb": "020_weapon/w_rifle_saverLV1.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Weapon__w_rifle_saverLV2.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       0.38089,
+       0.38089,
+       0.3809
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Weapon__w_rifle_saverLV2.glb",
+   "id": "w_rifle_saverLV2",
+   "name": "w_rifle_saverLV2",
+   "thumb": "020_weapon/w_rifle_saverLV2.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_rifle_saverLV3.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       0.38089,
+       0.38089,
+       0.3809
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_rifle_saverLV3.glb",
+   "id": "w_rifle_saverLV3",
+   "name": "w_rifle_saverLV3",
+   "thumb": "020_weapon/w_rifle_saverLV3.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Weapon__w_shotgun_burstLV1.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       1.0347,
+       1.0347,
+       1.0347
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Weapon__w_shotgun_burstLV1.glb",
+   "id": "w_shotgun_burstLV1",
+   "name": "w_shotgun_burstLV1",
+   "thumb": "020_weapon/w_shotgun_burstLV1.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Weapon__w_shotgun_burstLV2.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       1.0347,
+       1.0347,
+       1.0347
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Weapon__w_shotgun_burstLV2.glb",
+   "id": "w_shotgun_burstLV2",
+   "name": "w_shotgun_burstLV2",
+   "thumb": "020_weapon/w_shotgun_burstLV2.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_shotgun_burstLV3.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       1.0347,
+       1.0347,
+       1.0347
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_shotgun_burstLV3.glb",
+   "id": "w_shotgun_burstLV3",
+   "name": "w_shotgun_burstLV3",
+   "thumb": "020_weapon/w_shotgun_burstLV3.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Weapon__w_shotgun_cottonLV1.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       1.0347,
+       1.0347,
+       1.0347
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Weapon__w_shotgun_cottonLV1.glb",
+   "id": "w_shotgun_cottonLV1",
+   "name": "w_shotgun_cottonLV1",
+   "thumb": "020_weapon/w_shotgun_cottonLV1.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Weapon__w_shotgun_cottonLV2.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       1.0,
+       1.0,
+       1.0
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Weapon__w_shotgun_cottonLV2.glb",
+   "id": "w_shotgun_cottonLV2",
+   "name": "w_shotgun_cottonLV2",
+   "thumb": "020_weapon/w_shotgun_cottonLV2.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_shotgun_cottonLV3.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       1.0347,
+       1.0347,
+       1.0347
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_shotgun_cottonLV3.glb",
+   "id": "w_shotgun_cottonLV3",
+   "name": "w_shotgun_cottonLV3",
+   "thumb": "020_weapon/w_shotgun_cottonLV3.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Weapon__w_shotgun_practice.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       1.0347,
+       1.0347,
+       1.0347
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Weapon__w_shotgun_practice.glb",
+   "id": "w_shotgun_practice",
+   "name": "w_shotgun_practice",
+   "thumb": "020_weapon/w_shotgun_practice.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Weapon__w_shotgun_saverLV1.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       1.0347,
+       1.0347,
+       1.0347
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Weapon__w_shotgun_saverLV1.glb",
+   "id": "w_shotgun_saverLV1",
+   "name": "w_shotgun_saverLV1",
+   "thumb": "020_weapon/w_shotgun_saverLV1.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf_blender__Models__Weapon__w_shotgun_saverLV2.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       1.0347,
+       1.0347,
+       1.0347
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf_blender__Models__Weapon__w_shotgun_saverLV2.glb",
+   "id": "w_shotgun_saverLV2",
+   "name": "w_shotgun_saverLV2",
+   "thumb": "020_weapon/w_shotgun_saverLV2.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_shotgun_saverLV3.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       1.0347,
+       1.0347,
+       1.0347
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_shotgun_saverLV3.glb",
+   "id": "w_shotgun_saverLV3",
+   "name": "w_shotgun_saverLV3",
+   "thumb": "020_weapon/w_shotgun_saverLV3.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_sniper_burstLV1.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       1.07622,
+       1.07622,
+       1.07622
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_sniper_burstLV1.glb",
+   "id": "w_sniper_burstLV1",
+   "name": "w_sniper_burstLV1",
+   "thumb": "020_weapon/w_sniper_burstLV1.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_sniper_burstLV2.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       1.07622,
+       1.07622,
+       1.07622
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_sniper_burstLV2.glb",
+   "id": "w_sniper_burstLV2",
+   "name": "w_sniper_burstLV2",
+   "thumb": "020_weapon/w_sniper_burstLV2.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_sniper_cottonLV1.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       1.07622,
+       1.07622,
+       1.07622
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_sniper_cottonLV1.glb",
+   "id": "w_sniper_cottonLV1",
+   "name": "w_sniper_cottonLV1",
+   "thumb": "020_weapon/w_sniper_cottonLV1.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_sniper_cottonLV2.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       1.07622,
+       1.07622,
+       1.07622
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_sniper_cottonLV2.glb",
+   "id": "w_sniper_cottonLV2",
+   "name": "w_sniper_cottonLV2",
+   "thumb": "020_weapon/w_sniper_cottonLV2.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_sniper_practice.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       1.07622,
+       1.07622,
+       1.07622
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_sniper_practice.glb",
+   "id": "w_sniper_practice",
+   "name": "w_sniper_practice",
+   "thumb": "020_weapon/w_sniper_practice.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_sniper_saverLV1.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       1.07622,
+       1.07622,
+       1.07622
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_sniper_saverLV1.glb",
+   "id": "w_sniper_saverLV1",
+   "name": "w_sniper_saverLV1",
+   "thumb": "020_weapon/w_sniper_saverLV1.webp"
+  },
+  {
+   "assembly": {
+    "materials": [
+     {
+      "color": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "outline": 0.00200000009,
+      "outlineColor": [
+       0.0,
+       0.0,
+       0.0
+      ],
+      "ramp": "_shared/textures/toon_ramp_046919ef_87a9e8.png",
+      "tex": "_shared/textures/w_weaponAll_c300c1.png",
+      "tint": [
+       1.0,
+       1.0,
+       1.0
+      ],
+      "toon": true
+     }
+    ],
+    "parts": [
+     {
+      "glb": "_shared/parts/gltf__Models__Weapon__w_sniper_saverLV2.glb",
+      "mats": [
+       0
+      ],
+      "scale": [
+       1.07622,
+       1.07622,
+       1.07622
+      ]
+     }
+    ],
+    "type": "weapon"
+   },
+   "file": "_shared/parts/gltf__Models__Weapon__w_sniper_saverLV2.glb",
+   "id": "w_sniper_saverLV2",
+   "name": "w_sniper_saverLV2",
+   "thumb": "020_weapon/w_sniper_saverLV2.webp"
+  }
+ ],
+ "schema": "boomhill-open-assets/model-list/v1",
+ "title": "무기, 아이템"
+}
